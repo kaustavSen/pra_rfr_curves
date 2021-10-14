@@ -1,0 +1,7951 @@
+year,country,rate
+1,Euro,-0.00635
+1,Austria,NA
+1,Belgium,NA
+1,Bulgaria,NA
+1,Croatia,NA
+1,Cyprus,NA
+1,Czech Republic,NA
+1,Denmark,-0.00645
+1,Estonia,NA
+1,Finland,NA
+1,France,NA
+1,Germany,NA
+1,Greece,NA
+1,Hungary,NA
+1,Iceland,NA
+1,Ireland,NA
+1,Italy,NA
+1,Latvia,NA
+1,Liechtenstein,NA
+1,Lithuania,NA
+1,Luxembourg,NA
+1,Malta,NA
+1,Netherlands,NA
+1,Norway,0.00347
+1,Poland,NA
+1,Portugal,NA
+1,Romania,NA
+1,Russia,NA
+1,Slovakia,NA
+1,Slovenia,NA
+1,Spain,NA
+1,Sweden,-0.0017
+1,Switzerland,NA
+1,United Kingdom,-9.6e-4
+1,Australia,-6.2e-4
+1,Brazil,NA
+1,Canada,0.00221
+1,Chile,NA
+1,China,NA
+1,Colombia,NA
+1,Hong Kong,NA
+1,India,NA
+1,Japan,-0.00167
+1,Malaysia,NA
+1,Mexico,NA
+1,New Zealand,NA
+1,Singapore,NA
+1,South Africa,NA
+1,South Korea,NA
+1,Taiwan,NA
+1,Thailand,NA
+1,Turkey,NA
+1,United States,1.7e-4
+2,Euro,-0.00635
+2,Austria,NA
+2,Belgium,NA
+2,Bulgaria,NA
+2,Croatia,NA
+2,Cyprus,NA
+2,Czech Republic,NA
+2,Denmark,-0.00645
+2,Estonia,NA
+2,Finland,NA
+2,France,NA
+2,Germany,NA
+2,Greece,NA
+2,Hungary,NA
+2,Iceland,NA
+2,Ireland,NA
+2,Italy,NA
+2,Latvia,NA
+2,Liechtenstein,NA
+2,Lithuania,NA
+2,Luxembourg,NA
+2,Malta,NA
+2,Netherlands,NA
+2,Norway,0.00561
+2,Poland,NA
+2,Portugal,NA
+2,Romania,NA
+2,Russia,NA
+2,Slovakia,NA
+2,Slovenia,NA
+2,Spain,NA
+2,Sweden,-0.00152
+2,Switzerland,NA
+2,United Kingdom,1e-5
+2,Australia,-6e-5
+2,Brazil,NA
+2,Canada,0.00313
+2,Chile,NA
+2,China,NA
+2,Colombia,NA
+2,Hong Kong,NA
+2,India,NA
+2,Japan,-0.0016
+2,Malaysia,NA
+2,Mexico,NA
+2,New Zealand,NA
+2,Singapore,NA
+2,South Africa,NA
+2,South Korea,NA
+2,Taiwan,NA
+2,Thailand,NA
+2,Turkey,NA
+2,United States,3.2e-4
+3,Euro,-0.00615
+3,Austria,NA
+3,Belgium,NA
+3,Bulgaria,NA
+3,Croatia,NA
+3,Cyprus,NA
+3,Czech Republic,NA
+3,Denmark,-0.00625
+3,Estonia,NA
+3,Finland,NA
+3,France,NA
+3,Germany,NA
+3,Greece,NA
+3,Hungary,NA
+3,Iceland,NA
+3,Ireland,NA
+3,Italy,NA
+3,Latvia,NA
+3,Liechtenstein,NA
+3,Lithuania,NA
+3,Luxembourg,NA
+3,Malta,NA
+3,Netherlands,NA
+3,Norway,0.00701
+3,Poland,NA
+3,Portugal,NA
+3,Romania,NA
+3,Russia,NA
+3,Slovakia,NA
+3,Slovenia,NA
+3,Spain,NA
+3,Sweden,-0.00104
+3,Switzerland,NA
+3,United Kingdom,6.5e-4
+3,Australia,7.8e-4
+3,Brazil,NA
+3,Canada,0.00433
+3,Chile,NA
+3,China,NA
+3,Colombia,NA
+3,Hong Kong,NA
+3,India,NA
+3,Japan,-0.00159
+3,Malaysia,NA
+3,Mexico,NA
+3,New Zealand,NA
+3,Singapore,NA
+3,South Africa,NA
+3,South Korea,NA
+3,Taiwan,NA
+3,Thailand,NA
+3,Turkey,NA
+3,United States,0.00101
+4,Euro,-0.00584
+4,Austria,NA
+4,Belgium,NA
+4,Bulgaria,NA
+4,Croatia,NA
+4,Cyprus,NA
+4,Czech Republic,NA
+4,Denmark,-0.00594
+4,Estonia,NA
+4,Finland,NA
+4,France,NA
+4,Germany,NA
+4,Greece,NA
+4,Hungary,NA
+4,Iceland,NA
+4,Ireland,NA
+4,Italy,NA
+4,Latvia,NA
+4,Liechtenstein,NA
+4,Lithuania,NA
+4,Luxembourg,NA
+4,Malta,NA
+4,Netherlands,NA
+4,Norway,0.00823
+4,Poland,NA
+4,Portugal,NA
+4,Romania,NA
+4,Russia,NA
+4,Slovakia,NA
+4,Slovenia,NA
+4,Spain,NA
+4,Sweden,-4.2e-4
+4,Switzerland,NA
+4,United Kingdom,0.00128
+4,Australia,0.00204
+4,Brazil,NA
+4,Canada,0.00581
+4,Chile,NA
+4,China,NA
+4,Colombia,NA
+4,Hong Kong,NA
+4,India,NA
+4,Japan,-0.00154
+4,Malaysia,NA
+4,Mexico,NA
+4,New Zealand,NA
+4,Singapore,NA
+4,South Africa,NA
+4,South Korea,NA
+4,Taiwan,NA
+4,Thailand,NA
+4,Turkey,NA
+4,United States,0.00226
+5,Euro,-0.00536
+5,Austria,NA
+5,Belgium,NA
+5,Bulgaria,NA
+5,Croatia,NA
+5,Cyprus,NA
+5,Czech Republic,NA
+5,Denmark,-0.00546
+5,Estonia,NA
+5,Finland,NA
+5,France,NA
+5,Germany,NA
+5,Greece,NA
+5,Hungary,NA
+5,Iceland,NA
+5,Ireland,NA
+5,Italy,NA
+5,Latvia,NA
+5,Liechtenstein,NA
+5,Lithuania,NA
+5,Luxembourg,NA
+5,Malta,NA
+5,Netherlands,NA
+5,Norway,0.0093
+5,Poland,NA
+5,Portugal,NA
+5,Romania,NA
+5,Russia,NA
+5,Slovakia,NA
+5,Slovenia,NA
+5,Spain,NA
+5,Sweden,2.3e-4
+5,Switzerland,NA
+5,United Kingdom,0.00188
+5,Australia,0.00351
+5,Brazil,NA
+5,Canada,0.00713
+5,Chile,NA
+5,China,NA
+5,Colombia,NA
+5,Hong Kong,NA
+5,India,NA
+5,Japan,-0.00141
+5,Malaysia,NA
+5,Mexico,NA
+5,New Zealand,NA
+5,Singapore,NA
+5,South Africa,NA
+5,South Korea,NA
+5,Taiwan,NA
+5,Thailand,NA
+5,Turkey,NA
+5,United States,0.0037
+6,Euro,-0.00486
+6,Austria,NA
+6,Belgium,NA
+6,Bulgaria,NA
+6,Croatia,NA
+6,Cyprus,NA
+6,Czech Republic,NA
+6,Denmark,-0.00496
+6,Estonia,NA
+6,Finland,NA
+6,France,NA
+6,Germany,NA
+6,Greece,NA
+6,Hungary,NA
+6,Iceland,NA
+6,Ireland,NA
+6,Italy,NA
+6,Latvia,NA
+6,Liechtenstein,NA
+6,Lithuania,NA
+6,Luxembourg,NA
+6,Malta,NA
+6,Netherlands,NA
+6,Norway,0.01015
+6,Poland,NA
+6,Portugal,NA
+6,Romania,NA
+6,Russia,NA
+6,Slovakia,NA
+6,Slovenia,NA
+6,Spain,NA
+6,Sweden,8.8e-4
+6,Switzerland,NA
+6,United Kingdom,0.00244
+6,Australia,0.00503
+6,Brazil,NA
+6,Canada,0.00827
+6,Chile,NA
+6,China,NA
+6,Colombia,NA
+6,Hong Kong,NA
+6,India,NA
+6,Japan,-0.00126
+6,Malaysia,NA
+6,Mexico,NA
+6,New Zealand,NA
+6,Singapore,NA
+6,South Africa,NA
+6,South Korea,NA
+6,Taiwan,NA
+6,Thailand,NA
+6,Turkey,NA
+6,United States,0.00524
+7,Euro,-0.00446
+7,Austria,NA
+7,Belgium,NA
+7,Bulgaria,NA
+7,Croatia,NA
+7,Cyprus,NA
+7,Czech Republic,NA
+7,Denmark,-0.00457
+7,Estonia,NA
+7,Finland,NA
+7,France,NA
+7,Germany,NA
+7,Greece,NA
+7,Hungary,NA
+7,Iceland,NA
+7,Ireland,NA
+7,Italy,NA
+7,Latvia,NA
+7,Liechtenstein,NA
+7,Lithuania,NA
+7,Luxembourg,NA
+7,Malta,NA
+7,Netherlands,NA
+7,Norway,0.01088
+7,Poland,NA
+7,Portugal,NA
+7,Romania,NA
+7,Russia,NA
+7,Slovakia,NA
+7,Slovenia,NA
+7,Spain,NA
+7,Sweden,0.00156
+7,Switzerland,NA
+7,United Kingdom,0.00302
+7,Australia,0.00658
+7,Brazil,NA
+7,Canada,0.00937
+7,Chile,NA
+7,China,NA
+7,Colombia,NA
+7,Hong Kong,NA
+7,India,NA
+7,Japan,-0.00108
+7,Malaysia,NA
+7,Mexico,NA
+7,New Zealand,NA
+7,Singapore,NA
+7,South Africa,NA
+7,South Korea,NA
+7,Taiwan,NA
+7,Thailand,NA
+7,Turkey,NA
+7,United States,0.00656
+8,Euro,-0.00387
+8,Austria,NA
+8,Belgium,NA
+8,Bulgaria,NA
+8,Croatia,NA
+8,Cyprus,NA
+8,Czech Republic,NA
+8,Denmark,-0.00397
+8,Estonia,NA
+8,Finland,NA
+8,France,NA
+8,Germany,NA
+8,Greece,NA
+8,Hungary,NA
+8,Iceland,NA
+8,Ireland,NA
+8,Italy,NA
+8,Latvia,NA
+8,Liechtenstein,NA
+8,Lithuania,NA
+8,Luxembourg,NA
+8,Malta,NA
+8,Netherlands,NA
+8,Norway,0.01157
+8,Poland,NA
+8,Portugal,NA
+8,Romania,NA
+8,Russia,NA
+8,Slovakia,NA
+8,Slovenia,NA
+8,Spain,NA
+8,Sweden,0.00196
+8,Switzerland,NA
+8,United Kingdom,0.00353
+8,Australia,0.00812
+8,Brazil,NA
+8,Canada,0.01045
+8,Chile,NA
+8,China,NA
+8,Colombia,NA
+8,Hong Kong,NA
+8,India,NA
+8,Japan,-8.6e-4
+8,Malaysia,NA
+8,Mexico,NA
+8,New Zealand,NA
+8,Singapore,NA
+8,South Africa,NA
+8,South Korea,NA
+8,Taiwan,NA
+8,Thailand,NA
+8,Turkey,NA
+8,United States,0.00786
+9,Euro,-0.00337
+9,Austria,NA
+9,Belgium,NA
+9,Bulgaria,NA
+9,Croatia,NA
+9,Cyprus,NA
+9,Czech Republic,NA
+9,Denmark,-0.00347
+9,Estonia,NA
+9,Finland,NA
+9,France,NA
+9,Germany,NA
+9,Greece,NA
+9,Hungary,NA
+9,Iceland,NA
+9,Ireland,NA
+9,Italy,NA
+9,Latvia,NA
+9,Liechtenstein,NA
+9,Lithuania,NA
+9,Luxembourg,NA
+9,Malta,NA
+9,Netherlands,NA
+9,Norway,0.01226
+9,Poland,NA
+9,Portugal,NA
+9,Romania,NA
+9,Russia,NA
+9,Slovakia,NA
+9,Slovenia,NA
+9,Spain,NA
+9,Sweden,0.00246
+9,Switzerland,NA
+9,United Kingdom,0.00402
+9,Australia,0.00956
+9,Brazil,NA
+9,Canada,0.01143
+9,Chile,NA
+9,China,NA
+9,Colombia,NA
+9,Hong Kong,NA
+9,India,NA
+9,Japan,-6.3e-4
+9,Malaysia,NA
+9,Mexico,NA
+9,New Zealand,NA
+9,Singapore,NA
+9,South Africa,NA
+9,South Korea,NA
+9,Taiwan,NA
+9,Thailand,NA
+9,Turkey,NA
+9,United States,0.00888
+10,Euro,-0.00287
+10,Austria,NA
+10,Belgium,NA
+10,Bulgaria,NA
+10,Croatia,NA
+10,Cyprus,NA
+10,Czech Republic,NA
+10,Denmark,-0.00297
+10,Estonia,NA
+10,Finland,NA
+10,France,NA
+10,Germany,NA
+10,Greece,NA
+10,Hungary,NA
+10,Iceland,NA
+10,Ireland,NA
+10,Italy,NA
+10,Latvia,NA
+10,Liechtenstein,NA
+10,Lithuania,NA
+10,Luxembourg,NA
+10,Malta,NA
+10,Netherlands,NA
+10,Norway,0.01297
+10,Poland,NA
+10,Portugal,NA
+10,Romania,NA
+10,Russia,NA
+10,Slovakia,NA
+10,Slovenia,NA
+10,Spain,NA
+10,Sweden,0.00342
+10,Switzerland,NA
+10,United Kingdom,0.00448
+10,Australia,0.01084
+10,Brazil,NA
+10,Canada,0.01223
+10,Chile,NA
+10,China,NA
+10,Colombia,NA
+10,Hong Kong,NA
+10,India,NA
+10,Japan,-3.5e-4
+10,Malaysia,NA
+10,Mexico,NA
+10,New Zealand,NA
+10,Singapore,NA
+10,South Africa,NA
+10,South Korea,NA
+10,Taiwan,NA
+10,Thailand,NA
+10,Turkey,NA
+10,United States,0.00982
+11,Euro,-0.00241
+11,Austria,NA
+11,Belgium,NA
+11,Bulgaria,NA
+11,Croatia,NA
+11,Cyprus,NA
+11,Czech Republic,NA
+11,Denmark,-0.00251
+11,Estonia,NA
+11,Finland,NA
+11,France,NA
+11,Germany,NA
+11,Greece,NA
+11,Hungary,NA
+11,Iceland,NA
+11,Ireland,NA
+11,Italy,NA
+11,Latvia,NA
+11,Liechtenstein,NA
+11,Lithuania,NA
+11,Luxembourg,NA
+11,Malta,NA
+11,Netherlands,NA
+11,Norway,0.0137
+11,Poland,NA
+11,Portugal,NA
+11,Romania,NA
+11,Russia,NA
+11,Slovakia,NA
+11,Slovenia,NA
+11,Spain,NA
+11,Sweden,0.00499
+11,Switzerland,NA
+11,United Kingdom,0.00488
+11,Australia,0.01193
+11,Brazil,NA
+11,Canada,0.01283
+11,Chile,NA
+11,China,NA
+11,Colombia,NA
+11,Hong Kong,NA
+11,India,NA
+11,Japan,-7e-5
+11,Malaysia,NA
+11,Mexico,NA
+11,New Zealand,NA
+11,Singapore,NA
+11,South Africa,NA
+11,South Korea,NA
+11,Taiwan,NA
+11,Thailand,NA
+11,Turkey,NA
+11,United States,0.01063
+12,Euro,-0.00187
+12,Austria,NA
+12,Belgium,NA
+12,Bulgaria,NA
+12,Croatia,NA
+12,Cyprus,NA
+12,Czech Republic,NA
+12,Denmark,-0.00197
+12,Estonia,NA
+12,Finland,NA
+12,France,NA
+12,Germany,NA
+12,Greece,NA
+12,Hungary,NA
+12,Iceland,NA
+12,Ireland,NA
+12,Italy,NA
+12,Latvia,NA
+12,Liechtenstein,NA
+12,Lithuania,NA
+12,Luxembourg,NA
+12,Malta,NA
+12,Netherlands,NA
+12,Norway,0.01444
+12,Poland,NA
+12,Portugal,NA
+12,Romania,NA
+12,Russia,NA
+12,Slovakia,NA
+12,Slovenia,NA
+12,Spain,NA
+12,Sweden,0.00681
+12,Switzerland,NA
+12,United Kingdom,0.00521
+12,Australia,0.01285
+12,Brazil,NA
+12,Canada,0.01329
+12,Chile,NA
+12,China,NA
+12,Colombia,NA
+12,Hong Kong,NA
+12,India,NA
+12,Japan,2.3e-4
+12,Malaysia,NA
+12,Mexico,NA
+12,New Zealand,NA
+12,Singapore,NA
+12,South Africa,NA
+12,South Korea,NA
+12,Taiwan,NA
+12,Thailand,NA
+12,Turkey,NA
+12,United States,0.01131
+13,Euro,-0.00151
+13,Austria,NA
+13,Belgium,NA
+13,Bulgaria,NA
+13,Croatia,NA
+13,Cyprus,NA
+13,Czech Republic,NA
+13,Denmark,-0.00161
+13,Estonia,NA
+13,Finland,NA
+13,France,NA
+13,Germany,NA
+13,Greece,NA
+13,Hungary,NA
+13,Iceland,NA
+13,Ireland,NA
+13,Italy,NA
+13,Latvia,NA
+13,Liechtenstein,NA
+13,Lithuania,NA
+13,Luxembourg,NA
+13,Malta,NA
+13,Netherlands,NA
+13,Norway,0.01517
+13,Poland,NA
+13,Portugal,NA
+13,Romania,NA
+13,Russia,NA
+13,Slovakia,NA
+13,Slovenia,NA
+13,Spain,NA
+13,Sweden,0.00863
+13,Switzerland,NA
+13,United Kingdom,0.0055
+13,Australia,0.01365
+13,Brazil,NA
+13,Canada,0.01365
+13,Chile,NA
+13,China,NA
+13,Colombia,NA
+13,Hong Kong,NA
+13,India,NA
+13,Japan,5.4e-4
+13,Malaysia,NA
+13,Mexico,NA
+13,New Zealand,NA
+13,Singapore,NA
+13,South Africa,NA
+13,South Korea,NA
+13,Taiwan,NA
+13,Thailand,NA
+13,Turkey,NA
+13,United States,0.01188
+14,Euro,-0.00113
+14,Austria,NA
+14,Belgium,NA
+14,Bulgaria,NA
+14,Croatia,NA
+14,Cyprus,NA
+14,Czech Republic,NA
+14,Denmark,-0.00123
+14,Estonia,NA
+14,Finland,NA
+14,France,NA
+14,Germany,NA
+14,Greece,NA
+14,Hungary,NA
+14,Iceland,NA
+14,Ireland,NA
+14,Italy,NA
+14,Latvia,NA
+14,Liechtenstein,NA
+14,Lithuania,NA
+14,Luxembourg,NA
+14,Malta,NA
+14,Netherlands,NA
+14,Norway,0.01588
+14,Poland,NA
+14,Portugal,NA
+14,Romania,NA
+14,Russia,NA
+14,Slovakia,NA
+14,Slovenia,NA
+14,Spain,NA
+14,Sweden,0.01035
+14,Switzerland,NA
+14,United Kingdom,0.00575
+14,Australia,0.01432
+14,Brazil,NA
+14,Canada,0.01394
+14,Chile,NA
+14,China,NA
+14,Colombia,NA
+14,Hong Kong,NA
+14,India,NA
+14,Japan,8.7e-4
+14,Malaysia,NA
+14,Mexico,NA
+14,New Zealand,NA
+14,Singapore,NA
+14,South Africa,NA
+14,South Korea,NA
+14,Taiwan,NA
+14,Thailand,NA
+14,Turkey,NA
+14,United States,0.01236
+15,Euro,-7.9e-4
+15,Austria,NA
+15,Belgium,NA
+15,Bulgaria,NA
+15,Croatia,NA
+15,Cyprus,NA
+15,Czech Republic,NA
+15,Denmark,-8.9e-4
+15,Estonia,NA
+15,Finland,NA
+15,France,NA
+15,Germany,NA
+15,Greece,NA
+15,Hungary,NA
+15,Iceland,NA
+15,Ireland,NA
+15,Italy,NA
+15,Latvia,NA
+15,Liechtenstein,NA
+15,Lithuania,NA
+15,Luxembourg,NA
+15,Malta,NA
+15,Netherlands,NA
+15,Norway,0.01658
+15,Poland,NA
+15,Portugal,NA
+15,Romania,NA
+15,Russia,NA
+15,Slovakia,NA
+15,Slovenia,NA
+15,Spain,NA
+15,Sweden,0.01192
+15,Switzerland,NA
+15,United Kingdom,0.00596
+15,Australia,0.014880000000000001
+15,Brazil,NA
+15,Canada,0.0142
+15,Chile,NA
+15,China,NA
+15,Colombia,NA
+15,Hong Kong,NA
+15,India,NA
+15,Japan,0.00121
+15,Malaysia,NA
+15,Mexico,NA
+15,New Zealand,NA
+15,Singapore,NA
+15,South Africa,NA
+15,South Korea,NA
+15,Taiwan,NA
+15,Thailand,NA
+15,Turkey,NA
+15,United States,0.01277
+16,Euro,-6.1e-4
+16,Austria,NA
+16,Belgium,NA
+16,Bulgaria,NA
+16,Croatia,NA
+16,Cyprus,NA
+16,Czech Republic,NA
+16,Denmark,-7.1e-4
+16,Estonia,NA
+16,Finland,NA
+16,France,NA
+16,Germany,NA
+16,Greece,NA
+16,Hungary,NA
+16,Iceland,NA
+16,Ireland,NA
+16,Italy,NA
+16,Latvia,NA
+16,Liechtenstein,NA
+16,Lithuania,NA
+16,Luxembourg,NA
+16,Malta,NA
+16,Netherlands,NA
+16,Norway,0.01724
+16,Poland,NA
+16,Portugal,NA
+16,Romania,NA
+16,Russia,NA
+16,Slovakia,NA
+16,Slovenia,NA
+16,Spain,NA
+16,Sweden,0.01334
+16,Switzerland,NA
+16,United Kingdom,0.00612
+16,Australia,0.01534
+16,Brazil,NA
+16,Canada,0.01443
+16,Chile,NA
+16,China,NA
+16,Colombia,NA
+16,Hong Kong,NA
+16,India,NA
+16,Japan,0.00156
+16,Malaysia,NA
+16,Mexico,NA
+16,New Zealand,NA
+16,Singapore,NA
+16,South Africa,NA
+16,South Korea,NA
+16,Taiwan,NA
+16,Thailand,NA
+16,Turkey,NA
+16,United States,0.01313
+17,Euro,-5.1e-4
+17,Austria,NA
+17,Belgium,NA
+17,Bulgaria,NA
+17,Croatia,NA
+17,Cyprus,NA
+17,Czech Republic,NA
+17,Denmark,-6.1e-4
+17,Estonia,NA
+17,Finland,NA
+17,France,NA
+17,Germany,NA
+17,Greece,NA
+17,Hungary,NA
+17,Iceland,NA
+17,Ireland,NA
+17,Italy,NA
+17,Latvia,NA
+17,Liechtenstein,NA
+17,Lithuania,NA
+17,Luxembourg,NA
+17,Malta,NA
+17,Netherlands,NA
+17,Norway,0.01788
+17,Poland,NA
+17,Portugal,NA
+17,Romania,NA
+17,Russia,NA
+17,Slovakia,NA
+17,Slovenia,NA
+17,Spain,NA
+17,Sweden,0.01462
+17,Switzerland,NA
+17,United Kingdom,0.00626
+17,Australia,0.01573
+17,Brazil,NA
+17,Canada,0.01464
+17,Chile,NA
+17,China,NA
+17,Colombia,NA
+17,Hong Kong,NA
+17,India,NA
+17,Japan,0.00189
+17,Malaysia,NA
+17,Mexico,NA
+17,New Zealand,NA
+17,Singapore,NA
+17,South Africa,NA
+17,South Korea,NA
+17,Taiwan,NA
+17,Thailand,NA
+17,Turkey,NA
+17,United States,0.01343
+18,Euro,-3.7e-4
+18,Austria,NA
+18,Belgium,NA
+18,Bulgaria,NA
+18,Croatia,NA
+18,Cyprus,NA
+18,Czech Republic,NA
+18,Denmark,-4.8e-4
+18,Estonia,NA
+18,Finland,NA
+18,France,NA
+18,Germany,NA
+18,Greece,NA
+18,Hungary,NA
+18,Iceland,NA
+18,Ireland,NA
+18,Italy,NA
+18,Latvia,NA
+18,Liechtenstein,NA
+18,Lithuania,NA
+18,Luxembourg,NA
+18,Malta,NA
+18,Netherlands,NA
+18,Norway,0.01849
+18,Poland,NA
+18,Portugal,NA
+18,Romania,NA
+18,Russia,NA
+18,Slovakia,NA
+18,Slovenia,NA
+18,Spain,NA
+18,Sweden,0.01577
+18,Switzerland,NA
+18,United Kingdom,0.00637
+18,Australia,0.01605
+18,Brazil,NA
+18,Canada,0.01485
+18,Chile,NA
+18,China,NA
+18,Colombia,NA
+18,Hong Kong,NA
+18,India,NA
+18,Japan,0.00217
+18,Malaysia,NA
+18,Mexico,NA
+18,New Zealand,NA
+18,Singapore,NA
+18,South Africa,NA
+18,South Korea,NA
+18,Taiwan,NA
+18,Thailand,NA
+18,Turkey,NA
+18,United States,0.01369
+19,Euro,-1.5e-4
+19,Austria,NA
+19,Belgium,NA
+19,Bulgaria,NA
+19,Croatia,NA
+19,Cyprus,NA
+19,Czech Republic,NA
+19,Denmark,-2.6e-4
+19,Estonia,NA
+19,Finland,NA
+19,France,NA
+19,Germany,NA
+19,Greece,NA
+19,Hungary,NA
+19,Iceland,NA
+19,Ireland,NA
+19,Italy,NA
+19,Latvia,NA
+19,Liechtenstein,NA
+19,Lithuania,NA
+19,Luxembourg,NA
+19,Malta,NA
+19,Netherlands,NA
+19,Norway,0.01908
+19,Poland,NA
+19,Portugal,NA
+19,Romania,NA
+19,Russia,NA
+19,Slovakia,NA
+19,Slovenia,NA
+19,Spain,NA
+19,Sweden,0.01682
+19,Switzerland,NA
+19,United Kingdom,0.00645
+19,Australia,0.01634
+19,Brazil,NA
+19,Canada,0.01506
+19,Chile,NA
+19,China,NA
+19,Colombia,NA
+19,Hong Kong,NA
+19,India,NA
+19,Japan,0.0024
+19,Malaysia,NA
+19,Mexico,NA
+19,New Zealand,NA
+19,Singapore,NA
+19,South Africa,NA
+19,South Korea,NA
+19,Taiwan,NA
+19,Thailand,NA
+19,Turkey,NA
+19,United States,0.01391
+20,Euro,2e-4
+20,Austria,NA
+20,Belgium,NA
+20,Bulgaria,NA
+20,Croatia,NA
+20,Cyprus,NA
+20,Czech Republic,NA
+20,Denmark,1e-4
+20,Estonia,NA
+20,Finland,NA
+20,France,NA
+20,Germany,NA
+20,Greece,NA
+20,Hungary,NA
+20,Iceland,NA
+20,Ireland,NA
+20,Italy,NA
+20,Latvia,NA
+20,Liechtenstein,NA
+20,Lithuania,NA
+20,Luxembourg,NA
+20,Malta,NA
+20,Netherlands,NA
+20,Norway,0.01963
+20,Poland,NA
+20,Portugal,NA
+20,Romania,NA
+20,Russia,NA
+20,Slovakia,NA
+20,Slovenia,NA
+20,Spain,NA
+20,Sweden,0.01776
+20,Switzerland,NA
+20,United Kingdom,0.00652
+20,Australia,0.01659
+20,Brazil,NA
+20,Canada,0.01527
+20,Chile,NA
+20,China,NA
+20,Colombia,NA
+20,Hong Kong,NA
+20,India,NA
+20,Japan,0.00256
+20,Malaysia,NA
+20,Mexico,NA
+20,New Zealand,NA
+20,Singapore,NA
+20,South Africa,NA
+20,South Korea,NA
+20,Taiwan,NA
+20,Thailand,NA
+20,Turkey,NA
+20,United States,0.01409
+21,Euro,7.2e-4
+21,Austria,NA
+21,Belgium,NA
+21,Bulgaria,NA
+21,Croatia,NA
+21,Cyprus,NA
+21,Czech Republic,NA
+21,Denmark,6.2e-4
+21,Estonia,NA
+21,Finland,NA
+21,France,NA
+21,Germany,NA
+21,Greece,NA
+21,Hungary,NA
+21,Iceland,NA
+21,Ireland,NA
+21,Italy,NA
+21,Latvia,NA
+21,Liechtenstein,NA
+21,Lithuania,NA
+21,Luxembourg,NA
+21,Malta,NA
+21,Netherlands,NA
+21,Norway,0.02016
+21,Poland,NA
+21,Portugal,NA
+21,Romania,NA
+21,Russia,NA
+21,Slovakia,NA
+21,Slovenia,NA
+21,Spain,NA
+21,Sweden,0.01862
+21,Switzerland,NA
+21,United Kingdom,0.00657
+21,Australia,0.01681
+21,Brazil,NA
+21,Canada,0.01548
+21,Chile,NA
+21,China,NA
+21,Colombia,NA
+21,Hong Kong,NA
+21,India,NA
+21,Japan,0.00265
+21,Malaysia,NA
+21,Mexico,NA
+21,New Zealand,NA
+21,Singapore,NA
+21,South Africa,NA
+21,South Korea,NA
+21,Taiwan,NA
+21,Thailand,NA
+21,Turkey,NA
+21,United States,0.01423
+22,Euro,0.00134
+22,Austria,NA
+22,Belgium,NA
+22,Bulgaria,NA
+22,Croatia,NA
+22,Cyprus,NA
+22,Czech Republic,NA
+22,Denmark,0.00124
+22,Estonia,NA
+22,Finland,NA
+22,France,NA
+22,Germany,NA
+22,Greece,NA
+22,Hungary,NA
+22,Iceland,NA
+22,Ireland,NA
+22,Italy,NA
+22,Latvia,NA
+22,Liechtenstein,NA
+22,Lithuania,NA
+22,Luxembourg,NA
+22,Malta,NA
+22,Netherlands,NA
+22,Norway,0.02067
+22,Poland,NA
+22,Portugal,NA
+22,Romania,NA
+22,Russia,NA
+22,Slovakia,NA
+22,Slovenia,NA
+22,Spain,NA
+22,Sweden,0.0194
+22,Switzerland,NA
+22,United Kingdom,0.00661
+22,Australia,0.017
+22,Brazil,NA
+22,Canada,0.0157
+22,Chile,NA
+22,China,NA
+22,Colombia,NA
+22,Hong Kong,NA
+22,India,NA
+22,Japan,0.00271
+22,Malaysia,NA
+22,Mexico,NA
+22,New Zealand,NA
+22,Singapore,NA
+22,South Africa,NA
+22,South Korea,NA
+22,Taiwan,NA
+22,Thailand,NA
+22,Turkey,NA
+22,United States,0.01435
+23,Euro,0.00205
+23,Austria,NA
+23,Belgium,NA
+23,Bulgaria,NA
+23,Croatia,NA
+23,Cyprus,NA
+23,Czech Republic,NA
+23,Denmark,0.00195
+23,Estonia,NA
+23,Finland,NA
+23,France,NA
+23,Germany,NA
+23,Greece,NA
+23,Hungary,NA
+23,Iceland,NA
+23,Ireland,NA
+23,Italy,NA
+23,Latvia,NA
+23,Liechtenstein,NA
+23,Lithuania,NA
+23,Luxembourg,NA
+23,Malta,NA
+23,Netherlands,NA
+23,Norway,0.02115
+23,Poland,NA
+23,Portugal,NA
+23,Romania,NA
+23,Russia,NA
+23,Slovakia,NA
+23,Slovenia,NA
+23,Spain,NA
+23,Sweden,0.02011
+23,Switzerland,NA
+23,United Kingdom,0.00663
+23,Australia,0.01714
+23,Brazil,NA
+23,Canada,0.01592
+23,Chile,NA
+23,China,NA
+23,Colombia,NA
+23,Hong Kong,NA
+23,India,NA
+23,Japan,0.00276
+23,Malaysia,NA
+23,Mexico,NA
+23,New Zealand,NA
+23,Singapore,NA
+23,South Africa,NA
+23,South Korea,NA
+23,Taiwan,NA
+23,Thailand,NA
+23,Turkey,NA
+23,United States,0.01446
+24,Euro,0.0028
+24,Austria,NA
+24,Belgium,NA
+24,Bulgaria,NA
+24,Croatia,NA
+24,Cyprus,NA
+24,Czech Republic,NA
+24,Denmark,0.0027
+24,Estonia,NA
+24,Finland,NA
+24,France,NA
+24,Germany,NA
+24,Greece,NA
+24,Hungary,NA
+24,Iceland,NA
+24,Ireland,NA
+24,Italy,NA
+24,Latvia,NA
+24,Liechtenstein,NA
+24,Lithuania,NA
+24,Luxembourg,NA
+24,Malta,NA
+24,Netherlands,NA
+24,Norway,0.02161
+24,Poland,NA
+24,Portugal,NA
+24,Romania,NA
+24,Russia,NA
+24,Slovakia,NA
+24,Slovenia,NA
+24,Spain,NA
+24,Sweden,0.02077
+24,Switzerland,NA
+24,United Kingdom,0.00664
+24,Australia,0.01723
+24,Brazil,NA
+24,Canada,0.01616
+24,Chile,NA
+24,China,NA
+24,Colombia,NA
+24,Hong Kong,NA
+24,India,NA
+24,Japan,0.00283
+24,Malaysia,NA
+24,Mexico,NA
+24,New Zealand,NA
+24,Singapore,NA
+24,South Africa,NA
+24,South Korea,NA
+24,Taiwan,NA
+24,Thailand,NA
+24,Turkey,NA
+24,United States,0.01456
+25,Euro,0.00357
+25,Austria,NA
+25,Belgium,NA
+25,Bulgaria,NA
+25,Croatia,NA
+25,Cyprus,NA
+25,Czech Republic,NA
+25,Denmark,0.00348
+25,Estonia,NA
+25,Finland,NA
+25,France,NA
+25,Germany,NA
+25,Greece,NA
+25,Hungary,NA
+25,Iceland,NA
+25,Ireland,NA
+25,Italy,NA
+25,Latvia,NA
+25,Liechtenstein,NA
+25,Lithuania,NA
+25,Luxembourg,NA
+25,Malta,NA
+25,Netherlands,NA
+25,Norway,0.02204
+25,Poland,NA
+25,Portugal,NA
+25,Romania,NA
+25,Russia,NA
+25,Slovakia,NA
+25,Slovenia,NA
+25,Spain,NA
+25,Sweden,0.02138
+25,Switzerland,NA
+25,United Kingdom,0.00664
+25,Australia,0.01726
+25,Brazil,NA
+25,Canada,0.0164
+25,Chile,NA
+25,China,NA
+25,Colombia,NA
+25,Hong Kong,NA
+25,India,NA
+25,Japan,0.00292
+25,Malaysia,NA
+25,Mexico,NA
+25,New Zealand,NA
+25,Singapore,NA
+25,South Africa,NA
+25,South Korea,NA
+25,Taiwan,NA
+25,Thailand,NA
+25,Turkey,NA
+25,United States,0.01467
+26,Euro,0.00436
+26,Austria,NA
+26,Belgium,NA
+26,Bulgaria,NA
+26,Croatia,NA
+26,Cyprus,NA
+26,Czech Republic,NA
+26,Denmark,0.00427
+26,Estonia,NA
+26,Finland,NA
+26,France,NA
+26,Germany,NA
+26,Greece,NA
+26,Hungary,NA
+26,Iceland,NA
+26,Ireland,NA
+26,Italy,NA
+26,Latvia,NA
+26,Liechtenstein,NA
+26,Lithuania,NA
+26,Luxembourg,NA
+26,Malta,NA
+26,Netherlands,NA
+26,Norway,0.02246
+26,Poland,NA
+26,Portugal,NA
+26,Romania,NA
+26,Russia,NA
+26,Slovakia,NA
+26,Slovenia,NA
+26,Spain,NA
+26,Sweden,0.02193
+26,Switzerland,NA
+26,United Kingdom,0.00663
+26,Australia,0.01723
+26,Brazil,NA
+26,Canada,0.01666
+26,Chile,NA
+26,China,NA
+26,Colombia,NA
+26,Hong Kong,NA
+26,India,NA
+26,Japan,0.00305
+26,Malaysia,NA
+26,Mexico,NA
+26,New Zealand,NA
+26,Singapore,NA
+26,South Africa,NA
+26,South Korea,NA
+26,Taiwan,NA
+26,Thailand,NA
+26,Turkey,NA
+26,United States,0.01478
+27,Euro,0.00515
+27,Austria,NA
+27,Belgium,NA
+27,Bulgaria,NA
+27,Croatia,NA
+27,Cyprus,NA
+27,Czech Republic,NA
+27,Denmark,0.00506
+27,Estonia,NA
+27,Finland,NA
+27,France,NA
+27,Germany,NA
+27,Greece,NA
+27,Hungary,NA
+27,Iceland,NA
+27,Ireland,NA
+27,Italy,NA
+27,Latvia,NA
+27,Liechtenstein,NA
+27,Lithuania,NA
+27,Luxembourg,NA
+27,Malta,NA
+27,Netherlands,NA
+27,Norway,0.02285
+27,Poland,NA
+27,Portugal,NA
+27,Romania,NA
+27,Russia,NA
+27,Slovakia,NA
+27,Slovenia,NA
+27,Spain,NA
+27,Sweden,0.02245
+27,Switzerland,NA
+27,United Kingdom,0.00662
+27,Australia,0.01719
+27,Brazil,NA
+27,Canada,0.01692
+27,Chile,NA
+27,China,NA
+27,Colombia,NA
+27,Hong Kong,NA
+27,India,NA
+27,Japan,0.00323
+27,Malaysia,NA
+27,Mexico,NA
+27,New Zealand,NA
+27,Singapore,NA
+27,South Africa,NA
+27,South Korea,NA
+27,Taiwan,NA
+27,Thailand,NA
+27,Turkey,NA
+27,United States,0.014880000000000001
+28,Euro,0.00593
+28,Austria,NA
+28,Belgium,NA
+28,Bulgaria,NA
+28,Croatia,NA
+28,Cyprus,NA
+28,Czech Republic,NA
+28,Denmark,0.00584
+28,Estonia,NA
+28,Finland,NA
+28,France,NA
+28,Germany,NA
+28,Greece,NA
+28,Hungary,NA
+28,Iceland,NA
+28,Ireland,NA
+28,Italy,NA
+28,Latvia,NA
+28,Liechtenstein,NA
+28,Lithuania,NA
+28,Luxembourg,NA
+28,Malta,NA
+28,Netherlands,NA
+28,Norway,0.02323
+28,Poland,NA
+28,Portugal,NA
+28,Romania,NA
+28,Russia,NA
+28,Slovakia,NA
+28,Slovenia,NA
+28,Spain,NA
+28,Sweden,0.02293
+28,Switzerland,NA
+28,United Kingdom,0.0066
+28,Australia,0.01715
+28,Brazil,NA
+28,Canada,0.0172
+28,Chile,NA
+28,China,NA
+28,Colombia,NA
+28,Hong Kong,NA
+28,India,NA
+28,Japan,0.00347
+28,Malaysia,NA
+28,Mexico,NA
+28,New Zealand,NA
+28,Singapore,NA
+28,South Africa,NA
+28,South Korea,NA
+28,Taiwan,NA
+28,Thailand,NA
+28,Turkey,NA
+28,United States,0.01494
+29,Euro,0.00669
+29,Austria,NA
+29,Belgium,NA
+29,Bulgaria,NA
+29,Croatia,NA
+29,Cyprus,NA
+29,Czech Republic,NA
+29,Denmark,0.00661
+29,Estonia,NA
+29,Finland,NA
+29,France,NA
+29,Germany,NA
+29,Greece,NA
+29,Hungary,NA
+29,Iceland,NA
+29,Ireland,NA
+29,Italy,NA
+29,Latvia,NA
+29,Liechtenstein,NA
+29,Lithuania,NA
+29,Luxembourg,NA
+29,Malta,NA
+29,Netherlands,NA
+29,Norway,0.02359
+29,Poland,NA
+29,Portugal,NA
+29,Romania,NA
+29,Russia,NA
+29,Slovakia,NA
+29,Slovenia,NA
+29,Spain,NA
+29,Sweden,0.02338
+29,Switzerland,NA
+29,United Kingdom,0.00658
+29,Australia,0.01715
+29,Brazil,NA
+29,Canada,0.01749
+29,Chile,NA
+29,China,NA
+29,Colombia,NA
+29,Hong Kong,NA
+29,India,NA
+29,Japan,0.00376
+29,Malaysia,NA
+29,Mexico,NA
+29,New Zealand,NA
+29,Singapore,NA
+29,South Africa,NA
+29,South Korea,NA
+29,Taiwan,NA
+29,Thailand,NA
+29,Turkey,NA
+29,United States,0.01494
+30,Euro,0.0074400000000000004
+30,Austria,NA
+30,Belgium,NA
+30,Bulgaria,NA
+30,Croatia,NA
+30,Cyprus,NA
+30,Czech Republic,NA
+30,Denmark,0.00736
+30,Estonia,NA
+30,Finland,NA
+30,France,NA
+30,Germany,NA
+30,Greece,NA
+30,Hungary,NA
+30,Iceland,NA
+30,Ireland,NA
+30,Italy,NA
+30,Latvia,NA
+30,Liechtenstein,NA
+30,Lithuania,NA
+30,Luxembourg,NA
+30,Malta,NA
+30,Netherlands,NA
+30,Norway,0.02393
+30,Poland,NA
+30,Portugal,NA
+30,Romania,NA
+30,Russia,NA
+30,Slovakia,NA
+30,Slovenia,NA
+30,Spain,NA
+30,Sweden,0.0238
+30,Switzerland,NA
+30,United Kingdom,0.00655
+30,Australia,0.0172
+30,Brazil,NA
+30,Canada,0.01779
+30,Chile,NA
+30,China,NA
+30,Colombia,NA
+30,Hong Kong,NA
+30,India,NA
+30,Japan,0.00412
+30,Malaysia,NA
+30,Mexico,NA
+30,New Zealand,NA
+30,Singapore,NA
+30,South Africa,NA
+30,South Korea,NA
+30,Taiwan,NA
+30,Thailand,NA
+30,Turkey,NA
+30,United States,0.014880000000000001
+31,Euro,0.00817
+31,Austria,NA
+31,Belgium,NA
+31,Bulgaria,NA
+31,Croatia,NA
+31,Cyprus,NA
+31,Czech Republic,NA
+31,Denmark,0.00809
+31,Estonia,NA
+31,Finland,NA
+31,France,NA
+31,Germany,NA
+31,Greece,NA
+31,Hungary,NA
+31,Iceland,NA
+31,Ireland,NA
+31,Italy,NA
+31,Latvia,NA
+31,Liechtenstein,NA
+31,Lithuania,NA
+31,Luxembourg,NA
+31,Malta,NA
+31,Netherlands,NA
+31,Norway,0.02426
+31,Poland,NA
+31,Portugal,NA
+31,Romania,NA
+31,Russia,NA
+31,Slovakia,NA
+31,Slovenia,NA
+31,Spain,NA
+31,Sweden,0.02419
+31,Switzerland,NA
+31,United Kingdom,0.00653
+31,Australia,0.01731
+31,Brazil,NA
+31,Canada,0.01811
+31,Chile,NA
+31,China,NA
+31,Colombia,NA
+31,Hong Kong,NA
+31,India,NA
+31,Japan,0.00453
+31,Malaysia,NA
+31,Mexico,NA
+31,New Zealand,NA
+31,Singapore,NA
+31,South Africa,NA
+31,South Korea,NA
+31,Taiwan,NA
+31,Thailand,NA
+31,Turkey,NA
+31,United States,0.01474
+32,Euro,0.00887
+32,Austria,NA
+32,Belgium,NA
+32,Bulgaria,NA
+32,Croatia,NA
+32,Cyprus,NA
+32,Czech Republic,NA
+32,Denmark,0.0088
+32,Estonia,NA
+32,Finland,NA
+32,France,NA
+32,Germany,NA
+32,Greece,NA
+32,Hungary,NA
+32,Iceland,NA
+32,Ireland,NA
+32,Italy,NA
+32,Latvia,NA
+32,Liechtenstein,NA
+32,Lithuania,NA
+32,Luxembourg,NA
+32,Malta,NA
+32,Netherlands,NA
+32,Norway,0.02457
+32,Poland,NA
+32,Portugal,NA
+32,Romania,NA
+32,Russia,NA
+32,Slovakia,NA
+32,Slovenia,NA
+32,Spain,NA
+32,Sweden,0.02456
+32,Switzerland,NA
+32,United Kingdom,0.0065
+32,Australia,0.01748
+32,Brazil,NA
+32,Canada,0.01843
+32,Chile,NA
+32,China,NA
+32,Colombia,NA
+32,Hong Kong,NA
+32,India,NA
+32,Japan,0.005
+32,Malaysia,NA
+32,Mexico,NA
+32,New Zealand,NA
+32,Singapore,NA
+32,South Africa,NA
+32,South Korea,NA
+32,Taiwan,NA
+32,Thailand,NA
+32,Turkey,NA
+32,United States,0.01455
+33,Euro,0.00955
+33,Austria,NA
+33,Belgium,NA
+33,Bulgaria,NA
+33,Croatia,NA
+33,Cyprus,NA
+33,Czech Republic,NA
+33,Denmark,0.00948
+33,Estonia,NA
+33,Finland,NA
+33,France,NA
+33,Germany,NA
+33,Greece,NA
+33,Hungary,NA
+33,Iceland,NA
+33,Ireland,NA
+33,Italy,NA
+33,Latvia,NA
+33,Liechtenstein,NA
+33,Lithuania,NA
+33,Luxembourg,NA
+33,Malta,NA
+33,Netherlands,NA
+33,Norway,0.02487
+33,Poland,NA
+33,Portugal,NA
+33,Romania,NA
+33,Russia,NA
+33,Slovakia,NA
+33,Slovenia,NA
+33,Spain,NA
+33,Sweden,0.0249
+33,Switzerland,NA
+33,United Kingdom,0.00646
+33,Australia,0.01769
+33,Brazil,NA
+33,Canada,0.01876
+33,Chile,NA
+33,China,NA
+33,Colombia,NA
+33,Hong Kong,NA
+33,India,NA
+33,Japan,0.00549
+33,Malaysia,NA
+33,Mexico,NA
+33,New Zealand,NA
+33,Singapore,NA
+33,South Africa,NA
+33,South Korea,NA
+33,Taiwan,NA
+33,Thailand,NA
+33,Turkey,NA
+33,United States,0.01434
+34,Euro,0.01021
+34,Austria,NA
+34,Belgium,NA
+34,Bulgaria,NA
+34,Croatia,NA
+34,Cyprus,NA
+34,Czech Republic,NA
+34,Denmark,0.01014
+34,Estonia,NA
+34,Finland,NA
+34,France,NA
+34,Germany,NA
+34,Greece,NA
+34,Hungary,NA
+34,Iceland,NA
+34,Ireland,NA
+34,Italy,NA
+34,Latvia,NA
+34,Liechtenstein,NA
+34,Lithuania,NA
+34,Luxembourg,NA
+34,Malta,NA
+34,Netherlands,NA
+34,Norway,0.02515
+34,Poland,NA
+34,Portugal,NA
+34,Romania,NA
+34,Russia,NA
+34,Slovakia,NA
+34,Slovenia,NA
+34,Spain,NA
+34,Sweden,0.02523
+34,Switzerland,NA
+34,United Kingdom,0.00642
+34,Australia,0.01793
+34,Brazil,NA
+34,Canada,0.0191
+34,Chile,NA
+34,China,NA
+34,Colombia,NA
+34,Hong Kong,NA
+34,India,NA
+34,Japan,0.00601
+34,Malaysia,NA
+34,Mexico,NA
+34,New Zealand,NA
+34,Singapore,NA
+34,South Africa,NA
+34,South Korea,NA
+34,Taiwan,NA
+34,Thailand,NA
+34,Turkey,NA
+34,United States,0.01411
+35,Euro,0.01085
+35,Austria,NA
+35,Belgium,NA
+35,Bulgaria,NA
+35,Croatia,NA
+35,Cyprus,NA
+35,Czech Republic,NA
+35,Denmark,0.01078
+35,Estonia,NA
+35,Finland,NA
+35,France,NA
+35,Germany,NA
+35,Greece,NA
+35,Hungary,NA
+35,Iceland,NA
+35,Ireland,NA
+35,Italy,NA
+35,Latvia,NA
+35,Liechtenstein,NA
+35,Lithuania,NA
+35,Luxembourg,NA
+35,Malta,NA
+35,Netherlands,NA
+35,Norway,0.02543
+35,Poland,NA
+35,Portugal,NA
+35,Romania,NA
+35,Russia,NA
+35,Slovakia,NA
+35,Slovenia,NA
+35,Spain,NA
+35,Sweden,0.02553
+35,Switzerland,NA
+35,United Kingdom,0.00637
+35,Australia,0.01819
+35,Brazil,NA
+35,Canada,0.01943
+35,Chile,NA
+35,China,NA
+35,Colombia,NA
+35,Hong Kong,NA
+35,India,NA
+35,Japan,0.00654
+35,Malaysia,NA
+35,Mexico,NA
+35,New Zealand,NA
+35,Singapore,NA
+35,South Africa,NA
+35,South Korea,NA
+35,Taiwan,NA
+35,Thailand,NA
+35,Turkey,NA
+35,United States,0.01389
+36,Euro,0.01146
+36,Austria,NA
+36,Belgium,NA
+36,Bulgaria,NA
+36,Croatia,NA
+36,Cyprus,NA
+36,Czech Republic,NA
+36,Denmark,0.01139
+36,Estonia,NA
+36,Finland,NA
+36,France,NA
+36,Germany,NA
+36,Greece,NA
+36,Hungary,NA
+36,Iceland,NA
+36,Ireland,NA
+36,Italy,NA
+36,Latvia,NA
+36,Liechtenstein,NA
+36,Lithuania,NA
+36,Luxembourg,NA
+36,Malta,NA
+36,Netherlands,NA
+36,Norway,0.02569
+36,Poland,NA
+36,Portugal,NA
+36,Romania,NA
+36,Russia,NA
+36,Slovakia,NA
+36,Slovenia,NA
+36,Spain,NA
+36,Sweden,0.02582
+36,Switzerland,NA
+36,United Kingdom,0.0063
+36,Australia,0.01846
+36,Brazil,NA
+36,Canada,0.01975
+36,Chile,NA
+36,China,NA
+36,Colombia,NA
+36,Hong Kong,NA
+36,India,NA
+36,Japan,0.00708
+36,Malaysia,NA
+36,Mexico,NA
+36,New Zealand,NA
+36,Singapore,NA
+36,South Africa,NA
+36,South Korea,NA
+36,Taiwan,NA
+36,Thailand,NA
+36,Turkey,NA
+36,United States,0.01367
+37,Euro,0.01205
+37,Austria,NA
+37,Belgium,NA
+37,Bulgaria,NA
+37,Croatia,NA
+37,Cyprus,NA
+37,Czech Republic,NA
+37,Denmark,0.01198
+37,Estonia,NA
+37,Finland,NA
+37,France,NA
+37,Germany,NA
+37,Greece,NA
+37,Hungary,NA
+37,Iceland,NA
+37,Ireland,NA
+37,Italy,NA
+37,Latvia,NA
+37,Liechtenstein,NA
+37,Lithuania,NA
+37,Luxembourg,NA
+37,Malta,NA
+37,Netherlands,NA
+37,Norway,0.02594
+37,Poland,NA
+37,Portugal,NA
+37,Romania,NA
+37,Russia,NA
+37,Slovakia,NA
+37,Slovenia,NA
+37,Spain,NA
+37,Sweden,0.0261
+37,Switzerland,NA
+37,United Kingdom,0.00622
+37,Australia,0.01875
+37,Brazil,NA
+37,Canada,0.02008
+37,Chile,NA
+37,China,NA
+37,Colombia,NA
+37,Hong Kong,NA
+37,India,NA
+37,Japan,0.00762
+37,Malaysia,NA
+37,Mexico,NA
+37,New Zealand,NA
+37,Singapore,NA
+37,South Africa,NA
+37,South Korea,NA
+37,Taiwan,NA
+37,Thailand,NA
+37,Turkey,NA
+37,United States,0.01348
+38,Euro,0.01262
+38,Austria,NA
+38,Belgium,NA
+38,Bulgaria,NA
+38,Croatia,NA
+38,Cyprus,NA
+38,Czech Republic,NA
+38,Denmark,0.01255
+38,Estonia,NA
+38,Finland,NA
+38,France,NA
+38,Germany,NA
+38,Greece,NA
+38,Hungary,NA
+38,Iceland,NA
+38,Ireland,NA
+38,Italy,NA
+38,Latvia,NA
+38,Liechtenstein,NA
+38,Lithuania,NA
+38,Luxembourg,NA
+38,Malta,NA
+38,Netherlands,NA
+38,Norway,0.02617
+38,Poland,NA
+38,Portugal,NA
+38,Romania,NA
+38,Russia,NA
+38,Slovakia,NA
+38,Slovenia,NA
+38,Spain,NA
+38,Sweden,0.02635
+38,Switzerland,NA
+38,United Kingdom,0.00613
+38,Australia,0.01905
+38,Brazil,NA
+38,Canada,0.0204
+38,Chile,NA
+38,China,NA
+38,Colombia,NA
+38,Hong Kong,NA
+38,India,NA
+38,Japan,0.00816
+38,Malaysia,NA
+38,Mexico,NA
+38,New Zealand,NA
+38,Singapore,NA
+38,South Africa,NA
+38,South Korea,NA
+38,Taiwan,NA
+38,Thailand,NA
+38,Turkey,NA
+38,United States,0.0133
+39,Euro,0.01316
+39,Austria,NA
+39,Belgium,NA
+39,Bulgaria,NA
+39,Croatia,NA
+39,Cyprus,NA
+39,Czech Republic,NA
+39,Denmark,0.0131
+39,Estonia,NA
+39,Finland,NA
+39,France,NA
+39,Germany,NA
+39,Greece,NA
+39,Hungary,NA
+39,Iceland,NA
+39,Ireland,NA
+39,Italy,NA
+39,Latvia,NA
+39,Liechtenstein,NA
+39,Lithuania,NA
+39,Luxembourg,NA
+39,Malta,NA
+39,Netherlands,NA
+39,Norway,0.0264
+39,Poland,NA
+39,Portugal,NA
+39,Romania,NA
+39,Russia,NA
+39,Slovakia,NA
+39,Slovenia,NA
+39,Spain,NA
+39,Sweden,0.0266
+39,Switzerland,NA
+39,United Kingdom,0.00601
+39,Australia,0.01934
+39,Brazil,NA
+39,Canada,0.02071
+39,Chile,NA
+39,China,NA
+39,Colombia,NA
+39,Hong Kong,NA
+39,India,NA
+39,Japan,0.00869
+39,Malaysia,NA
+39,Mexico,NA
+39,New Zealand,NA
+39,Singapore,NA
+39,South Africa,NA
+39,South Korea,NA
+39,Taiwan,NA
+39,Thailand,NA
+39,Turkey,NA
+39,United States,0.01315
+40,Euro,0.01369
+40,Austria,NA
+40,Belgium,NA
+40,Bulgaria,NA
+40,Croatia,NA
+40,Cyprus,NA
+40,Czech Republic,NA
+40,Denmark,0.01362
+40,Estonia,NA
+40,Finland,NA
+40,France,NA
+40,Germany,NA
+40,Greece,NA
+40,Hungary,NA
+40,Iceland,NA
+40,Ireland,NA
+40,Italy,NA
+40,Latvia,NA
+40,Liechtenstein,NA
+40,Lithuania,NA
+40,Luxembourg,NA
+40,Malta,NA
+40,Netherlands,NA
+40,Norway,0.02662
+40,Poland,NA
+40,Portugal,NA
+40,Romania,NA
+40,Russia,NA
+40,Slovakia,NA
+40,Slovenia,NA
+40,Spain,NA
+40,Sweden,0.02683
+40,Switzerland,NA
+40,United Kingdom,0.00587
+40,Australia,0.01964
+40,Brazil,NA
+40,Canada,0.02101
+40,Chile,NA
+40,China,NA
+40,Colombia,NA
+40,Hong Kong,NA
+40,India,NA
+40,Japan,0.00921
+40,Malaysia,NA
+40,Mexico,NA
+40,New Zealand,NA
+40,Singapore,NA
+40,South Africa,NA
+40,South Korea,NA
+40,Taiwan,NA
+40,Thailand,NA
+40,Turkey,NA
+40,United States,0.01303
+41,Euro,0.01419
+41,Austria,NA
+41,Belgium,NA
+41,Bulgaria,NA
+41,Croatia,NA
+41,Cyprus,NA
+41,Czech Republic,NA
+41,Denmark,0.01413
+41,Estonia,NA
+41,Finland,NA
+41,France,NA
+41,Germany,NA
+41,Greece,NA
+41,Hungary,NA
+41,Iceland,NA
+41,Ireland,NA
+41,Italy,NA
+41,Latvia,NA
+41,Liechtenstein,NA
+41,Lithuania,NA
+41,Luxembourg,NA
+41,Malta,NA
+41,Netherlands,NA
+41,Norway,0.02683
+41,Poland,NA
+41,Portugal,NA
+41,Romania,NA
+41,Russia,NA
+41,Slovakia,NA
+41,Slovenia,NA
+41,Spain,NA
+41,Sweden,0.02706
+41,Switzerland,NA
+41,United Kingdom,0.00571
+41,Australia,0.01994
+41,Brazil,NA
+41,Canada,0.02131
+41,Chile,NA
+41,China,NA
+41,Colombia,NA
+41,Hong Kong,NA
+41,India,NA
+41,Japan,0.00972
+41,Malaysia,NA
+41,Mexico,NA
+41,New Zealand,NA
+41,Singapore,NA
+41,South Africa,NA
+41,South Korea,NA
+41,Taiwan,NA
+41,Thailand,NA
+41,Turkey,NA
+41,United States,0.01293
+42,Euro,0.01467
+42,Austria,NA
+42,Belgium,NA
+42,Bulgaria,NA
+42,Croatia,NA
+42,Cyprus,NA
+42,Czech Republic,NA
+42,Denmark,0.01461
+42,Estonia,NA
+42,Finland,NA
+42,France,NA
+42,Germany,NA
+42,Greece,NA
+42,Hungary,NA
+42,Iceland,NA
+42,Ireland,NA
+42,Italy,NA
+42,Latvia,NA
+42,Liechtenstein,NA
+42,Lithuania,NA
+42,Luxembourg,NA
+42,Malta,NA
+42,Netherlands,NA
+42,Norway,0.02704
+42,Poland,NA
+42,Portugal,NA
+42,Romania,NA
+42,Russia,NA
+42,Slovakia,NA
+42,Slovenia,NA
+42,Spain,NA
+42,Sweden,0.02727
+42,Switzerland,NA
+42,United Kingdom,0.00555
+42,Australia,0.02023
+42,Brazil,NA
+42,Canada,0.0216
+42,Chile,NA
+42,China,NA
+42,Colombia,NA
+42,Hong Kong,NA
+42,India,NA
+42,Japan,0.01022
+42,Malaysia,NA
+42,Mexico,NA
+42,New Zealand,NA
+42,Singapore,NA
+42,South Africa,NA
+42,South Korea,NA
+42,Taiwan,NA
+42,Thailand,NA
+42,Turkey,NA
+42,United States,0.01287
+43,Euro,0.01514
+43,Austria,NA
+43,Belgium,NA
+43,Bulgaria,NA
+43,Croatia,NA
+43,Cyprus,NA
+43,Czech Republic,NA
+43,Denmark,0.01508
+43,Estonia,NA
+43,Finland,NA
+43,France,NA
+43,Germany,NA
+43,Greece,NA
+43,Hungary,NA
+43,Iceland,NA
+43,Ireland,NA
+43,Italy,NA
+43,Latvia,NA
+43,Liechtenstein,NA
+43,Lithuania,NA
+43,Luxembourg,NA
+43,Malta,NA
+43,Netherlands,NA
+43,Norway,0.02723
+43,Poland,NA
+43,Portugal,NA
+43,Romania,NA
+43,Russia,NA
+43,Slovakia,NA
+43,Slovenia,NA
+43,Spain,NA
+43,Sweden,0.02747
+43,Switzerland,NA
+43,United Kingdom,0.0054
+43,Australia,0.02052
+43,Brazil,NA
+43,Canada,0.02189
+43,Chile,NA
+43,China,NA
+43,Colombia,NA
+43,Hong Kong,NA
+43,India,NA
+43,Japan,0.01071
+43,Malaysia,NA
+43,Mexico,NA
+43,New Zealand,NA
+43,Singapore,NA
+43,South Africa,NA
+43,South Korea,NA
+43,Taiwan,NA
+43,Thailand,NA
+43,Turkey,NA
+43,United States,0.01283
+44,Euro,0.01559
+44,Austria,NA
+44,Belgium,NA
+44,Bulgaria,NA
+44,Croatia,NA
+44,Cyprus,NA
+44,Czech Republic,NA
+44,Denmark,0.01553
+44,Estonia,NA
+44,Finland,NA
+44,France,NA
+44,Germany,NA
+44,Greece,NA
+44,Hungary,NA
+44,Iceland,NA
+44,Ireland,NA
+44,Italy,NA
+44,Latvia,NA
+44,Liechtenstein,NA
+44,Lithuania,NA
+44,Luxembourg,NA
+44,Malta,NA
+44,Netherlands,NA
+44,Norway,0.02742
+44,Poland,NA
+44,Portugal,NA
+44,Romania,NA
+44,Russia,NA
+44,Slovakia,NA
+44,Slovenia,NA
+44,Spain,NA
+44,Sweden,0.02766
+44,Switzerland,NA
+44,United Kingdom,0.00528
+44,Australia,0.02081
+44,Brazil,NA
+44,Canada,0.02216
+44,Chile,NA
+44,China,NA
+44,Colombia,NA
+44,Hong Kong,NA
+44,India,NA
+44,Japan,0.01119
+44,Malaysia,NA
+44,Mexico,NA
+44,New Zealand,NA
+44,Singapore,NA
+44,South Africa,NA
+44,South Korea,NA
+44,Taiwan,NA
+44,Thailand,NA
+44,Turkey,NA
+44,United States,0.01282
+45,Euro,0.01602
+45,Austria,NA
+45,Belgium,NA
+45,Bulgaria,NA
+45,Croatia,NA
+45,Cyprus,NA
+45,Czech Republic,NA
+45,Denmark,0.01596
+45,Estonia,NA
+45,Finland,NA
+45,France,NA
+45,Germany,NA
+45,Greece,NA
+45,Hungary,NA
+45,Iceland,NA
+45,Ireland,NA
+45,Italy,NA
+45,Latvia,NA
+45,Liechtenstein,NA
+45,Lithuania,NA
+45,Luxembourg,NA
+45,Malta,NA
+45,Netherlands,NA
+45,Norway,0.0276
+45,Poland,NA
+45,Portugal,NA
+45,Romania,NA
+45,Russia,NA
+45,Slovakia,NA
+45,Slovenia,NA
+45,Spain,NA
+45,Sweden,0.02785
+45,Switzerland,NA
+45,United Kingdom,0.00519
+45,Australia,0.02109
+45,Brazil,NA
+45,Canada,0.02243
+45,Chile,NA
+45,China,NA
+45,Colombia,NA
+45,Hong Kong,NA
+45,India,NA
+45,Japan,0.01165
+45,Malaysia,NA
+45,Mexico,NA
+45,New Zealand,NA
+45,Singapore,NA
+45,South Africa,NA
+45,South Korea,NA
+45,Taiwan,NA
+45,Thailand,NA
+45,Turkey,NA
+45,United States,0.01284
+46,Euro,0.01643
+46,Austria,NA
+46,Belgium,NA
+46,Bulgaria,NA
+46,Croatia,NA
+46,Cyprus,NA
+46,Czech Republic,NA
+46,Denmark,0.01638
+46,Estonia,NA
+46,Finland,NA
+46,France,NA
+46,Germany,NA
+46,Greece,NA
+46,Hungary,NA
+46,Iceland,NA
+46,Ireland,NA
+46,Italy,NA
+46,Latvia,NA
+46,Liechtenstein,NA
+46,Lithuania,NA
+46,Luxembourg,NA
+46,Malta,NA
+46,Netherlands,NA
+46,Norway,0.02777
+46,Poland,NA
+46,Portugal,NA
+46,Romania,NA
+46,Russia,NA
+46,Slovakia,NA
+46,Slovenia,NA
+46,Spain,NA
+46,Sweden,0.02803
+46,Switzerland,NA
+46,United Kingdom,0.00513
+46,Australia,0.02137
+46,Brazil,NA
+46,Canada,0.02269
+46,Chile,NA
+46,China,NA
+46,Colombia,NA
+46,Hong Kong,NA
+46,India,NA
+46,Japan,0.0121
+46,Malaysia,NA
+46,Mexico,NA
+46,New Zealand,NA
+46,Singapore,NA
+46,South Africa,NA
+46,South Korea,NA
+46,Taiwan,NA
+46,Thailand,NA
+46,Turkey,NA
+46,United States,0.01289
+47,Euro,0.01683
+47,Austria,NA
+47,Belgium,NA
+47,Bulgaria,NA
+47,Croatia,NA
+47,Cyprus,NA
+47,Czech Republic,NA
+47,Denmark,0.01678
+47,Estonia,NA
+47,Finland,NA
+47,France,NA
+47,Germany,NA
+47,Greece,NA
+47,Hungary,NA
+47,Iceland,NA
+47,Ireland,NA
+47,Italy,NA
+47,Latvia,NA
+47,Liechtenstein,NA
+47,Lithuania,NA
+47,Luxembourg,NA
+47,Malta,NA
+47,Netherlands,NA
+47,Norway,0.02794
+47,Poland,NA
+47,Portugal,NA
+47,Romania,NA
+47,Russia,NA
+47,Slovakia,NA
+47,Slovenia,NA
+47,Spain,NA
+47,Sweden,0.02819
+47,Switzerland,NA
+47,United Kingdom,0.00513
+47,Australia,0.02163
+47,Brazil,NA
+47,Canada,0.02294
+47,Chile,NA
+47,China,NA
+47,Colombia,NA
+47,Hong Kong,NA
+47,India,NA
+47,Japan,0.01254
+47,Malaysia,NA
+47,Mexico,NA
+47,New Zealand,NA
+47,Singapore,NA
+47,South Africa,NA
+47,South Korea,NA
+47,Taiwan,NA
+47,Thailand,NA
+47,Turkey,NA
+47,United States,0.01297
+48,Euro,0.01722
+48,Austria,NA
+48,Belgium,NA
+48,Bulgaria,NA
+48,Croatia,NA
+48,Cyprus,NA
+48,Czech Republic,NA
+48,Denmark,0.01716
+48,Estonia,NA
+48,Finland,NA
+48,France,NA
+48,Germany,NA
+48,Greece,NA
+48,Hungary,NA
+48,Iceland,NA
+48,Ireland,NA
+48,Italy,NA
+48,Latvia,NA
+48,Liechtenstein,NA
+48,Lithuania,NA
+48,Luxembourg,NA
+48,Malta,NA
+48,Netherlands,NA
+48,Norway,0.0281
+48,Poland,NA
+48,Portugal,NA
+48,Romania,NA
+48,Russia,NA
+48,Slovakia,NA
+48,Slovenia,NA
+48,Spain,NA
+48,Sweden,0.02836
+48,Switzerland,NA
+48,United Kingdom,0.00517
+48,Australia,0.0219
+48,Brazil,NA
+48,Canada,0.02319
+48,Chile,NA
+48,China,NA
+48,Colombia,NA
+48,Hong Kong,NA
+48,India,NA
+48,Japan,0.01296
+48,Malaysia,NA
+48,Mexico,NA
+48,New Zealand,NA
+48,Singapore,NA
+48,South Africa,NA
+48,South Korea,NA
+48,Taiwan,NA
+48,Thailand,NA
+48,Turkey,NA
+48,United States,0.01307
+49,Euro,0.01759
+49,Austria,NA
+49,Belgium,NA
+49,Bulgaria,NA
+49,Croatia,NA
+49,Cyprus,NA
+49,Czech Republic,NA
+49,Denmark,0.01753
+49,Estonia,NA
+49,Finland,NA
+49,France,NA
+49,Germany,NA
+49,Greece,NA
+49,Hungary,NA
+49,Iceland,NA
+49,Ireland,NA
+49,Italy,NA
+49,Latvia,NA
+49,Liechtenstein,NA
+49,Lithuania,NA
+49,Luxembourg,NA
+49,Malta,NA
+49,Netherlands,NA
+49,Norway,0.02825
+49,Poland,NA
+49,Portugal,NA
+49,Romania,NA
+49,Russia,NA
+49,Slovakia,NA
+49,Slovenia,NA
+49,Spain,NA
+49,Sweden,0.02851
+49,Switzerland,NA
+49,United Kingdom,0.00526
+49,Australia,0.02215
+49,Brazil,NA
+49,Canada,0.02343
+49,Chile,NA
+49,China,NA
+49,Colombia,NA
+49,Hong Kong,NA
+49,India,NA
+49,Japan,0.01338
+49,Malaysia,NA
+49,Mexico,NA
+49,New Zealand,NA
+49,Singapore,NA
+49,South Africa,NA
+49,South Korea,NA
+49,Taiwan,NA
+49,Thailand,NA
+49,Turkey,NA
+49,United States,0.0132
+50,Euro,0.01794
+50,Austria,NA
+50,Belgium,NA
+50,Bulgaria,NA
+50,Croatia,NA
+50,Cyprus,NA
+50,Czech Republic,NA
+50,Denmark,0.01789
+50,Estonia,NA
+50,Finland,NA
+50,France,NA
+50,Germany,NA
+50,Greece,NA
+50,Hungary,NA
+50,Iceland,NA
+50,Ireland,NA
+50,Italy,NA
+50,Latvia,NA
+50,Liechtenstein,NA
+50,Lithuania,NA
+50,Luxembourg,NA
+50,Malta,NA
+50,Netherlands,NA
+50,Norway,0.0284
+50,Poland,NA
+50,Portugal,NA
+50,Romania,NA
+50,Russia,NA
+50,Slovakia,NA
+50,Slovenia,NA
+50,Spain,NA
+50,Sweden,0.02866
+50,Switzerland,NA
+50,United Kingdom,0.0054
+50,Australia,0.0224
+50,Brazil,NA
+50,Canada,0.02366
+50,Chile,NA
+50,China,NA
+50,Colombia,NA
+50,Hong Kong,NA
+50,India,NA
+50,Japan,0.01378
+50,Malaysia,NA
+50,Mexico,NA
+50,New Zealand,NA
+50,Singapore,NA
+50,South Africa,NA
+50,South Korea,NA
+50,Taiwan,NA
+50,Thailand,NA
+50,Turkey,NA
+50,United States,0.01336
+51,Euro,0.01829
+51,Austria,NA
+51,Belgium,NA
+51,Bulgaria,NA
+51,Croatia,NA
+51,Cyprus,NA
+51,Czech Republic,NA
+51,Denmark,0.01824
+51,Estonia,NA
+51,Finland,NA
+51,France,NA
+51,Germany,NA
+51,Greece,NA
+51,Hungary,NA
+51,Iceland,NA
+51,Ireland,NA
+51,Italy,NA
+51,Latvia,NA
+51,Liechtenstein,NA
+51,Lithuania,NA
+51,Luxembourg,NA
+51,Malta,NA
+51,Netherlands,NA
+51,Norway,0.02854
+51,Poland,NA
+51,Portugal,NA
+51,Romania,NA
+51,Russia,NA
+51,Slovakia,NA
+51,Slovenia,NA
+51,Spain,NA
+51,Sweden,0.0288
+51,Switzerland,NA
+51,United Kingdom,0.00561
+51,Australia,0.02264
+51,Brazil,NA
+51,Canada,0.02388
+51,Chile,NA
+51,China,NA
+51,Colombia,NA
+51,Hong Kong,NA
+51,India,NA
+51,Japan,0.01417
+51,Malaysia,NA
+51,Mexico,NA
+51,New Zealand,NA
+51,Singapore,NA
+51,South Africa,NA
+51,South Korea,NA
+51,Taiwan,NA
+51,Thailand,NA
+51,Turkey,NA
+51,United States,0.01355
+52,Euro,0.01862
+52,Austria,NA
+52,Belgium,NA
+52,Bulgaria,NA
+52,Croatia,NA
+52,Cyprus,NA
+52,Czech Republic,NA
+52,Denmark,0.01857
+52,Estonia,NA
+52,Finland,NA
+52,France,NA
+52,Germany,NA
+52,Greece,NA
+52,Hungary,NA
+52,Iceland,NA
+52,Ireland,NA
+52,Italy,NA
+52,Latvia,NA
+52,Liechtenstein,NA
+52,Lithuania,NA
+52,Luxembourg,NA
+52,Malta,NA
+52,Netherlands,NA
+52,Norway,0.02868
+52,Poland,NA
+52,Portugal,NA
+52,Romania,NA
+52,Russia,NA
+52,Slovakia,NA
+52,Slovenia,NA
+52,Spain,NA
+52,Sweden,0.02894
+52,Switzerland,NA
+52,United Kingdom,0.00585
+52,Australia,0.02288
+52,Brazil,NA
+52,Canada,0.0241
+52,Chile,NA
+52,China,NA
+52,Colombia,NA
+52,Hong Kong,NA
+52,India,NA
+52,Japan,0.01454
+52,Malaysia,NA
+52,Mexico,NA
+52,New Zealand,NA
+52,Singapore,NA
+52,South Africa,NA
+52,South Korea,NA
+52,Taiwan,NA
+52,Thailand,NA
+52,Turkey,NA
+52,United States,0.01377
+53,Euro,0.01894
+53,Austria,NA
+53,Belgium,NA
+53,Bulgaria,NA
+53,Croatia,NA
+53,Cyprus,NA
+53,Czech Republic,NA
+53,Denmark,0.01889
+53,Estonia,NA
+53,Finland,NA
+53,France,NA
+53,Germany,NA
+53,Greece,NA
+53,Hungary,NA
+53,Iceland,NA
+53,Ireland,NA
+53,Italy,NA
+53,Latvia,NA
+53,Liechtenstein,NA
+53,Lithuania,NA
+53,Luxembourg,NA
+53,Malta,NA
+53,Netherlands,NA
+53,Norway,0.02881
+53,Poland,NA
+53,Portugal,NA
+53,Romania,NA
+53,Russia,NA
+53,Slovakia,NA
+53,Slovenia,NA
+53,Spain,NA
+53,Sweden,0.02908
+53,Switzerland,NA
+53,United Kingdom,0.00613
+53,Australia,0.02311
+53,Brazil,NA
+53,Canada,0.02431
+53,Chile,NA
+53,China,NA
+53,Colombia,NA
+53,Hong Kong,NA
+53,India,NA
+53,Japan,0.01491
+53,Malaysia,NA
+53,Mexico,NA
+53,New Zealand,NA
+53,Singapore,NA
+53,South Africa,NA
+53,South Korea,NA
+53,Taiwan,NA
+53,Thailand,NA
+53,Turkey,NA
+53,United States,0.014
+54,Euro,0.01925
+54,Austria,NA
+54,Belgium,NA
+54,Bulgaria,NA
+54,Croatia,NA
+54,Cyprus,NA
+54,Czech Republic,NA
+54,Denmark,0.0192
+54,Estonia,NA
+54,Finland,NA
+54,France,NA
+54,Germany,NA
+54,Greece,NA
+54,Hungary,NA
+54,Iceland,NA
+54,Ireland,NA
+54,Italy,NA
+54,Latvia,NA
+54,Liechtenstein,NA
+54,Lithuania,NA
+54,Luxembourg,NA
+54,Malta,NA
+54,Netherlands,NA
+54,Norway,0.02894
+54,Poland,NA
+54,Portugal,NA
+54,Romania,NA
+54,Russia,NA
+54,Slovakia,NA
+54,Slovenia,NA
+54,Spain,NA
+54,Sweden,0.0292
+54,Switzerland,NA
+54,United Kingdom,0.00644
+54,Australia,0.02333
+54,Brazil,NA
+54,Canada,0.02451
+54,Chile,NA
+54,China,NA
+54,Colombia,NA
+54,Hong Kong,NA
+54,India,NA
+54,Japan,0.01526
+54,Malaysia,NA
+54,Mexico,NA
+54,New Zealand,NA
+54,Singapore,NA
+54,South Africa,NA
+54,South Korea,NA
+54,Taiwan,NA
+54,Thailand,NA
+54,Turkey,NA
+54,United States,0.01424
+55,Euro,0.01954
+55,Austria,NA
+55,Belgium,NA
+55,Bulgaria,NA
+55,Croatia,NA
+55,Cyprus,NA
+55,Czech Republic,NA
+55,Denmark,0.0195
+55,Estonia,NA
+55,Finland,NA
+55,France,NA
+55,Germany,NA
+55,Greece,NA
+55,Hungary,NA
+55,Iceland,NA
+55,Ireland,NA
+55,Italy,NA
+55,Latvia,NA
+55,Liechtenstein,NA
+55,Lithuania,NA
+55,Luxembourg,NA
+55,Malta,NA
+55,Netherlands,NA
+55,Norway,0.02907
+55,Poland,NA
+55,Portugal,NA
+55,Romania,NA
+55,Russia,NA
+55,Slovakia,NA
+55,Slovenia,NA
+55,Spain,NA
+55,Sweden,0.02933
+55,Switzerland,NA
+55,United Kingdom,0.00677
+55,Australia,0.02355
+55,Brazil,NA
+55,Canada,0.02471
+55,Chile,NA
+55,China,NA
+55,Colombia,NA
+55,Hong Kong,NA
+55,India,NA
+55,Japan,0.0156
+55,Malaysia,NA
+55,Mexico,NA
+55,New Zealand,NA
+55,Singapore,NA
+55,South Africa,NA
+55,South Korea,NA
+55,Taiwan,NA
+55,Thailand,NA
+55,Turkey,NA
+55,United States,0.01449
+56,Euro,0.01983
+56,Austria,NA
+56,Belgium,NA
+56,Bulgaria,NA
+56,Croatia,NA
+56,Cyprus,NA
+56,Czech Republic,NA
+56,Denmark,0.01979
+56,Estonia,NA
+56,Finland,NA
+56,France,NA
+56,Germany,NA
+56,Greece,NA
+56,Hungary,NA
+56,Iceland,NA
+56,Ireland,NA
+56,Italy,NA
+56,Latvia,NA
+56,Liechtenstein,NA
+56,Lithuania,NA
+56,Luxembourg,NA
+56,Malta,NA
+56,Netherlands,NA
+56,Norway,0.02919
+56,Poland,NA
+56,Portugal,NA
+56,Romania,NA
+56,Russia,NA
+56,Slovakia,NA
+56,Slovenia,NA
+56,Spain,NA
+56,Sweden,0.02945
+56,Switzerland,NA
+56,United Kingdom,0.00711
+56,Australia,0.02376
+56,Brazil,NA
+56,Canada,0.0249
+56,Chile,NA
+56,China,NA
+56,Colombia,NA
+56,Hong Kong,NA
+56,India,NA
+56,Japan,0.01593
+56,Malaysia,NA
+56,Mexico,NA
+56,New Zealand,NA
+56,Singapore,NA
+56,South Africa,NA
+56,South Korea,NA
+56,Taiwan,NA
+56,Thailand,NA
+56,Turkey,NA
+56,United States,0.01475
+57,Euro,0.02011
+57,Austria,NA
+57,Belgium,NA
+57,Bulgaria,NA
+57,Croatia,NA
+57,Cyprus,NA
+57,Czech Republic,NA
+57,Denmark,0.02007
+57,Estonia,NA
+57,Finland,NA
+57,France,NA
+57,Germany,NA
+57,Greece,NA
+57,Hungary,NA
+57,Iceland,NA
+57,Ireland,NA
+57,Italy,NA
+57,Latvia,NA
+57,Liechtenstein,NA
+57,Lithuania,NA
+57,Luxembourg,NA
+57,Malta,NA
+57,Netherlands,NA
+57,Norway,0.0293
+57,Poland,NA
+57,Portugal,NA
+57,Romania,NA
+57,Russia,NA
+57,Slovakia,NA
+57,Slovenia,NA
+57,Spain,NA
+57,Sweden,0.02956
+57,Switzerland,NA
+57,United Kingdom,0.00746
+57,Australia,0.02396
+57,Brazil,NA
+57,Canada,0.02509
+57,Chile,NA
+57,China,NA
+57,Colombia,NA
+57,Hong Kong,NA
+57,India,NA
+57,Japan,0.01625
+57,Malaysia,NA
+57,Mexico,NA
+57,New Zealand,NA
+57,Singapore,NA
+57,South Africa,NA
+57,South Korea,NA
+57,Taiwan,NA
+57,Thailand,NA
+57,Turkey,NA
+57,United States,0.01502
+58,Euro,0.02038
+58,Austria,NA
+58,Belgium,NA
+58,Bulgaria,NA
+58,Croatia,NA
+58,Cyprus,NA
+58,Czech Republic,NA
+58,Denmark,0.02034
+58,Estonia,NA
+58,Finland,NA
+58,France,NA
+58,Germany,NA
+58,Greece,NA
+58,Hungary,NA
+58,Iceland,NA
+58,Ireland,NA
+58,Italy,NA
+58,Latvia,NA
+58,Liechtenstein,NA
+58,Lithuania,NA
+58,Luxembourg,NA
+58,Malta,NA
+58,Netherlands,NA
+58,Norway,0.02942
+58,Poland,NA
+58,Portugal,NA
+58,Romania,NA
+58,Russia,NA
+58,Slovakia,NA
+58,Slovenia,NA
+58,Spain,NA
+58,Sweden,0.02967
+58,Switzerland,NA
+58,United Kingdom,0.00782
+58,Australia,0.02416
+58,Brazil,NA
+58,Canada,0.02527
+58,Chile,NA
+58,China,NA
+58,Colombia,NA
+58,Hong Kong,NA
+58,India,NA
+58,Japan,0.01657
+58,Malaysia,NA
+58,Mexico,NA
+58,New Zealand,NA
+58,Singapore,NA
+58,South Africa,NA
+58,South Korea,NA
+58,Taiwan,NA
+58,Thailand,NA
+58,Turkey,NA
+58,United States,0.01529
+59,Euro,0.02064
+59,Austria,NA
+59,Belgium,NA
+59,Bulgaria,NA
+59,Croatia,NA
+59,Cyprus,NA
+59,Czech Republic,NA
+59,Denmark,0.0206
+59,Estonia,NA
+59,Finland,NA
+59,France,NA
+59,Germany,NA
+59,Greece,NA
+59,Hungary,NA
+59,Iceland,NA
+59,Ireland,NA
+59,Italy,NA
+59,Latvia,NA
+59,Liechtenstein,NA
+59,Lithuania,NA
+59,Luxembourg,NA
+59,Malta,NA
+59,Netherlands,NA
+59,Norway,0.02953
+59,Poland,NA
+59,Portugal,NA
+59,Romania,NA
+59,Russia,NA
+59,Slovakia,NA
+59,Slovenia,NA
+59,Spain,NA
+59,Sweden,0.02978
+59,Switzerland,NA
+59,United Kingdom,0.00819
+59,Australia,0.02435
+59,Brazil,NA
+59,Canada,0.02544
+59,Chile,NA
+59,China,NA
+59,Colombia,NA
+59,Hong Kong,NA
+59,India,NA
+59,Japan,0.01687
+59,Malaysia,NA
+59,Mexico,NA
+59,New Zealand,NA
+59,Singapore,NA
+59,South Africa,NA
+59,South Korea,NA
+59,Taiwan,NA
+59,Thailand,NA
+59,Turkey,NA
+59,United States,0.01556
+60,Euro,0.02089
+60,Austria,NA
+60,Belgium,NA
+60,Bulgaria,NA
+60,Croatia,NA
+60,Cyprus,NA
+60,Czech Republic,NA
+60,Denmark,0.02085
+60,Estonia,NA
+60,Finland,NA
+60,France,NA
+60,Germany,NA
+60,Greece,NA
+60,Hungary,NA
+60,Iceland,NA
+60,Ireland,NA
+60,Italy,NA
+60,Latvia,NA
+60,Liechtenstein,NA
+60,Lithuania,NA
+60,Luxembourg,NA
+60,Malta,NA
+60,Netherlands,NA
+60,Norway,0.02963
+60,Poland,NA
+60,Portugal,NA
+60,Romania,NA
+60,Russia,NA
+60,Slovakia,NA
+60,Slovenia,NA
+60,Spain,NA
+60,Sweden,0.02988
+60,Switzerland,NA
+60,United Kingdom,0.00855
+60,Australia,0.02454
+60,Brazil,NA
+60,Canada,0.02561
+60,Chile,NA
+60,China,NA
+60,Colombia,NA
+60,Hong Kong,NA
+60,India,NA
+60,Japan,0.01716
+60,Malaysia,NA
+60,Mexico,NA
+60,New Zealand,NA
+60,Singapore,NA
+60,South Africa,NA
+60,South Korea,NA
+60,Taiwan,NA
+60,Thailand,NA
+60,Turkey,NA
+60,United States,0.01583
+61,Euro,0.02114
+61,Austria,NA
+61,Belgium,NA
+61,Bulgaria,NA
+61,Croatia,NA
+61,Cyprus,NA
+61,Czech Republic,NA
+61,Denmark,0.0211
+61,Estonia,NA
+61,Finland,NA
+61,France,NA
+61,Germany,NA
+61,Greece,NA
+61,Hungary,NA
+61,Iceland,NA
+61,Ireland,NA
+61,Italy,NA
+61,Latvia,NA
+61,Liechtenstein,NA
+61,Lithuania,NA
+61,Luxembourg,NA
+61,Malta,NA
+61,Netherlands,NA
+61,Norway,0.02973
+61,Poland,NA
+61,Portugal,NA
+61,Romania,NA
+61,Russia,NA
+61,Slovakia,NA
+61,Slovenia,NA
+61,Spain,NA
+61,Sweden,0.02998
+61,Switzerland,NA
+61,United Kingdom,0.00891
+61,Australia,0.02472
+61,Brazil,NA
+61,Canada,0.02577
+61,Chile,NA
+61,China,NA
+61,Colombia,NA
+61,Hong Kong,NA
+61,India,NA
+61,Japan,0.01745
+61,Malaysia,NA
+61,Mexico,NA
+61,New Zealand,NA
+61,Singapore,NA
+61,South Africa,NA
+61,South Korea,NA
+61,Taiwan,NA
+61,Thailand,NA
+61,Turkey,NA
+61,United States,0.0161
+62,Euro,0.02137
+62,Austria,NA
+62,Belgium,NA
+62,Bulgaria,NA
+62,Croatia,NA
+62,Cyprus,NA
+62,Czech Republic,NA
+62,Denmark,0.021329999999999998
+62,Estonia,NA
+62,Finland,NA
+62,France,NA
+62,Germany,NA
+62,Greece,NA
+62,Hungary,NA
+62,Iceland,NA
+62,Ireland,NA
+62,Italy,NA
+62,Latvia,NA
+62,Liechtenstein,NA
+62,Lithuania,NA
+62,Luxembourg,NA
+62,Malta,NA
+62,Netherlands,NA
+62,Norway,0.02983
+62,Poland,NA
+62,Portugal,NA
+62,Romania,NA
+62,Russia,NA
+62,Slovakia,NA
+62,Slovenia,NA
+62,Spain,NA
+62,Sweden,0.03008
+62,Switzerland,NA
+62,United Kingdom,0.00928
+62,Australia,0.0249
+62,Brazil,NA
+62,Canada,0.02593
+62,Chile,NA
+62,China,NA
+62,Colombia,NA
+62,Hong Kong,NA
+62,India,NA
+62,Japan,0.01772
+62,Malaysia,NA
+62,Mexico,NA
+62,New Zealand,NA
+62,Singapore,NA
+62,South Africa,NA
+62,South Korea,NA
+62,Taiwan,NA
+62,Thailand,NA
+62,Turkey,NA
+62,United States,0.01636
+63,Euro,0.0216
+63,Austria,NA
+63,Belgium,NA
+63,Bulgaria,NA
+63,Croatia,NA
+63,Cyprus,NA
+63,Czech Republic,NA
+63,Denmark,0.02156
+63,Estonia,NA
+63,Finland,NA
+63,France,NA
+63,Germany,NA
+63,Greece,NA
+63,Hungary,NA
+63,Iceland,NA
+63,Ireland,NA
+63,Italy,NA
+63,Latvia,NA
+63,Liechtenstein,NA
+63,Lithuania,NA
+63,Luxembourg,NA
+63,Malta,NA
+63,Netherlands,NA
+63,Norway,0.02993
+63,Poland,NA
+63,Portugal,NA
+63,Romania,NA
+63,Russia,NA
+63,Slovakia,NA
+63,Slovenia,NA
+63,Spain,NA
+63,Sweden,0.03017
+63,Switzerland,NA
+63,United Kingdom,0.00964
+63,Australia,0.02507
+63,Brazil,NA
+63,Canada,0.02609
+63,Chile,NA
+63,China,NA
+63,Colombia,NA
+63,Hong Kong,NA
+63,India,NA
+63,Japan,0.01799
+63,Malaysia,NA
+63,Mexico,NA
+63,New Zealand,NA
+63,Singapore,NA
+63,South Africa,NA
+63,South Korea,NA
+63,Taiwan,NA
+63,Thailand,NA
+63,Turkey,NA
+63,United States,0.01663
+64,Euro,0.02183
+64,Austria,NA
+64,Belgium,NA
+64,Bulgaria,NA
+64,Croatia,NA
+64,Cyprus,NA
+64,Czech Republic,NA
+64,Denmark,0.02179
+64,Estonia,NA
+64,Finland,NA
+64,France,NA
+64,Germany,NA
+64,Greece,NA
+64,Hungary,NA
+64,Iceland,NA
+64,Ireland,NA
+64,Italy,NA
+64,Latvia,NA
+64,Liechtenstein,NA
+64,Lithuania,NA
+64,Luxembourg,NA
+64,Malta,NA
+64,Netherlands,NA
+64,Norway,0.03002
+64,Poland,NA
+64,Portugal,NA
+64,Romania,NA
+64,Russia,NA
+64,Slovakia,NA
+64,Slovenia,NA
+64,Spain,NA
+64,Sweden,0.03026
+64,Switzerland,NA
+64,United Kingdom,0.00999
+64,Australia,0.02523
+64,Brazil,NA
+64,Canada,0.02624
+64,Chile,NA
+64,China,NA
+64,Colombia,NA
+64,Hong Kong,NA
+64,India,NA
+64,Japan,0.01825
+64,Malaysia,NA
+64,Mexico,NA
+64,New Zealand,NA
+64,Singapore,NA
+64,South Africa,NA
+64,South Korea,NA
+64,Taiwan,NA
+64,Thailand,NA
+64,Turkey,NA
+64,United States,0.01689
+65,Euro,0.02204
+65,Austria,NA
+65,Belgium,NA
+65,Bulgaria,NA
+65,Croatia,NA
+65,Cyprus,NA
+65,Czech Republic,NA
+65,Denmark,0.022
+65,Estonia,NA
+65,Finland,NA
+65,France,NA
+65,Germany,NA
+65,Greece,NA
+65,Hungary,NA
+65,Iceland,NA
+65,Ireland,NA
+65,Italy,NA
+65,Latvia,NA
+65,Liechtenstein,NA
+65,Lithuania,NA
+65,Luxembourg,NA
+65,Malta,NA
+65,Netherlands,NA
+65,Norway,0.03011
+65,Poland,NA
+65,Portugal,NA
+65,Romania,NA
+65,Russia,NA
+65,Slovakia,NA
+65,Slovenia,NA
+65,Spain,NA
+65,Sweden,0.03035
+65,Switzerland,NA
+65,United Kingdom,0.01034
+65,Australia,0.0254
+65,Brazil,NA
+65,Canada,0.02639
+65,Chile,NA
+65,China,NA
+65,Colombia,NA
+65,Hong Kong,NA
+65,India,NA
+65,Japan,0.0185
+65,Malaysia,NA
+65,Mexico,NA
+65,New Zealand,NA
+65,Singapore,NA
+65,South Africa,NA
+65,South Korea,NA
+65,Taiwan,NA
+65,Thailand,NA
+65,Turkey,NA
+65,United States,0.01715
+66,Euro,0.02225
+66,Austria,NA
+66,Belgium,NA
+66,Bulgaria,NA
+66,Croatia,NA
+66,Cyprus,NA
+66,Czech Republic,NA
+66,Denmark,0.02221
+66,Estonia,NA
+66,Finland,NA
+66,France,NA
+66,Germany,NA
+66,Greece,NA
+66,Hungary,NA
+66,Iceland,NA
+66,Ireland,NA
+66,Italy,NA
+66,Latvia,NA
+66,Liechtenstein,NA
+66,Lithuania,NA
+66,Luxembourg,NA
+66,Malta,NA
+66,Netherlands,NA
+66,Norway,0.0302
+66,Poland,NA
+66,Portugal,NA
+66,Romania,NA
+66,Russia,NA
+66,Slovakia,NA
+66,Slovenia,NA
+66,Spain,NA
+66,Sweden,0.03044
+66,Switzerland,NA
+66,United Kingdom,0.01069
+66,Australia,0.02555
+66,Brazil,NA
+66,Canada,0.02653
+66,Chile,NA
+66,China,NA
+66,Colombia,NA
+66,Hong Kong,NA
+66,India,NA
+66,Japan,0.01875
+66,Malaysia,NA
+66,Mexico,NA
+66,New Zealand,NA
+66,Singapore,NA
+66,South Africa,NA
+66,South Korea,NA
+66,Taiwan,NA
+66,Thailand,NA
+66,Turkey,NA
+66,United States,0.0174
+67,Euro,0.02245
+67,Austria,NA
+67,Belgium,NA
+67,Bulgaria,NA
+67,Croatia,NA
+67,Cyprus,NA
+67,Czech Republic,NA
+67,Denmark,0.02242
+67,Estonia,NA
+67,Finland,NA
+67,France,NA
+67,Germany,NA
+67,Greece,NA
+67,Hungary,NA
+67,Iceland,NA
+67,Ireland,NA
+67,Italy,NA
+67,Latvia,NA
+67,Liechtenstein,NA
+67,Lithuania,NA
+67,Luxembourg,NA
+67,Malta,NA
+67,Netherlands,NA
+67,Norway,0.03029
+67,Poland,NA
+67,Portugal,NA
+67,Romania,NA
+67,Russia,NA
+67,Slovakia,NA
+67,Slovenia,NA
+67,Spain,NA
+67,Sweden,0.03052
+67,Switzerland,NA
+67,United Kingdom,0.01103
+67,Australia,0.02571
+67,Brazil,NA
+67,Canada,0.02667
+67,Chile,NA
+67,China,NA
+67,Colombia,NA
+67,Hong Kong,NA
+67,India,NA
+67,Japan,0.01899
+67,Malaysia,NA
+67,Mexico,NA
+67,New Zealand,NA
+67,Singapore,NA
+67,South Africa,NA
+67,South Korea,NA
+67,Taiwan,NA
+67,Thailand,NA
+67,Turkey,NA
+67,United States,0.01765
+68,Euro,0.02265
+68,Austria,NA
+68,Belgium,NA
+68,Bulgaria,NA
+68,Croatia,NA
+68,Cyprus,NA
+68,Czech Republic,NA
+68,Denmark,0.02262
+68,Estonia,NA
+68,Finland,NA
+68,France,NA
+68,Germany,NA
+68,Greece,NA
+68,Hungary,NA
+68,Iceland,NA
+68,Ireland,NA
+68,Italy,NA
+68,Latvia,NA
+68,Liechtenstein,NA
+68,Lithuania,NA
+68,Luxembourg,NA
+68,Malta,NA
+68,Netherlands,NA
+68,Norway,0.03037
+68,Poland,NA
+68,Portugal,NA
+68,Romania,NA
+68,Russia,NA
+68,Slovakia,NA
+68,Slovenia,NA
+68,Spain,NA
+68,Sweden,0.0306
+68,Switzerland,NA
+68,United Kingdom,0.01136
+68,Australia,0.02585
+68,Brazil,NA
+68,Canada,0.0268
+68,Chile,NA
+68,China,NA
+68,Colombia,NA
+68,Hong Kong,NA
+68,India,NA
+68,Japan,0.01922
+68,Malaysia,NA
+68,Mexico,NA
+68,New Zealand,NA
+68,Singapore,NA
+68,South Africa,NA
+68,South Korea,NA
+68,Taiwan,NA
+68,Thailand,NA
+68,Turkey,NA
+68,United States,0.01789
+69,Euro,0.02284
+69,Austria,NA
+69,Belgium,NA
+69,Bulgaria,NA
+69,Croatia,NA
+69,Cyprus,NA
+69,Czech Republic,NA
+69,Denmark,0.02281
+69,Estonia,NA
+69,Finland,NA
+69,France,NA
+69,Germany,NA
+69,Greece,NA
+69,Hungary,NA
+69,Iceland,NA
+69,Ireland,NA
+69,Italy,NA
+69,Latvia,NA
+69,Liechtenstein,NA
+69,Lithuania,NA
+69,Luxembourg,NA
+69,Malta,NA
+69,Netherlands,NA
+69,Norway,0.03045
+69,Poland,NA
+69,Portugal,NA
+69,Romania,NA
+69,Russia,NA
+69,Slovakia,NA
+69,Slovenia,NA
+69,Spain,NA
+69,Sweden,0.03068
+69,Switzerland,NA
+69,United Kingdom,0.01169
+69,Australia,0.026
+69,Brazil,NA
+69,Canada,0.02693
+69,Chile,NA
+69,China,NA
+69,Colombia,NA
+69,Hong Kong,NA
+69,India,NA
+69,Japan,0.01944
+69,Malaysia,NA
+69,Mexico,NA
+69,New Zealand,NA
+69,Singapore,NA
+69,South Africa,NA
+69,South Korea,NA
+69,Taiwan,NA
+69,Thailand,NA
+69,Turkey,NA
+69,United States,0.01813
+70,Euro,0.02303
+70,Austria,NA
+70,Belgium,NA
+70,Bulgaria,NA
+70,Croatia,NA
+70,Cyprus,NA
+70,Czech Republic,NA
+70,Denmark,0.02299
+70,Estonia,NA
+70,Finland,NA
+70,France,NA
+70,Germany,NA
+70,Greece,NA
+70,Hungary,NA
+70,Iceland,NA
+70,Ireland,NA
+70,Italy,NA
+70,Latvia,NA
+70,Liechtenstein,NA
+70,Lithuania,NA
+70,Luxembourg,NA
+70,Malta,NA
+70,Netherlands,NA
+70,Norway,0.03053
+70,Poland,NA
+70,Portugal,NA
+70,Romania,NA
+70,Russia,NA
+70,Slovakia,NA
+70,Slovenia,NA
+70,Spain,NA
+70,Sweden,0.03075
+70,Switzerland,NA
+70,United Kingdom,0.01201
+70,Australia,0.02614
+70,Brazil,NA
+70,Canada,0.02706
+70,Chile,NA
+70,China,NA
+70,Colombia,NA
+70,Hong Kong,NA
+70,India,NA
+70,Japan,0.01966
+70,Malaysia,NA
+70,Mexico,NA
+70,New Zealand,NA
+70,Singapore,NA
+70,South Africa,NA
+70,South Korea,NA
+70,Taiwan,NA
+70,Thailand,NA
+70,Turkey,NA
+70,United States,0.01837
+71,Euro,0.02321
+71,Austria,NA
+71,Belgium,NA
+71,Bulgaria,NA
+71,Croatia,NA
+71,Cyprus,NA
+71,Czech Republic,NA
+71,Denmark,0.02318
+71,Estonia,NA
+71,Finland,NA
+71,France,NA
+71,Germany,NA
+71,Greece,NA
+71,Hungary,NA
+71,Iceland,NA
+71,Ireland,NA
+71,Italy,NA
+71,Latvia,NA
+71,Liechtenstein,NA
+71,Lithuania,NA
+71,Luxembourg,NA
+71,Malta,NA
+71,Netherlands,NA
+71,Norway,0.03061
+71,Poland,NA
+71,Portugal,NA
+71,Romania,NA
+71,Russia,NA
+71,Slovakia,NA
+71,Slovenia,NA
+71,Spain,NA
+71,Sweden,0.03083
+71,Switzerland,NA
+71,United Kingdom,0.01233
+71,Australia,0.02628
+71,Brazil,NA
+71,Canada,0.02719
+71,Chile,NA
+71,China,NA
+71,Colombia,NA
+71,Hong Kong,NA
+71,India,NA
+71,Japan,0.01987
+71,Malaysia,NA
+71,Mexico,NA
+71,New Zealand,NA
+71,Singapore,NA
+71,South Africa,NA
+71,South Korea,NA
+71,Taiwan,NA
+71,Thailand,NA
+71,Turkey,NA
+71,United States,0.0186
+72,Euro,0.02339
+72,Austria,NA
+72,Belgium,NA
+72,Bulgaria,NA
+72,Croatia,NA
+72,Cyprus,NA
+72,Czech Republic,NA
+72,Denmark,0.02335
+72,Estonia,NA
+72,Finland,NA
+72,France,NA
+72,Germany,NA
+72,Greece,NA
+72,Hungary,NA
+72,Iceland,NA
+72,Ireland,NA
+72,Italy,NA
+72,Latvia,NA
+72,Liechtenstein,NA
+72,Lithuania,NA
+72,Luxembourg,NA
+72,Malta,NA
+72,Netherlands,NA
+72,Norway,0.03068
+72,Poland,NA
+72,Portugal,NA
+72,Romania,NA
+72,Russia,NA
+72,Slovakia,NA
+72,Slovenia,NA
+72,Spain,NA
+72,Sweden,0.0309
+72,Switzerland,NA
+72,United Kingdom,0.01264
+72,Australia,0.02641
+72,Brazil,NA
+72,Canada,0.02731
+72,Chile,NA
+72,China,NA
+72,Colombia,NA
+72,Hong Kong,NA
+72,India,NA
+72,Japan,0.02008
+72,Malaysia,NA
+72,Mexico,NA
+72,New Zealand,NA
+72,Singapore,NA
+72,South Africa,NA
+72,South Korea,NA
+72,Taiwan,NA
+72,Thailand,NA
+72,Turkey,NA
+72,United States,0.01883
+73,Euro,0.02356
+73,Austria,NA
+73,Belgium,NA
+73,Bulgaria,NA
+73,Croatia,NA
+73,Cyprus,NA
+73,Czech Republic,NA
+73,Denmark,0.02352
+73,Estonia,NA
+73,Finland,NA
+73,France,NA
+73,Germany,NA
+73,Greece,NA
+73,Hungary,NA
+73,Iceland,NA
+73,Ireland,NA
+73,Italy,NA
+73,Latvia,NA
+73,Liechtenstein,NA
+73,Lithuania,NA
+73,Luxembourg,NA
+73,Malta,NA
+73,Netherlands,NA
+73,Norway,0.03075
+73,Poland,NA
+73,Portugal,NA
+73,Romania,NA
+73,Russia,NA
+73,Slovakia,NA
+73,Slovenia,NA
+73,Spain,NA
+73,Sweden,0.03097
+73,Switzerland,NA
+73,United Kingdom,0.01294
+73,Australia,0.02654
+73,Brazil,NA
+73,Canada,0.02742
+73,Chile,NA
+73,China,NA
+73,Colombia,NA
+73,Hong Kong,NA
+73,India,NA
+73,Japan,0.02028
+73,Malaysia,NA
+73,Mexico,NA
+73,New Zealand,NA
+73,Singapore,NA
+73,South Africa,NA
+73,South Korea,NA
+73,Taiwan,NA
+73,Thailand,NA
+73,Turkey,NA
+73,United States,0.01905
+74,Euro,0.02373
+74,Austria,NA
+74,Belgium,NA
+74,Bulgaria,NA
+74,Croatia,NA
+74,Cyprus,NA
+74,Czech Republic,NA
+74,Denmark,0.02369
+74,Estonia,NA
+74,Finland,NA
+74,France,NA
+74,Germany,NA
+74,Greece,NA
+74,Hungary,NA
+74,Iceland,NA
+74,Ireland,NA
+74,Italy,NA
+74,Latvia,NA
+74,Liechtenstein,NA
+74,Lithuania,NA
+74,Luxembourg,NA
+74,Malta,NA
+74,Netherlands,NA
+74,Norway,0.03082
+74,Poland,NA
+74,Portugal,NA
+74,Romania,NA
+74,Russia,NA
+74,Slovakia,NA
+74,Slovenia,NA
+74,Spain,NA
+74,Sweden,0.03104
+74,Switzerland,NA
+74,United Kingdom,0.01324
+74,Australia,0.02667
+74,Brazil,NA
+74,Canada,0.02754
+74,Chile,NA
+74,China,NA
+74,Colombia,NA
+74,Hong Kong,NA
+74,India,NA
+74,Japan,0.02048
+74,Malaysia,NA
+74,Mexico,NA
+74,New Zealand,NA
+74,Singapore,NA
+74,South Africa,NA
+74,South Korea,NA
+74,Taiwan,NA
+74,Thailand,NA
+74,Turkey,NA
+74,United States,0.01927
+75,Euro,0.02389
+75,Austria,NA
+75,Belgium,NA
+75,Bulgaria,NA
+75,Croatia,NA
+75,Cyprus,NA
+75,Czech Republic,NA
+75,Denmark,0.02385
+75,Estonia,NA
+75,Finland,NA
+75,France,NA
+75,Germany,NA
+75,Greece,NA
+75,Hungary,NA
+75,Iceland,NA
+75,Ireland,NA
+75,Italy,NA
+75,Latvia,NA
+75,Liechtenstein,NA
+75,Lithuania,NA
+75,Luxembourg,NA
+75,Malta,NA
+75,Netherlands,NA
+75,Norway,0.03089
+75,Poland,NA
+75,Portugal,NA
+75,Romania,NA
+75,Russia,NA
+75,Slovakia,NA
+75,Slovenia,NA
+75,Spain,NA
+75,Sweden,0.0311
+75,Switzerland,NA
+75,United Kingdom,0.01353
+75,Australia,0.02679
+75,Brazil,NA
+75,Canada,0.02765
+75,Chile,NA
+75,China,NA
+75,Colombia,NA
+75,Hong Kong,NA
+75,India,NA
+75,Japan,0.02067
+75,Malaysia,NA
+75,Mexico,NA
+75,New Zealand,NA
+75,Singapore,NA
+75,South Africa,NA
+75,South Korea,NA
+75,Taiwan,NA
+75,Thailand,NA
+75,Turkey,NA
+75,United States,0.01948
+76,Euro,0.02405
+76,Austria,NA
+76,Belgium,NA
+76,Bulgaria,NA
+76,Croatia,NA
+76,Cyprus,NA
+76,Czech Republic,NA
+76,Denmark,0.02401
+76,Estonia,NA
+76,Finland,NA
+76,France,NA
+76,Germany,NA
+76,Greece,NA
+76,Hungary,NA
+76,Iceland,NA
+76,Ireland,NA
+76,Italy,NA
+76,Latvia,NA
+76,Liechtenstein,NA
+76,Lithuania,NA
+76,Luxembourg,NA
+76,Malta,NA
+76,Netherlands,NA
+76,Norway,0.03096
+76,Poland,NA
+76,Portugal,NA
+76,Romania,NA
+76,Russia,NA
+76,Slovakia,NA
+76,Slovenia,NA
+76,Spain,NA
+76,Sweden,0.03117
+76,Switzerland,NA
+76,United Kingdom,0.01381
+76,Australia,0.02691
+76,Brazil,NA
+76,Canada,0.02776
+76,Chile,NA
+76,China,NA
+76,Colombia,NA
+76,Hong Kong,NA
+76,India,NA
+76,Japan,0.02086
+76,Malaysia,NA
+76,Mexico,NA
+76,New Zealand,NA
+76,Singapore,NA
+76,South Africa,NA
+76,South Korea,NA
+76,Taiwan,NA
+76,Thailand,NA
+76,Turkey,NA
+76,United States,0.01969
+77,Euro,0.0242
+77,Austria,NA
+77,Belgium,NA
+77,Bulgaria,NA
+77,Croatia,NA
+77,Cyprus,NA
+77,Czech Republic,NA
+77,Denmark,0.02417
+77,Estonia,NA
+77,Finland,NA
+77,France,NA
+77,Germany,NA
+77,Greece,NA
+77,Hungary,NA
+77,Iceland,NA
+77,Ireland,NA
+77,Italy,NA
+77,Latvia,NA
+77,Liechtenstein,NA
+77,Lithuania,NA
+77,Luxembourg,NA
+77,Malta,NA
+77,Netherlands,NA
+77,Norway,0.03102
+77,Poland,NA
+77,Portugal,NA
+77,Romania,NA
+77,Russia,NA
+77,Slovakia,NA
+77,Slovenia,NA
+77,Spain,NA
+77,Sweden,0.03123
+77,Switzerland,NA
+77,United Kingdom,0.01409
+77,Australia,0.02703
+77,Brazil,NA
+77,Canada,0.02786
+77,Chile,NA
+77,China,NA
+77,Colombia,NA
+77,Hong Kong,NA
+77,India,NA
+77,Japan,0.02104
+77,Malaysia,NA
+77,Mexico,NA
+77,New Zealand,NA
+77,Singapore,NA
+77,South Africa,NA
+77,South Korea,NA
+77,Taiwan,NA
+77,Thailand,NA
+77,Turkey,NA
+77,United States,0.01989
+78,Euro,0.02435
+78,Austria,NA
+78,Belgium,NA
+78,Bulgaria,NA
+78,Croatia,NA
+78,Cyprus,NA
+78,Czech Republic,NA
+78,Denmark,0.02432
+78,Estonia,NA
+78,Finland,NA
+78,France,NA
+78,Germany,NA
+78,Greece,NA
+78,Hungary,NA
+78,Iceland,NA
+78,Ireland,NA
+78,Italy,NA
+78,Latvia,NA
+78,Liechtenstein,NA
+78,Lithuania,NA
+78,Luxembourg,NA
+78,Malta,NA
+78,Netherlands,NA
+78,Norway,0.03109
+78,Poland,NA
+78,Portugal,NA
+78,Romania,NA
+78,Russia,NA
+78,Slovakia,NA
+78,Slovenia,NA
+78,Spain,NA
+78,Sweden,0.03129
+78,Switzerland,NA
+78,United Kingdom,0.01436
+78,Australia,0.02714
+78,Brazil,NA
+78,Canada,0.02797
+78,Chile,NA
+78,China,NA
+78,Colombia,NA
+78,Hong Kong,NA
+78,India,NA
+78,Japan,0.02122
+78,Malaysia,NA
+78,Mexico,NA
+78,New Zealand,NA
+78,Singapore,NA
+78,South Africa,NA
+78,South Korea,NA
+78,Taiwan,NA
+78,Thailand,NA
+78,Turkey,NA
+78,United States,0.02009
+79,Euro,0.0245
+79,Austria,NA
+79,Belgium,NA
+79,Bulgaria,NA
+79,Croatia,NA
+79,Cyprus,NA
+79,Czech Republic,NA
+79,Denmark,0.02447
+79,Estonia,NA
+79,Finland,NA
+79,France,NA
+79,Germany,NA
+79,Greece,NA
+79,Hungary,NA
+79,Iceland,NA
+79,Ireland,NA
+79,Italy,NA
+79,Latvia,NA
+79,Liechtenstein,NA
+79,Lithuania,NA
+79,Luxembourg,NA
+79,Malta,NA
+79,Netherlands,NA
+79,Norway,0.03115
+79,Poland,NA
+79,Portugal,NA
+79,Romania,NA
+79,Russia,NA
+79,Slovakia,NA
+79,Slovenia,NA
+79,Spain,NA
+79,Sweden,0.03135
+79,Switzerland,NA
+79,United Kingdom,0.01463
+79,Australia,0.02725
+79,Brazil,NA
+79,Canada,0.02807
+79,Chile,NA
+79,China,NA
+79,Colombia,NA
+79,Hong Kong,NA
+79,India,NA
+79,Japan,0.02139
+79,Malaysia,NA
+79,Mexico,NA
+79,New Zealand,NA
+79,Singapore,NA
+79,South Africa,NA
+79,South Korea,NA
+79,Taiwan,NA
+79,Thailand,NA
+79,Turkey,NA
+79,United States,0.02028
+80,Euro,0.02464
+80,Austria,NA
+80,Belgium,NA
+80,Bulgaria,NA
+80,Croatia,NA
+80,Cyprus,NA
+80,Czech Republic,NA
+80,Denmark,0.02461
+80,Estonia,NA
+80,Finland,NA
+80,France,NA
+80,Germany,NA
+80,Greece,NA
+80,Hungary,NA
+80,Iceland,NA
+80,Ireland,NA
+80,Italy,NA
+80,Latvia,NA
+80,Liechtenstein,NA
+80,Lithuania,NA
+80,Luxembourg,NA
+80,Malta,NA
+80,Netherlands,NA
+80,Norway,0.03121
+80,Poland,NA
+80,Portugal,NA
+80,Romania,NA
+80,Russia,NA
+80,Slovakia,NA
+80,Slovenia,NA
+80,Spain,NA
+80,Sweden,0.03141
+80,Switzerland,NA
+80,United Kingdom,0.01489
+80,Australia,0.02736
+80,Brazil,NA
+80,Canada,0.02817
+80,Chile,NA
+80,China,NA
+80,Colombia,NA
+80,Hong Kong,NA
+80,India,NA
+80,Japan,0.02156
+80,Malaysia,NA
+80,Mexico,NA
+80,New Zealand,NA
+80,Singapore,NA
+80,South Africa,NA
+80,South Korea,NA
+80,Taiwan,NA
+80,Thailand,NA
+80,Turkey,NA
+80,United States,0.02047
+81,Euro,0.02478
+81,Austria,NA
+81,Belgium,NA
+81,Bulgaria,NA
+81,Croatia,NA
+81,Cyprus,NA
+81,Czech Republic,NA
+81,Denmark,0.02475
+81,Estonia,NA
+81,Finland,NA
+81,France,NA
+81,Germany,NA
+81,Greece,NA
+81,Hungary,NA
+81,Iceland,NA
+81,Ireland,NA
+81,Italy,NA
+81,Latvia,NA
+81,Liechtenstein,NA
+81,Lithuania,NA
+81,Luxembourg,NA
+81,Malta,NA
+81,Netherlands,NA
+81,Norway,0.03127
+81,Poland,NA
+81,Portugal,NA
+81,Romania,NA
+81,Russia,NA
+81,Slovakia,NA
+81,Slovenia,NA
+81,Spain,NA
+81,Sweden,0.03146
+81,Switzerland,NA
+81,United Kingdom,0.01514
+81,Australia,0.02747
+81,Brazil,NA
+81,Canada,0.02826
+81,Chile,NA
+81,China,NA
+81,Colombia,NA
+81,Hong Kong,NA
+81,India,NA
+81,Japan,0.02172
+81,Malaysia,NA
+81,Mexico,NA
+81,New Zealand,NA
+81,Singapore,NA
+81,South Africa,NA
+81,South Korea,NA
+81,Taiwan,NA
+81,Thailand,NA
+81,Turkey,NA
+81,United States,0.02066
+82,Euro,0.02492
+82,Austria,NA
+82,Belgium,NA
+82,Bulgaria,NA
+82,Croatia,NA
+82,Cyprus,NA
+82,Czech Republic,NA
+82,Denmark,0.02489
+82,Estonia,NA
+82,Finland,NA
+82,France,NA
+82,Germany,NA
+82,Greece,NA
+82,Hungary,NA
+82,Iceland,NA
+82,Ireland,NA
+82,Italy,NA
+82,Latvia,NA
+82,Liechtenstein,NA
+82,Lithuania,NA
+82,Luxembourg,NA
+82,Malta,NA
+82,Netherlands,NA
+82,Norway,0.03133
+82,Poland,NA
+82,Portugal,NA
+82,Romania,NA
+82,Russia,NA
+82,Slovakia,NA
+82,Slovenia,NA
+82,Spain,NA
+82,Sweden,0.03152
+82,Switzerland,NA
+82,United Kingdom,0.01539
+82,Australia,0.02757
+82,Brazil,NA
+82,Canada,0.02836
+82,Chile,NA
+82,China,NA
+82,Colombia,NA
+82,Hong Kong,NA
+82,India,NA
+82,Japan,0.02188
+82,Malaysia,NA
+82,Mexico,NA
+82,New Zealand,NA
+82,Singapore,NA
+82,South Africa,NA
+82,South Korea,NA
+82,Taiwan,NA
+82,Thailand,NA
+82,Turkey,NA
+82,United States,0.02084
+83,Euro,0.02505
+83,Austria,NA
+83,Belgium,NA
+83,Bulgaria,NA
+83,Croatia,NA
+83,Cyprus,NA
+83,Czech Republic,NA
+83,Denmark,0.02502
+83,Estonia,NA
+83,Finland,NA
+83,France,NA
+83,Germany,NA
+83,Greece,NA
+83,Hungary,NA
+83,Iceland,NA
+83,Ireland,NA
+83,Italy,NA
+83,Latvia,NA
+83,Liechtenstein,NA
+83,Lithuania,NA
+83,Luxembourg,NA
+83,Malta,NA
+83,Netherlands,NA
+83,Norway,0.03138
+83,Poland,NA
+83,Portugal,NA
+83,Romania,NA
+83,Russia,NA
+83,Slovakia,NA
+83,Slovenia,NA
+83,Spain,NA
+83,Sweden,0.03157
+83,Switzerland,NA
+83,United Kingdom,0.01563
+83,Australia,0.02767
+83,Brazil,NA
+83,Canada,0.02845
+83,Chile,NA
+83,China,NA
+83,Colombia,NA
+83,Hong Kong,NA
+83,India,NA
+83,Japan,0.02204
+83,Malaysia,NA
+83,Mexico,NA
+83,New Zealand,NA
+83,Singapore,NA
+83,South Africa,NA
+83,South Korea,NA
+83,Taiwan,NA
+83,Thailand,NA
+83,Turkey,NA
+83,United States,0.02102
+84,Euro,0.02518
+84,Austria,NA
+84,Belgium,NA
+84,Bulgaria,NA
+84,Croatia,NA
+84,Cyprus,NA
+84,Czech Republic,NA
+84,Denmark,0.02515
+84,Estonia,NA
+84,Finland,NA
+84,France,NA
+84,Germany,NA
+84,Greece,NA
+84,Hungary,NA
+84,Iceland,NA
+84,Ireland,NA
+84,Italy,NA
+84,Latvia,NA
+84,Liechtenstein,NA
+84,Lithuania,NA
+84,Luxembourg,NA
+84,Malta,NA
+84,Netherlands,NA
+84,Norway,0.03144
+84,Poland,NA
+84,Portugal,NA
+84,Romania,NA
+84,Russia,NA
+84,Slovakia,NA
+84,Slovenia,NA
+84,Spain,NA
+84,Sweden,0.03163
+84,Switzerland,NA
+84,United Kingdom,0.01587
+84,Australia,0.02777
+84,Brazil,NA
+84,Canada,0.02854
+84,Chile,NA
+84,China,NA
+84,Colombia,NA
+84,Hong Kong,NA
+84,India,NA
+84,Japan,0.02219
+84,Malaysia,NA
+84,Mexico,NA
+84,New Zealand,NA
+84,Singapore,NA
+84,South Africa,NA
+84,South Korea,NA
+84,Taiwan,NA
+84,Thailand,NA
+84,Turkey,NA
+84,United States,0.0212
+85,Euro,0.02531
+85,Austria,NA
+85,Belgium,NA
+85,Bulgaria,NA
+85,Croatia,NA
+85,Cyprus,NA
+85,Czech Republic,NA
+85,Denmark,0.02528
+85,Estonia,NA
+85,Finland,NA
+85,France,NA
+85,Germany,NA
+85,Greece,NA
+85,Hungary,NA
+85,Iceland,NA
+85,Ireland,NA
+85,Italy,NA
+85,Latvia,NA
+85,Liechtenstein,NA
+85,Lithuania,NA
+85,Luxembourg,NA
+85,Malta,NA
+85,Netherlands,NA
+85,Norway,0.03149
+85,Poland,NA
+85,Portugal,NA
+85,Romania,NA
+85,Russia,NA
+85,Slovakia,NA
+85,Slovenia,NA
+85,Spain,NA
+85,Sweden,0.03168
+85,Switzerland,NA
+85,United Kingdom,0.0161
+85,Australia,0.02786
+85,Brazil,NA
+85,Canada,0.02862
+85,Chile,NA
+85,China,NA
+85,Colombia,NA
+85,Hong Kong,NA
+85,India,NA
+85,Japan,0.02234
+85,Malaysia,NA
+85,Mexico,NA
+85,New Zealand,NA
+85,Singapore,NA
+85,South Africa,NA
+85,South Korea,NA
+85,Taiwan,NA
+85,Thailand,NA
+85,Turkey,NA
+85,United States,0.02137
+86,Euro,0.02543
+86,Austria,NA
+86,Belgium,NA
+86,Bulgaria,NA
+86,Croatia,NA
+86,Cyprus,NA
+86,Czech Republic,NA
+86,Denmark,0.0254
+86,Estonia,NA
+86,Finland,NA
+86,France,NA
+86,Germany,NA
+86,Greece,NA
+86,Hungary,NA
+86,Iceland,NA
+86,Ireland,NA
+86,Italy,NA
+86,Latvia,NA
+86,Liechtenstein,NA
+86,Lithuania,NA
+86,Luxembourg,NA
+86,Malta,NA
+86,Netherlands,NA
+86,Norway,0.03154
+86,Poland,NA
+86,Portugal,NA
+86,Romania,NA
+86,Russia,NA
+86,Slovakia,NA
+86,Slovenia,NA
+86,Spain,NA
+86,Sweden,0.03173
+86,Switzerland,NA
+86,United Kingdom,0.01633
+86,Australia,0.02796
+86,Brazil,NA
+86,Canada,0.02871
+86,Chile,NA
+86,China,NA
+86,Colombia,NA
+86,Hong Kong,NA
+86,India,NA
+86,Japan,0.02249
+86,Malaysia,NA
+86,Mexico,NA
+86,New Zealand,NA
+86,Singapore,NA
+86,South Africa,NA
+86,South Korea,NA
+86,Taiwan,NA
+86,Thailand,NA
+86,Turkey,NA
+86,United States,0.02153
+87,Euro,0.02555
+87,Austria,NA
+87,Belgium,NA
+87,Bulgaria,NA
+87,Croatia,NA
+87,Cyprus,NA
+87,Czech Republic,NA
+87,Denmark,0.02552
+87,Estonia,NA
+87,Finland,NA
+87,France,NA
+87,Germany,NA
+87,Greece,NA
+87,Hungary,NA
+87,Iceland,NA
+87,Ireland,NA
+87,Italy,NA
+87,Latvia,NA
+87,Liechtenstein,NA
+87,Lithuania,NA
+87,Luxembourg,NA
+87,Malta,NA
+87,Netherlands,NA
+87,Norway,0.03159
+87,Poland,NA
+87,Portugal,NA
+87,Romania,NA
+87,Russia,NA
+87,Slovakia,NA
+87,Slovenia,NA
+87,Spain,NA
+87,Sweden,0.03178
+87,Switzerland,NA
+87,United Kingdom,0.01655
+87,Australia,0.02805
+87,Brazil,NA
+87,Canada,0.02879
+87,Chile,NA
+87,China,NA
+87,Colombia,NA
+87,Hong Kong,NA
+87,India,NA
+87,Japan,0.02263
+87,Malaysia,NA
+87,Mexico,NA
+87,New Zealand,NA
+87,Singapore,NA
+87,South Africa,NA
+87,South Korea,NA
+87,Taiwan,NA
+87,Thailand,NA
+87,Turkey,NA
+87,United States,0.0217
+88,Euro,0.02567
+88,Austria,NA
+88,Belgium,NA
+88,Bulgaria,NA
+88,Croatia,NA
+88,Cyprus,NA
+88,Czech Republic,NA
+88,Denmark,0.02564
+88,Estonia,NA
+88,Finland,NA
+88,France,NA
+88,Germany,NA
+88,Greece,NA
+88,Hungary,NA
+88,Iceland,NA
+88,Ireland,NA
+88,Italy,NA
+88,Latvia,NA
+88,Liechtenstein,NA
+88,Lithuania,NA
+88,Luxembourg,NA
+88,Malta,NA
+88,Netherlands,NA
+88,Norway,0.03164
+88,Poland,NA
+88,Portugal,NA
+88,Romania,NA
+88,Russia,NA
+88,Slovakia,NA
+88,Slovenia,NA
+88,Spain,NA
+88,Sweden,0.03182
+88,Switzerland,NA
+88,United Kingdom,0.01677
+88,Australia,0.02814
+88,Brazil,NA
+88,Canada,0.02887
+88,Chile,NA
+88,China,NA
+88,Colombia,NA
+88,Hong Kong,NA
+88,India,NA
+88,Japan,0.02277
+88,Malaysia,NA
+88,Mexico,NA
+88,New Zealand,NA
+88,Singapore,NA
+88,South Africa,NA
+88,South Korea,NA
+88,Taiwan,NA
+88,Thailand,NA
+88,Turkey,NA
+88,United States,0.02186
+89,Euro,0.02578
+89,Austria,NA
+89,Belgium,NA
+89,Bulgaria,NA
+89,Croatia,NA
+89,Cyprus,NA
+89,Czech Republic,NA
+89,Denmark,0.02575
+89,Estonia,NA
+89,Finland,NA
+89,France,NA
+89,Germany,NA
+89,Greece,NA
+89,Hungary,NA
+89,Iceland,NA
+89,Ireland,NA
+89,Italy,NA
+89,Latvia,NA
+89,Liechtenstein,NA
+89,Lithuania,NA
+89,Luxembourg,NA
+89,Malta,NA
+89,Netherlands,NA
+89,Norway,0.03169
+89,Poland,NA
+89,Portugal,NA
+89,Romania,NA
+89,Russia,NA
+89,Slovakia,NA
+89,Slovenia,NA
+89,Spain,NA
+89,Sweden,0.03187
+89,Switzerland,NA
+89,United Kingdom,0.01698
+89,Australia,0.02823
+89,Brazil,NA
+89,Canada,0.02895
+89,Chile,NA
+89,China,NA
+89,Colombia,NA
+89,Hong Kong,NA
+89,India,NA
+89,Japan,0.02291
+89,Malaysia,NA
+89,Mexico,NA
+89,New Zealand,NA
+89,Singapore,NA
+89,South Africa,NA
+89,South Korea,NA
+89,Taiwan,NA
+89,Thailand,NA
+89,Turkey,NA
+89,United States,0.02201
+90,Euro,0.0259
+90,Austria,NA
+90,Belgium,NA
+90,Bulgaria,NA
+90,Croatia,NA
+90,Cyprus,NA
+90,Czech Republic,NA
+90,Denmark,0.02587
+90,Estonia,NA
+90,Finland,NA
+90,France,NA
+90,Germany,NA
+90,Greece,NA
+90,Hungary,NA
+90,Iceland,NA
+90,Ireland,NA
+90,Italy,NA
+90,Latvia,NA
+90,Liechtenstein,NA
+90,Lithuania,NA
+90,Luxembourg,NA
+90,Malta,NA
+90,Netherlands,NA
+90,Norway,0.03174
+90,Poland,NA
+90,Portugal,NA
+90,Romania,NA
+90,Russia,NA
+90,Slovakia,NA
+90,Slovenia,NA
+90,Spain,NA
+90,Sweden,0.03192
+90,Switzerland,NA
+90,United Kingdom,0.01719
+90,Australia,0.02831
+90,Brazil,NA
+90,Canada,0.02903
+90,Chile,NA
+90,China,NA
+90,Colombia,NA
+90,Hong Kong,NA
+90,India,NA
+90,Japan,0.02304
+90,Malaysia,NA
+90,Mexico,NA
+90,New Zealand,NA
+90,Singapore,NA
+90,South Africa,NA
+90,South Korea,NA
+90,Taiwan,NA
+90,Thailand,NA
+90,Turkey,NA
+90,United States,0.02217
+91,Euro,0.02601
+91,Austria,NA
+91,Belgium,NA
+91,Bulgaria,NA
+91,Croatia,NA
+91,Cyprus,NA
+91,Czech Republic,NA
+91,Denmark,0.02598
+91,Estonia,NA
+91,Finland,NA
+91,France,NA
+91,Germany,NA
+91,Greece,NA
+91,Hungary,NA
+91,Iceland,NA
+91,Ireland,NA
+91,Italy,NA
+91,Latvia,NA
+91,Liechtenstein,NA
+91,Lithuania,NA
+91,Luxembourg,NA
+91,Malta,NA
+91,Netherlands,NA
+91,Norway,0.03179
+91,Poland,NA
+91,Portugal,NA
+91,Romania,NA
+91,Russia,NA
+91,Slovakia,NA
+91,Slovenia,NA
+91,Spain,NA
+91,Sweden,0.03196
+91,Switzerland,NA
+91,United Kingdom,0.01739
+91,Australia,0.0284
+91,Brazil,NA
+91,Canada,0.02911
+91,Chile,NA
+91,China,NA
+91,Colombia,NA
+91,Hong Kong,NA
+91,India,NA
+91,Japan,0.02317
+91,Malaysia,NA
+91,Mexico,NA
+91,New Zealand,NA
+91,Singapore,NA
+91,South Africa,NA
+91,South Korea,NA
+91,Taiwan,NA
+91,Thailand,NA
+91,Turkey,NA
+91,United States,0.02232
+92,Euro,0.02611
+92,Austria,NA
+92,Belgium,NA
+92,Bulgaria,NA
+92,Croatia,NA
+92,Cyprus,NA
+92,Czech Republic,NA
+92,Denmark,0.02609
+92,Estonia,NA
+92,Finland,NA
+92,France,NA
+92,Germany,NA
+92,Greece,NA
+92,Hungary,NA
+92,Iceland,NA
+92,Ireland,NA
+92,Italy,NA
+92,Latvia,NA
+92,Liechtenstein,NA
+92,Lithuania,NA
+92,Luxembourg,NA
+92,Malta,NA
+92,Netherlands,NA
+92,Norway,0.03183
+92,Poland,NA
+92,Portugal,NA
+92,Romania,NA
+92,Russia,NA
+92,Slovakia,NA
+92,Slovenia,NA
+92,Spain,NA
+92,Sweden,0.03201
+92,Switzerland,NA
+92,United Kingdom,0.01759
+92,Australia,0.02848
+92,Brazil,NA
+92,Canada,0.02918
+92,Chile,NA
+92,China,NA
+92,Colombia,NA
+92,Hong Kong,NA
+92,India,NA
+92,Japan,0.0233
+92,Malaysia,NA
+92,Mexico,NA
+92,New Zealand,NA
+92,Singapore,NA
+92,South Africa,NA
+92,South Korea,NA
+92,Taiwan,NA
+92,Thailand,NA
+92,Turkey,NA
+92,United States,0.02246
+93,Euro,0.02622
+93,Austria,NA
+93,Belgium,NA
+93,Bulgaria,NA
+93,Croatia,NA
+93,Cyprus,NA
+93,Czech Republic,NA
+93,Denmark,0.02619
+93,Estonia,NA
+93,Finland,NA
+93,France,NA
+93,Germany,NA
+93,Greece,NA
+93,Hungary,NA
+93,Iceland,NA
+93,Ireland,NA
+93,Italy,NA
+93,Latvia,NA
+93,Liechtenstein,NA
+93,Lithuania,NA
+93,Luxembourg,NA
+93,Malta,NA
+93,Netherlands,NA
+93,Norway,0.03188
+93,Poland,NA
+93,Portugal,NA
+93,Romania,NA
+93,Russia,NA
+93,Slovakia,NA
+93,Slovenia,NA
+93,Spain,NA
+93,Sweden,0.03205
+93,Switzerland,NA
+93,United Kingdom,0.01779
+93,Australia,0.02856
+93,Brazil,NA
+93,Canada,0.02926
+93,Chile,NA
+93,China,NA
+93,Colombia,NA
+93,Hong Kong,NA
+93,India,NA
+93,Japan,0.02343
+93,Malaysia,NA
+93,Mexico,NA
+93,New Zealand,NA
+93,Singapore,NA
+93,South Africa,NA
+93,South Korea,NA
+93,Taiwan,NA
+93,Thailand,NA
+93,Turkey,NA
+93,United States,0.02261
+94,Euro,0.02632
+94,Austria,NA
+94,Belgium,NA
+94,Bulgaria,NA
+94,Croatia,NA
+94,Cyprus,NA
+94,Czech Republic,NA
+94,Denmark,0.0263
+94,Estonia,NA
+94,Finland,NA
+94,France,NA
+94,Germany,NA
+94,Greece,NA
+94,Hungary,NA
+94,Iceland,NA
+94,Ireland,NA
+94,Italy,NA
+94,Latvia,NA
+94,Liechtenstein,NA
+94,Lithuania,NA
+94,Luxembourg,NA
+94,Malta,NA
+94,Netherlands,NA
+94,Norway,0.03192
+94,Poland,NA
+94,Portugal,NA
+94,Romania,NA
+94,Russia,NA
+94,Slovakia,NA
+94,Slovenia,NA
+94,Spain,NA
+94,Sweden,0.03209
+94,Switzerland,NA
+94,United Kingdom,0.01798
+94,Australia,0.02864
+94,Brazil,NA
+94,Canada,0.02933
+94,Chile,NA
+94,China,NA
+94,Colombia,NA
+94,Hong Kong,NA
+94,India,NA
+94,Japan,0.02355
+94,Malaysia,NA
+94,Mexico,NA
+94,New Zealand,NA
+94,Singapore,NA
+94,South Africa,NA
+94,South Korea,NA
+94,Taiwan,NA
+94,Thailand,NA
+94,Turkey,NA
+94,United States,0.02275
+95,Euro,0.02643
+95,Austria,NA
+95,Belgium,NA
+95,Bulgaria,NA
+95,Croatia,NA
+95,Cyprus,NA
+95,Czech Republic,NA
+95,Denmark,0.0264
+95,Estonia,NA
+95,Finland,NA
+95,France,NA
+95,Germany,NA
+95,Greece,NA
+95,Hungary,NA
+95,Iceland,NA
+95,Ireland,NA
+95,Italy,NA
+95,Latvia,NA
+95,Liechtenstein,NA
+95,Lithuania,NA
+95,Luxembourg,NA
+95,Malta,NA
+95,Netherlands,NA
+95,Norway,0.03196
+95,Poland,NA
+95,Portugal,NA
+95,Romania,NA
+95,Russia,NA
+95,Slovakia,NA
+95,Slovenia,NA
+95,Spain,NA
+95,Sweden,0.03213
+95,Switzerland,NA
+95,United Kingdom,0.01816
+95,Australia,0.02872
+95,Brazil,NA
+95,Canada,0.0294
+95,Chile,NA
+95,China,NA
+95,Colombia,NA
+95,Hong Kong,NA
+95,India,NA
+95,Japan,0.02367
+95,Malaysia,NA
+95,Mexico,NA
+95,New Zealand,NA
+95,Singapore,NA
+95,South Africa,NA
+95,South Korea,NA
+95,Taiwan,NA
+95,Thailand,NA
+95,Turkey,NA
+95,United States,0.02289
+96,Euro,0.02652
+96,Austria,NA
+96,Belgium,NA
+96,Bulgaria,NA
+96,Croatia,NA
+96,Cyprus,NA
+96,Czech Republic,NA
+96,Denmark,0.0265
+96,Estonia,NA
+96,Finland,NA
+96,France,NA
+96,Germany,NA
+96,Greece,NA
+96,Hungary,NA
+96,Iceland,NA
+96,Ireland,NA
+96,Italy,NA
+96,Latvia,NA
+96,Liechtenstein,NA
+96,Lithuania,NA
+96,Luxembourg,NA
+96,Malta,NA
+96,Netherlands,NA
+96,Norway,0.03201
+96,Poland,NA
+96,Portugal,NA
+96,Romania,NA
+96,Russia,NA
+96,Slovakia,NA
+96,Slovenia,NA
+96,Spain,NA
+96,Sweden,0.03217
+96,Switzerland,NA
+96,United Kingdom,0.01835
+96,Australia,0.02879
+96,Brazil,NA
+96,Canada,0.02947
+96,Chile,NA
+96,China,NA
+96,Colombia,NA
+96,Hong Kong,NA
+96,India,NA
+96,Japan,0.02378
+96,Malaysia,NA
+96,Mexico,NA
+96,New Zealand,NA
+96,Singapore,NA
+96,South Africa,NA
+96,South Korea,NA
+96,Taiwan,NA
+96,Thailand,NA
+96,Turkey,NA
+96,United States,0.02302
+97,Euro,0.02662
+97,Austria,NA
+97,Belgium,NA
+97,Bulgaria,NA
+97,Croatia,NA
+97,Cyprus,NA
+97,Czech Republic,NA
+97,Denmark,0.0266
+97,Estonia,NA
+97,Finland,NA
+97,France,NA
+97,Germany,NA
+97,Greece,NA
+97,Hungary,NA
+97,Iceland,NA
+97,Ireland,NA
+97,Italy,NA
+97,Latvia,NA
+97,Liechtenstein,NA
+97,Lithuania,NA
+97,Luxembourg,NA
+97,Malta,NA
+97,Netherlands,NA
+97,Norway,0.03205
+97,Poland,NA
+97,Portugal,NA
+97,Romania,NA
+97,Russia,NA
+97,Slovakia,NA
+97,Slovenia,NA
+97,Spain,NA
+97,Sweden,0.03221
+97,Switzerland,NA
+97,United Kingdom,0.01853
+97,Australia,0.02887
+97,Brazil,NA
+97,Canada,0.02953
+97,Chile,NA
+97,China,NA
+97,Colombia,NA
+97,Hong Kong,NA
+97,India,NA
+97,Japan,0.0239
+97,Malaysia,NA
+97,Mexico,NA
+97,New Zealand,NA
+97,Singapore,NA
+97,South Africa,NA
+97,South Korea,NA
+97,Taiwan,NA
+97,Thailand,NA
+97,Turkey,NA
+97,United States,0.02315
+98,Euro,0.02672
+98,Austria,NA
+98,Belgium,NA
+98,Bulgaria,NA
+98,Croatia,NA
+98,Cyprus,NA
+98,Czech Republic,NA
+98,Denmark,0.02669
+98,Estonia,NA
+98,Finland,NA
+98,France,NA
+98,Germany,NA
+98,Greece,NA
+98,Hungary,NA
+98,Iceland,NA
+98,Ireland,NA
+98,Italy,NA
+98,Latvia,NA
+98,Liechtenstein,NA
+98,Lithuania,NA
+98,Luxembourg,NA
+98,Malta,NA
+98,Netherlands,NA
+98,Norway,0.03209
+98,Poland,NA
+98,Portugal,NA
+98,Romania,NA
+98,Russia,NA
+98,Slovakia,NA
+98,Slovenia,NA
+98,Spain,NA
+98,Sweden,0.03225
+98,Switzerland,NA
+98,United Kingdom,0.0187
+98,Australia,0.02894
+98,Brazil,NA
+98,Canada,0.0296
+98,Chile,NA
+98,China,NA
+98,Colombia,NA
+98,Hong Kong,NA
+98,India,NA
+98,Japan,0.02401
+98,Malaysia,NA
+98,Mexico,NA
+98,New Zealand,NA
+98,Singapore,NA
+98,South Africa,NA
+98,South Korea,NA
+98,Taiwan,NA
+98,Thailand,NA
+98,Turkey,NA
+98,United States,0.02328
+99,Euro,0.02681
+99,Austria,NA
+99,Belgium,NA
+99,Bulgaria,NA
+99,Croatia,NA
+99,Cyprus,NA
+99,Czech Republic,NA
+99,Denmark,0.02679
+99,Estonia,NA
+99,Finland,NA
+99,France,NA
+99,Germany,NA
+99,Greece,NA
+99,Hungary,NA
+99,Iceland,NA
+99,Ireland,NA
+99,Italy,NA
+99,Latvia,NA
+99,Liechtenstein,NA
+99,Lithuania,NA
+99,Luxembourg,NA
+99,Malta,NA
+99,Netherlands,NA
+99,Norway,0.03213
+99,Poland,NA
+99,Portugal,NA
+99,Romania,NA
+99,Russia,NA
+99,Slovakia,NA
+99,Slovenia,NA
+99,Spain,NA
+99,Sweden,0.03229
+99,Switzerland,NA
+99,United Kingdom,0.01888
+99,Australia,0.02901
+99,Brazil,NA
+99,Canada,0.02966
+99,Chile,NA
+99,China,NA
+99,Colombia,NA
+99,Hong Kong,NA
+99,India,NA
+99,Japan,0.02412
+99,Malaysia,NA
+99,Mexico,NA
+99,New Zealand,NA
+99,Singapore,NA
+99,South Africa,NA
+99,South Korea,NA
+99,Taiwan,NA
+99,Thailand,NA
+99,Turkey,NA
+99,United States,0.02341
+100,Euro,0.0269
+100,Austria,NA
+100,Belgium,NA
+100,Bulgaria,NA
+100,Croatia,NA
+100,Cyprus,NA
+100,Czech Republic,NA
+100,Denmark,0.02688
+100,Estonia,NA
+100,Finland,NA
+100,France,NA
+100,Germany,NA
+100,Greece,NA
+100,Hungary,NA
+100,Iceland,NA
+100,Ireland,NA
+100,Italy,NA
+100,Latvia,NA
+100,Liechtenstein,NA
+100,Lithuania,NA
+100,Luxembourg,NA
+100,Malta,NA
+100,Netherlands,NA
+100,Norway,0.03216
+100,Poland,NA
+100,Portugal,NA
+100,Romania,NA
+100,Russia,NA
+100,Slovakia,NA
+100,Slovenia,NA
+100,Spain,NA
+100,Sweden,0.03232
+100,Switzerland,NA
+100,United Kingdom,0.01905
+100,Australia,0.02908
+100,Brazil,NA
+100,Canada,0.02973
+100,Chile,NA
+100,China,NA
+100,Colombia,NA
+100,Hong Kong,NA
+100,India,NA
+100,Japan,0.02423
+100,Malaysia,NA
+100,Mexico,NA
+100,New Zealand,NA
+100,Singapore,NA
+100,South Africa,NA
+100,South Korea,NA
+100,Taiwan,NA
+100,Thailand,NA
+100,Turkey,NA
+100,United States,0.02354
+101,Euro,0.02699
+101,Austria,NA
+101,Belgium,NA
+101,Bulgaria,NA
+101,Croatia,NA
+101,Cyprus,NA
+101,Czech Republic,NA
+101,Denmark,0.02697
+101,Estonia,NA
+101,Finland,NA
+101,France,NA
+101,Germany,NA
+101,Greece,NA
+101,Hungary,NA
+101,Iceland,NA
+101,Ireland,NA
+101,Italy,NA
+101,Latvia,NA
+101,Liechtenstein,NA
+101,Lithuania,NA
+101,Luxembourg,NA
+101,Malta,NA
+101,Netherlands,NA
+101,Norway,0.0322
+101,Poland,NA
+101,Portugal,NA
+101,Romania,NA
+101,Russia,NA
+101,Slovakia,NA
+101,Slovenia,NA
+101,Spain,NA
+101,Sweden,0.03236
+101,Switzerland,NA
+101,United Kingdom,0.01921
+101,Australia,0.02915
+101,Brazil,NA
+101,Canada,0.02979
+101,Chile,NA
+101,China,NA
+101,Colombia,NA
+101,Hong Kong,NA
+101,India,NA
+101,Japan,0.02434
+101,Malaysia,NA
+101,Mexico,NA
+101,New Zealand,NA
+101,Singapore,NA
+101,South Africa,NA
+101,South Korea,NA
+101,Taiwan,NA
+101,Thailand,NA
+101,Turkey,NA
+101,United States,0.02366
+102,Euro,0.02708
+102,Austria,NA
+102,Belgium,NA
+102,Bulgaria,NA
+102,Croatia,NA
+102,Cyprus,NA
+102,Czech Republic,NA
+102,Denmark,0.02705
+102,Estonia,NA
+102,Finland,NA
+102,France,NA
+102,Germany,NA
+102,Greece,NA
+102,Hungary,NA
+102,Iceland,NA
+102,Ireland,NA
+102,Italy,NA
+102,Latvia,NA
+102,Liechtenstein,NA
+102,Lithuania,NA
+102,Luxembourg,NA
+102,Malta,NA
+102,Netherlands,NA
+102,Norway,0.03224
+102,Poland,NA
+102,Portugal,NA
+102,Romania,NA
+102,Russia,NA
+102,Slovakia,NA
+102,Slovenia,NA
+102,Spain,NA
+102,Sweden,0.0324
+102,Switzerland,NA
+102,United Kingdom,0.01938
+102,Australia,0.02921
+102,Brazil,NA
+102,Canada,0.02985
+102,Chile,NA
+102,China,NA
+102,Colombia,NA
+102,Hong Kong,NA
+102,India,NA
+102,Japan,0.02444
+102,Malaysia,NA
+102,Mexico,NA
+102,New Zealand,NA
+102,Singapore,NA
+102,South Africa,NA
+102,South Korea,NA
+102,Taiwan,NA
+102,Thailand,NA
+102,Turkey,NA
+102,United States,0.02378
+103,Euro,0.02717
+103,Austria,NA
+103,Belgium,NA
+103,Bulgaria,NA
+103,Croatia,NA
+103,Cyprus,NA
+103,Czech Republic,NA
+103,Denmark,0.02714
+103,Estonia,NA
+103,Finland,NA
+103,France,NA
+103,Germany,NA
+103,Greece,NA
+103,Hungary,NA
+103,Iceland,NA
+103,Ireland,NA
+103,Italy,NA
+103,Latvia,NA
+103,Liechtenstein,NA
+103,Lithuania,NA
+103,Luxembourg,NA
+103,Malta,NA
+103,Netherlands,NA
+103,Norway,0.03228
+103,Poland,NA
+103,Portugal,NA
+103,Romania,NA
+103,Russia,NA
+103,Slovakia,NA
+103,Slovenia,NA
+103,Spain,NA
+103,Sweden,0.03243
+103,Switzerland,NA
+103,United Kingdom,0.01954
+103,Australia,0.02928
+103,Brazil,NA
+103,Canada,0.02991
+103,Chile,NA
+103,China,NA
+103,Colombia,NA
+103,Hong Kong,NA
+103,India,NA
+103,Japan,0.02454
+103,Malaysia,NA
+103,Mexico,NA
+103,New Zealand,NA
+103,Singapore,NA
+103,South Africa,NA
+103,South Korea,NA
+103,Taiwan,NA
+103,Thailand,NA
+103,Turkey,NA
+103,United States,0.0239
+104,Euro,0.02725
+104,Austria,NA
+104,Belgium,NA
+104,Bulgaria,NA
+104,Croatia,NA
+104,Cyprus,NA
+104,Czech Republic,NA
+104,Denmark,0.02723
+104,Estonia,NA
+104,Finland,NA
+104,France,NA
+104,Germany,NA
+104,Greece,NA
+104,Hungary,NA
+104,Iceland,NA
+104,Ireland,NA
+104,Italy,NA
+104,Latvia,NA
+104,Liechtenstein,NA
+104,Lithuania,NA
+104,Luxembourg,NA
+104,Malta,NA
+104,Netherlands,NA
+104,Norway,0.03231
+104,Poland,NA
+104,Portugal,NA
+104,Romania,NA
+104,Russia,NA
+104,Slovakia,NA
+104,Slovenia,NA
+104,Spain,NA
+104,Sweden,0.03247
+104,Switzerland,NA
+104,United Kingdom,0.01969
+104,Australia,0.02934
+104,Brazil,NA
+104,Canada,0.02997
+104,Chile,NA
+104,China,NA
+104,Colombia,NA
+104,Hong Kong,NA
+104,India,NA
+104,Japan,0.02464
+104,Malaysia,NA
+104,Mexico,NA
+104,New Zealand,NA
+104,Singapore,NA
+104,South Africa,NA
+104,South Korea,NA
+104,Taiwan,NA
+104,Thailand,NA
+104,Turkey,NA
+104,United States,0.02401
+105,Euro,0.02733
+105,Austria,NA
+105,Belgium,NA
+105,Bulgaria,NA
+105,Croatia,NA
+105,Cyprus,NA
+105,Czech Republic,NA
+105,Denmark,0.02731
+105,Estonia,NA
+105,Finland,NA
+105,France,NA
+105,Germany,NA
+105,Greece,NA
+105,Hungary,NA
+105,Iceland,NA
+105,Ireland,NA
+105,Italy,NA
+105,Latvia,NA
+105,Liechtenstein,NA
+105,Lithuania,NA
+105,Luxembourg,NA
+105,Malta,NA
+105,Netherlands,NA
+105,Norway,0.03235
+105,Poland,NA
+105,Portugal,NA
+105,Romania,NA
+105,Russia,NA
+105,Slovakia,NA
+105,Slovenia,NA
+105,Spain,NA
+105,Sweden,0.0325
+105,Switzerland,NA
+105,United Kingdom,0.01985
+105,Australia,0.02941
+105,Brazil,NA
+105,Canada,0.03002
+105,Chile,NA
+105,China,NA
+105,Colombia,NA
+105,Hong Kong,NA
+105,India,NA
+105,Japan,0.02474
+105,Malaysia,NA
+105,Mexico,NA
+105,New Zealand,NA
+105,Singapore,NA
+105,South Africa,NA
+105,South Korea,NA
+105,Taiwan,NA
+105,Thailand,NA
+105,Turkey,NA
+105,United States,0.02412
+106,Euro,0.02741
+106,Austria,NA
+106,Belgium,NA
+106,Bulgaria,NA
+106,Croatia,NA
+106,Cyprus,NA
+106,Czech Republic,NA
+106,Denmark,0.02739
+106,Estonia,NA
+106,Finland,NA
+106,France,NA
+106,Germany,NA
+106,Greece,NA
+106,Hungary,NA
+106,Iceland,NA
+106,Ireland,NA
+106,Italy,NA
+106,Latvia,NA
+106,Liechtenstein,NA
+106,Lithuania,NA
+106,Luxembourg,NA
+106,Malta,NA
+106,Netherlands,NA
+106,Norway,0.03238
+106,Poland,NA
+106,Portugal,NA
+106,Romania,NA
+106,Russia,NA
+106,Slovakia,NA
+106,Slovenia,NA
+106,Spain,NA
+106,Sweden,0.03253
+106,Switzerland,NA
+106,United Kingdom,0.02
+106,Australia,0.02947
+106,Brazil,NA
+106,Canada,0.03008
+106,Chile,NA
+106,China,NA
+106,Colombia,NA
+106,Hong Kong,NA
+106,India,NA
+106,Japan,0.02484
+106,Malaysia,NA
+106,Mexico,NA
+106,New Zealand,NA
+106,Singapore,NA
+106,South Africa,NA
+106,South Korea,NA
+106,Taiwan,NA
+106,Thailand,NA
+106,Turkey,NA
+106,United States,0.02424
+107,Euro,0.02749
+107,Austria,NA
+107,Belgium,NA
+107,Bulgaria,NA
+107,Croatia,NA
+107,Cyprus,NA
+107,Czech Republic,NA
+107,Denmark,0.02747
+107,Estonia,NA
+107,Finland,NA
+107,France,NA
+107,Germany,NA
+107,Greece,NA
+107,Hungary,NA
+107,Iceland,NA
+107,Ireland,NA
+107,Italy,NA
+107,Latvia,NA
+107,Liechtenstein,NA
+107,Lithuania,NA
+107,Luxembourg,NA
+107,Malta,NA
+107,Netherlands,NA
+107,Norway,0.03241
+107,Poland,NA
+107,Portugal,NA
+107,Romania,NA
+107,Russia,NA
+107,Slovakia,NA
+107,Slovenia,NA
+107,Spain,NA
+107,Sweden,0.03256
+107,Switzerland,NA
+107,United Kingdom,0.02015
+107,Australia,0.02953
+107,Brazil,NA
+107,Canada,0.03013
+107,Chile,NA
+107,China,NA
+107,Colombia,NA
+107,Hong Kong,NA
+107,India,NA
+107,Japan,0.02493
+107,Malaysia,NA
+107,Mexico,NA
+107,New Zealand,NA
+107,Singapore,NA
+107,South Africa,NA
+107,South Korea,NA
+107,Taiwan,NA
+107,Thailand,NA
+107,Turkey,NA
+107,United States,0.02434
+108,Euro,0.02757
+108,Austria,NA
+108,Belgium,NA
+108,Bulgaria,NA
+108,Croatia,NA
+108,Cyprus,NA
+108,Czech Republic,NA
+108,Denmark,0.02755
+108,Estonia,NA
+108,Finland,NA
+108,France,NA
+108,Germany,NA
+108,Greece,NA
+108,Hungary,NA
+108,Iceland,NA
+108,Ireland,NA
+108,Italy,NA
+108,Latvia,NA
+108,Liechtenstein,NA
+108,Lithuania,NA
+108,Luxembourg,NA
+108,Malta,NA
+108,Netherlands,NA
+108,Norway,0.03245
+108,Poland,NA
+108,Portugal,NA
+108,Romania,NA
+108,Russia,NA
+108,Slovakia,NA
+108,Slovenia,NA
+108,Spain,NA
+108,Sweden,0.0326
+108,Switzerland,NA
+108,United Kingdom,0.02029
+108,Australia,0.02959
+108,Brazil,NA
+108,Canada,0.03019
+108,Chile,NA
+108,China,NA
+108,Colombia,NA
+108,Hong Kong,NA
+108,India,NA
+108,Japan,0.02502
+108,Malaysia,NA
+108,Mexico,NA
+108,New Zealand,NA
+108,Singapore,NA
+108,South Africa,NA
+108,South Korea,NA
+108,Taiwan,NA
+108,Thailand,NA
+108,Turkey,NA
+108,United States,0.02445
+109,Euro,0.02765
+109,Austria,NA
+109,Belgium,NA
+109,Bulgaria,NA
+109,Croatia,NA
+109,Cyprus,NA
+109,Czech Republic,NA
+109,Denmark,0.02763
+109,Estonia,NA
+109,Finland,NA
+109,France,NA
+109,Germany,NA
+109,Greece,NA
+109,Hungary,NA
+109,Iceland,NA
+109,Ireland,NA
+109,Italy,NA
+109,Latvia,NA
+109,Liechtenstein,NA
+109,Lithuania,NA
+109,Luxembourg,NA
+109,Malta,NA
+109,Netherlands,NA
+109,Norway,0.03248
+109,Poland,NA
+109,Portugal,NA
+109,Romania,NA
+109,Russia,NA
+109,Slovakia,NA
+109,Slovenia,NA
+109,Spain,NA
+109,Sweden,0.03263
+109,Switzerland,NA
+109,United Kingdom,0.02043
+109,Australia,0.02965
+109,Brazil,NA
+109,Canada,0.03024
+109,Chile,NA
+109,China,NA
+109,Colombia,NA
+109,Hong Kong,NA
+109,India,NA
+109,Japan,0.02512
+109,Malaysia,NA
+109,Mexico,NA
+109,New Zealand,NA
+109,Singapore,NA
+109,South Africa,NA
+109,South Korea,NA
+109,Taiwan,NA
+109,Thailand,NA
+109,Turkey,NA
+109,United States,0.02456
+110,Euro,0.02773
+110,Austria,NA
+110,Belgium,NA
+110,Bulgaria,NA
+110,Croatia,NA
+110,Cyprus,NA
+110,Czech Republic,NA
+110,Denmark,0.0277
+110,Estonia,NA
+110,Finland,NA
+110,France,NA
+110,Germany,NA
+110,Greece,NA
+110,Hungary,NA
+110,Iceland,NA
+110,Ireland,NA
+110,Italy,NA
+110,Latvia,NA
+110,Liechtenstein,NA
+110,Lithuania,NA
+110,Luxembourg,NA
+110,Malta,NA
+110,Netherlands,NA
+110,Norway,0.03251
+110,Poland,NA
+110,Portugal,NA
+110,Romania,NA
+110,Russia,NA
+110,Slovakia,NA
+110,Slovenia,NA
+110,Spain,NA
+110,Sweden,0.03266
+110,Switzerland,NA
+110,United Kingdom,0.02058
+110,Australia,0.02971
+110,Brazil,NA
+110,Canada,0.03029
+110,Chile,NA
+110,China,NA
+110,Colombia,NA
+110,Hong Kong,NA
+110,India,NA
+110,Japan,0.02521
+110,Malaysia,NA
+110,Mexico,NA
+110,New Zealand,NA
+110,Singapore,NA
+110,South Africa,NA
+110,South Korea,NA
+110,Taiwan,NA
+110,Thailand,NA
+110,Turkey,NA
+110,United States,0.02466
+111,Euro,0.0278
+111,Austria,NA
+111,Belgium,NA
+111,Bulgaria,NA
+111,Croatia,NA
+111,Cyprus,NA
+111,Czech Republic,NA
+111,Denmark,0.02778
+111,Estonia,NA
+111,Finland,NA
+111,France,NA
+111,Germany,NA
+111,Greece,NA
+111,Hungary,NA
+111,Iceland,NA
+111,Ireland,NA
+111,Italy,NA
+111,Latvia,NA
+111,Liechtenstein,NA
+111,Lithuania,NA
+111,Luxembourg,NA
+111,Malta,NA
+111,Netherlands,NA
+111,Norway,0.03254
+111,Poland,NA
+111,Portugal,NA
+111,Romania,NA
+111,Russia,NA
+111,Slovakia,NA
+111,Slovenia,NA
+111,Spain,NA
+111,Sweden,0.03269
+111,Switzerland,NA
+111,United Kingdom,0.02071
+111,Australia,0.029760000000000002
+111,Brazil,NA
+111,Canada,0.03035
+111,Chile,NA
+111,China,NA
+111,Colombia,NA
+111,Hong Kong,NA
+111,India,NA
+111,Japan,0.02529
+111,Malaysia,NA
+111,Mexico,NA
+111,New Zealand,NA
+111,Singapore,NA
+111,South Africa,NA
+111,South Korea,NA
+111,Taiwan,NA
+111,Thailand,NA
+111,Turkey,NA
+111,United States,0.02476
+112,Euro,0.02787
+112,Austria,NA
+112,Belgium,NA
+112,Bulgaria,NA
+112,Croatia,NA
+112,Cyprus,NA
+112,Czech Republic,NA
+112,Denmark,0.02785
+112,Estonia,NA
+112,Finland,NA
+112,France,NA
+112,Germany,NA
+112,Greece,NA
+112,Hungary,NA
+112,Iceland,NA
+112,Ireland,NA
+112,Italy,NA
+112,Latvia,NA
+112,Liechtenstein,NA
+112,Lithuania,NA
+112,Luxembourg,NA
+112,Malta,NA
+112,Netherlands,NA
+112,Norway,0.03257
+112,Poland,NA
+112,Portugal,NA
+112,Romania,NA
+112,Russia,NA
+112,Slovakia,NA
+112,Slovenia,NA
+112,Spain,NA
+112,Sweden,0.03272
+112,Switzerland,NA
+112,United Kingdom,0.02085
+112,Australia,0.02982
+112,Brazil,NA
+112,Canada,0.0304
+112,Chile,NA
+112,China,NA
+112,Colombia,NA
+112,Hong Kong,NA
+112,India,NA
+112,Japan,0.02538
+112,Malaysia,NA
+112,Mexico,NA
+112,New Zealand,NA
+112,Singapore,NA
+112,South Africa,NA
+112,South Korea,NA
+112,Taiwan,NA
+112,Thailand,NA
+112,Turkey,NA
+112,United States,0.02486
+113,Euro,0.02794
+113,Austria,NA
+113,Belgium,NA
+113,Bulgaria,NA
+113,Croatia,NA
+113,Cyprus,NA
+113,Czech Republic,NA
+113,Denmark,0.02792
+113,Estonia,NA
+113,Finland,NA
+113,France,NA
+113,Germany,NA
+113,Greece,NA
+113,Hungary,NA
+113,Iceland,NA
+113,Ireland,NA
+113,Italy,NA
+113,Latvia,NA
+113,Liechtenstein,NA
+113,Lithuania,NA
+113,Luxembourg,NA
+113,Malta,NA
+113,Netherlands,NA
+113,Norway,0.0326
+113,Poland,NA
+113,Portugal,NA
+113,Romania,NA
+113,Russia,NA
+113,Slovakia,NA
+113,Slovenia,NA
+113,Spain,NA
+113,Sweden,0.03275
+113,Switzerland,NA
+113,United Kingdom,0.02098
+113,Australia,0.02987
+113,Brazil,NA
+113,Canada,0.03045
+113,Chile,NA
+113,China,NA
+113,Colombia,NA
+113,Hong Kong,NA
+113,India,NA
+113,Japan,0.02546
+113,Malaysia,NA
+113,Mexico,NA
+113,New Zealand,NA
+113,Singapore,NA
+113,South Africa,NA
+113,South Korea,NA
+113,Taiwan,NA
+113,Thailand,NA
+113,Turkey,NA
+113,United States,0.02496
+114,Euro,0.02801
+114,Austria,NA
+114,Belgium,NA
+114,Bulgaria,NA
+114,Croatia,NA
+114,Cyprus,NA
+114,Czech Republic,NA
+114,Denmark,0.02799
+114,Estonia,NA
+114,Finland,NA
+114,France,NA
+114,Germany,NA
+114,Greece,NA
+114,Hungary,NA
+114,Iceland,NA
+114,Ireland,NA
+114,Italy,NA
+114,Latvia,NA
+114,Liechtenstein,NA
+114,Lithuania,NA
+114,Luxembourg,NA
+114,Malta,NA
+114,Netherlands,NA
+114,Norway,0.03263
+114,Poland,NA
+114,Portugal,NA
+114,Romania,NA
+114,Russia,NA
+114,Slovakia,NA
+114,Slovenia,NA
+114,Spain,NA
+114,Sweden,0.03277
+114,Switzerland,NA
+114,United Kingdom,0.02111
+114,Australia,0.02993
+114,Brazil,NA
+114,Canada,0.03049
+114,Chile,NA
+114,China,NA
+114,Colombia,NA
+114,Hong Kong,NA
+114,India,NA
+114,Japan,0.02555
+114,Malaysia,NA
+114,Mexico,NA
+114,New Zealand,NA
+114,Singapore,NA
+114,South Africa,NA
+114,South Korea,NA
+114,Taiwan,NA
+114,Thailand,NA
+114,Turkey,NA
+114,United States,0.02506
+115,Euro,0.02808
+115,Austria,NA
+115,Belgium,NA
+115,Bulgaria,NA
+115,Croatia,NA
+115,Cyprus,NA
+115,Czech Republic,NA
+115,Denmark,0.02806
+115,Estonia,NA
+115,Finland,NA
+115,France,NA
+115,Germany,NA
+115,Greece,NA
+115,Hungary,NA
+115,Iceland,NA
+115,Ireland,NA
+115,Italy,NA
+115,Latvia,NA
+115,Liechtenstein,NA
+115,Lithuania,NA
+115,Luxembourg,NA
+115,Malta,NA
+115,Netherlands,NA
+115,Norway,0.03266
+115,Poland,NA
+115,Portugal,NA
+115,Romania,NA
+115,Russia,NA
+115,Slovakia,NA
+115,Slovenia,NA
+115,Spain,NA
+115,Sweden,0.0328
+115,Switzerland,NA
+115,United Kingdom,0.02124
+115,Australia,0.02998
+115,Brazil,NA
+115,Canada,0.03054
+115,Chile,NA
+115,China,NA
+115,Colombia,NA
+115,Hong Kong,NA
+115,India,NA
+115,Japan,0.02563
+115,Malaysia,NA
+115,Mexico,NA
+115,New Zealand,NA
+115,Singapore,NA
+115,South Africa,NA
+115,South Korea,NA
+115,Taiwan,NA
+115,Thailand,NA
+115,Turkey,NA
+115,United States,0.02515
+116,Euro,0.02815
+116,Austria,NA
+116,Belgium,NA
+116,Bulgaria,NA
+116,Croatia,NA
+116,Cyprus,NA
+116,Czech Republic,NA
+116,Denmark,0.02813
+116,Estonia,NA
+116,Finland,NA
+116,France,NA
+116,Germany,NA
+116,Greece,NA
+116,Hungary,NA
+116,Iceland,NA
+116,Ireland,NA
+116,Italy,NA
+116,Latvia,NA
+116,Liechtenstein,NA
+116,Lithuania,NA
+116,Luxembourg,NA
+116,Malta,NA
+116,Netherlands,NA
+116,Norway,0.03269
+116,Poland,NA
+116,Portugal,NA
+116,Romania,NA
+116,Russia,NA
+116,Slovakia,NA
+116,Slovenia,NA
+116,Spain,NA
+116,Sweden,0.03283
+116,Switzerland,NA
+116,United Kingdom,0.02137
+116,Australia,0.03003
+116,Brazil,NA
+116,Canada,0.03059
+116,Chile,NA
+116,China,NA
+116,Colombia,NA
+116,Hong Kong,NA
+116,India,NA
+116,Japan,0.02571
+116,Malaysia,NA
+116,Mexico,NA
+116,New Zealand,NA
+116,Singapore,NA
+116,South Africa,NA
+116,South Korea,NA
+116,Taiwan,NA
+116,Thailand,NA
+116,Turkey,NA
+116,United States,0.02524
+117,Euro,0.02822
+117,Austria,NA
+117,Belgium,NA
+117,Bulgaria,NA
+117,Croatia,NA
+117,Cyprus,NA
+117,Czech Republic,NA
+117,Denmark,0.0282
+117,Estonia,NA
+117,Finland,NA
+117,France,NA
+117,Germany,NA
+117,Greece,NA
+117,Hungary,NA
+117,Iceland,NA
+117,Ireland,NA
+117,Italy,NA
+117,Latvia,NA
+117,Liechtenstein,NA
+117,Lithuania,NA
+117,Luxembourg,NA
+117,Malta,NA
+117,Netherlands,NA
+117,Norway,0.03272
+117,Poland,NA
+117,Portugal,NA
+117,Romania,NA
+117,Russia,NA
+117,Slovakia,NA
+117,Slovenia,NA
+117,Spain,NA
+117,Sweden,0.03286
+117,Switzerland,NA
+117,United Kingdom,0.02149
+117,Australia,0.03008
+117,Brazil,NA
+117,Canada,0.03063
+117,Chile,NA
+117,China,NA
+117,Colombia,NA
+117,Hong Kong,NA
+117,India,NA
+117,Japan,0.02579
+117,Malaysia,NA
+117,Mexico,NA
+117,New Zealand,NA
+117,Singapore,NA
+117,South Africa,NA
+117,South Korea,NA
+117,Taiwan,NA
+117,Thailand,NA
+117,Turkey,NA
+117,United States,0.02534
+118,Euro,0.02828
+118,Austria,NA
+118,Belgium,NA
+118,Bulgaria,NA
+118,Croatia,NA
+118,Cyprus,NA
+118,Czech Republic,NA
+118,Denmark,0.02826
+118,Estonia,NA
+118,Finland,NA
+118,France,NA
+118,Germany,NA
+118,Greece,NA
+118,Hungary,NA
+118,Iceland,NA
+118,Ireland,NA
+118,Italy,NA
+118,Latvia,NA
+118,Liechtenstein,NA
+118,Lithuania,NA
+118,Luxembourg,NA
+118,Malta,NA
+118,Netherlands,NA
+118,Norway,0.03275
+118,Poland,NA
+118,Portugal,NA
+118,Romania,NA
+118,Russia,NA
+118,Slovakia,NA
+118,Slovenia,NA
+118,Spain,NA
+118,Sweden,0.03288
+118,Switzerland,NA
+118,United Kingdom,0.02161
+118,Australia,0.03013
+118,Brazil,NA
+118,Canada,0.03068
+118,Chile,NA
+118,China,NA
+118,Colombia,NA
+118,Hong Kong,NA
+118,India,NA
+118,Japan,0.02587
+118,Malaysia,NA
+118,Mexico,NA
+118,New Zealand,NA
+118,Singapore,NA
+118,South Africa,NA
+118,South Korea,NA
+118,Taiwan,NA
+118,Thailand,NA
+118,Turkey,NA
+118,United States,0.02543
+119,Euro,0.02835
+119,Austria,NA
+119,Belgium,NA
+119,Bulgaria,NA
+119,Croatia,NA
+119,Cyprus,NA
+119,Czech Republic,NA
+119,Denmark,0.02833
+119,Estonia,NA
+119,Finland,NA
+119,France,NA
+119,Germany,NA
+119,Greece,NA
+119,Hungary,NA
+119,Iceland,NA
+119,Ireland,NA
+119,Italy,NA
+119,Latvia,NA
+119,Liechtenstein,NA
+119,Lithuania,NA
+119,Luxembourg,NA
+119,Malta,NA
+119,Netherlands,NA
+119,Norway,0.03278
+119,Poland,NA
+119,Portugal,NA
+119,Romania,NA
+119,Russia,NA
+119,Slovakia,NA
+119,Slovenia,NA
+119,Spain,NA
+119,Sweden,0.03291
+119,Switzerland,NA
+119,United Kingdom,0.02173
+119,Australia,0.03018
+119,Brazil,NA
+119,Canada,0.03072
+119,Chile,NA
+119,China,NA
+119,Colombia,NA
+119,Hong Kong,NA
+119,India,NA
+119,Japan,0.02594
+119,Malaysia,NA
+119,Mexico,NA
+119,New Zealand,NA
+119,Singapore,NA
+119,South Africa,NA
+119,South Korea,NA
+119,Taiwan,NA
+119,Thailand,NA
+119,Turkey,NA
+119,United States,0.02551
+120,Euro,0.02841
+120,Austria,NA
+120,Belgium,NA
+120,Bulgaria,NA
+120,Croatia,NA
+120,Cyprus,NA
+120,Czech Republic,NA
+120,Denmark,0.02839
+120,Estonia,NA
+120,Finland,NA
+120,France,NA
+120,Germany,NA
+120,Greece,NA
+120,Hungary,NA
+120,Iceland,NA
+120,Ireland,NA
+120,Italy,NA
+120,Latvia,NA
+120,Liechtenstein,NA
+120,Lithuania,NA
+120,Luxembourg,NA
+120,Malta,NA
+120,Netherlands,NA
+120,Norway,0.0328
+120,Poland,NA
+120,Portugal,NA
+120,Romania,NA
+120,Russia,NA
+120,Slovakia,NA
+120,Slovenia,NA
+120,Spain,NA
+120,Sweden,0.03294
+120,Switzerland,NA
+120,United Kingdom,0.02185
+120,Australia,0.03023
+120,Brazil,NA
+120,Canada,0.03077
+120,Chile,NA
+120,China,NA
+120,Colombia,NA
+120,Hong Kong,NA
+120,India,NA
+120,Japan,0.02602
+120,Malaysia,NA
+120,Mexico,NA
+120,New Zealand,NA
+120,Singapore,NA
+120,South Africa,NA
+120,South Korea,NA
+120,Taiwan,NA
+120,Thailand,NA
+120,Turkey,NA
+120,United States,0.0256
+121,Euro,0.02848
+121,Austria,NA
+121,Belgium,NA
+121,Bulgaria,NA
+121,Croatia,NA
+121,Cyprus,NA
+121,Czech Republic,NA
+121,Denmark,0.02845
+121,Estonia,NA
+121,Finland,NA
+121,France,NA
+121,Germany,NA
+121,Greece,NA
+121,Hungary,NA
+121,Iceland,NA
+121,Ireland,NA
+121,Italy,NA
+121,Latvia,NA
+121,Liechtenstein,NA
+121,Lithuania,NA
+121,Luxembourg,NA
+121,Malta,NA
+121,Netherlands,NA
+121,Norway,0.03283
+121,Poland,NA
+121,Portugal,NA
+121,Romania,NA
+121,Russia,NA
+121,Slovakia,NA
+121,Slovenia,NA
+121,Spain,NA
+121,Sweden,0.03296
+121,Switzerland,NA
+121,United Kingdom,0.02197
+121,Australia,0.03028
+121,Brazil,NA
+121,Canada,0.03081
+121,Chile,NA
+121,China,NA
+121,Colombia,NA
+121,Hong Kong,NA
+121,India,NA
+121,Japan,0.02609
+121,Malaysia,NA
+121,Mexico,NA
+121,New Zealand,NA
+121,Singapore,NA
+121,South Africa,NA
+121,South Korea,NA
+121,Taiwan,NA
+121,Thailand,NA
+121,Turkey,NA
+121,United States,0.02569
+122,Euro,0.02854
+122,Austria,NA
+122,Belgium,NA
+122,Bulgaria,NA
+122,Croatia,NA
+122,Cyprus,NA
+122,Czech Republic,NA
+122,Denmark,0.02852
+122,Estonia,NA
+122,Finland,NA
+122,France,NA
+122,Germany,NA
+122,Greece,NA
+122,Hungary,NA
+122,Iceland,NA
+122,Ireland,NA
+122,Italy,NA
+122,Latvia,NA
+122,Liechtenstein,NA
+122,Lithuania,NA
+122,Luxembourg,NA
+122,Malta,NA
+122,Netherlands,NA
+122,Norway,0.03285
+122,Poland,NA
+122,Portugal,NA
+122,Romania,NA
+122,Russia,NA
+122,Slovakia,NA
+122,Slovenia,NA
+122,Spain,NA
+122,Sweden,0.03299
+122,Switzerland,NA
+122,United Kingdom,0.02208
+122,Australia,0.03032
+122,Brazil,NA
+122,Canada,0.03085
+122,Chile,NA
+122,China,NA
+122,Colombia,NA
+122,Hong Kong,NA
+122,India,NA
+122,Japan,0.02616
+122,Malaysia,NA
+122,Mexico,NA
+122,New Zealand,NA
+122,Singapore,NA
+122,South Africa,NA
+122,South Korea,NA
+122,Taiwan,NA
+122,Thailand,NA
+122,Turkey,NA
+122,United States,0.02577
+123,Euro,0.0286
+123,Austria,NA
+123,Belgium,NA
+123,Bulgaria,NA
+123,Croatia,NA
+123,Cyprus,NA
+123,Czech Republic,NA
+123,Denmark,0.02858
+123,Estonia,NA
+123,Finland,NA
+123,France,NA
+123,Germany,NA
+123,Greece,NA
+123,Hungary,NA
+123,Iceland,NA
+123,Ireland,NA
+123,Italy,NA
+123,Latvia,NA
+123,Liechtenstein,NA
+123,Lithuania,NA
+123,Luxembourg,NA
+123,Malta,NA
+123,Netherlands,NA
+123,Norway,0.03288
+123,Poland,NA
+123,Portugal,NA
+123,Romania,NA
+123,Russia,NA
+123,Slovakia,NA
+123,Slovenia,NA
+123,Spain,NA
+123,Sweden,0.03301
+123,Switzerland,NA
+123,United Kingdom,0.02219
+123,Australia,0.03037
+123,Brazil,NA
+123,Canada,0.0309
+123,Chile,NA
+123,China,NA
+123,Colombia,NA
+123,Hong Kong,NA
+123,India,NA
+123,Japan,0.02624
+123,Malaysia,NA
+123,Mexico,NA
+123,New Zealand,NA
+123,Singapore,NA
+123,South Africa,NA
+123,South Korea,NA
+123,Taiwan,NA
+123,Thailand,NA
+123,Turkey,NA
+123,United States,0.02585
+124,Euro,0.02866
+124,Austria,NA
+124,Belgium,NA
+124,Bulgaria,NA
+124,Croatia,NA
+124,Cyprus,NA
+124,Czech Republic,NA
+124,Denmark,0.02864
+124,Estonia,NA
+124,Finland,NA
+124,France,NA
+124,Germany,NA
+124,Greece,NA
+124,Hungary,NA
+124,Iceland,NA
+124,Ireland,NA
+124,Italy,NA
+124,Latvia,NA
+124,Liechtenstein,NA
+124,Lithuania,NA
+124,Luxembourg,NA
+124,Malta,NA
+124,Netherlands,NA
+124,Norway,0.03291
+124,Poland,NA
+124,Portugal,NA
+124,Romania,NA
+124,Russia,NA
+124,Slovakia,NA
+124,Slovenia,NA
+124,Spain,NA
+124,Sweden,0.03303
+124,Switzerland,NA
+124,United Kingdom,0.0223
+124,Australia,0.03042
+124,Brazil,NA
+124,Canada,0.03094
+124,Chile,NA
+124,China,NA
+124,Colombia,NA
+124,Hong Kong,NA
+124,India,NA
+124,Japan,0.02631
+124,Malaysia,NA
+124,Mexico,NA
+124,New Zealand,NA
+124,Singapore,NA
+124,South Africa,NA
+124,South Korea,NA
+124,Taiwan,NA
+124,Thailand,NA
+124,Turkey,NA
+124,United States,0.02593
+125,Euro,0.02872
+125,Austria,NA
+125,Belgium,NA
+125,Bulgaria,NA
+125,Croatia,NA
+125,Cyprus,NA
+125,Czech Republic,NA
+125,Denmark,0.0287
+125,Estonia,NA
+125,Finland,NA
+125,France,NA
+125,Germany,NA
+125,Greece,NA
+125,Hungary,NA
+125,Iceland,NA
+125,Ireland,NA
+125,Italy,NA
+125,Latvia,NA
+125,Liechtenstein,NA
+125,Lithuania,NA
+125,Luxembourg,NA
+125,Malta,NA
+125,Netherlands,NA
+125,Norway,0.03293
+125,Poland,NA
+125,Portugal,NA
+125,Romania,NA
+125,Russia,NA
+125,Slovakia,NA
+125,Slovenia,NA
+125,Spain,NA
+125,Sweden,0.03306
+125,Switzerland,NA
+125,United Kingdom,0.02241
+125,Australia,0.03046
+125,Brazil,NA
+125,Canada,0.03098
+125,Chile,NA
+125,China,NA
+125,Colombia,NA
+125,Hong Kong,NA
+125,India,NA
+125,Japan,0.02638
+125,Malaysia,NA
+125,Mexico,NA
+125,New Zealand,NA
+125,Singapore,NA
+125,South Africa,NA
+125,South Korea,NA
+125,Taiwan,NA
+125,Thailand,NA
+125,Turkey,NA
+125,United States,0.02601
+126,Euro,0.02877
+126,Austria,NA
+126,Belgium,NA
+126,Bulgaria,NA
+126,Croatia,NA
+126,Cyprus,NA
+126,Czech Republic,NA
+126,Denmark,0.02875
+126,Estonia,NA
+126,Finland,NA
+126,France,NA
+126,Germany,NA
+126,Greece,NA
+126,Hungary,NA
+126,Iceland,NA
+126,Ireland,NA
+126,Italy,NA
+126,Latvia,NA
+126,Liechtenstein,NA
+126,Lithuania,NA
+126,Luxembourg,NA
+126,Malta,NA
+126,Netherlands,NA
+126,Norway,0.03295
+126,Poland,NA
+126,Portugal,NA
+126,Romania,NA
+126,Russia,NA
+126,Slovakia,NA
+126,Slovenia,NA
+126,Spain,NA
+126,Sweden,0.03308
+126,Switzerland,NA
+126,United Kingdom,0.02252
+126,Australia,0.0305
+126,Brazil,NA
+126,Canada,0.03102
+126,Chile,NA
+126,China,NA
+126,Colombia,NA
+126,Hong Kong,NA
+126,India,NA
+126,Japan,0.02644
+126,Malaysia,NA
+126,Mexico,NA
+126,New Zealand,NA
+126,Singapore,NA
+126,South Africa,NA
+126,South Korea,NA
+126,Taiwan,NA
+126,Thailand,NA
+126,Turkey,NA
+126,United States,0.02609
+127,Euro,0.02883
+127,Austria,NA
+127,Belgium,NA
+127,Bulgaria,NA
+127,Croatia,NA
+127,Cyprus,NA
+127,Czech Republic,NA
+127,Denmark,0.02881
+127,Estonia,NA
+127,Finland,NA
+127,France,NA
+127,Germany,NA
+127,Greece,NA
+127,Hungary,NA
+127,Iceland,NA
+127,Ireland,NA
+127,Italy,NA
+127,Latvia,NA
+127,Liechtenstein,NA
+127,Lithuania,NA
+127,Luxembourg,NA
+127,Malta,NA
+127,Netherlands,NA
+127,Norway,0.03298
+127,Poland,NA
+127,Portugal,NA
+127,Romania,NA
+127,Russia,NA
+127,Slovakia,NA
+127,Slovenia,NA
+127,Spain,NA
+127,Sweden,0.0331
+127,Switzerland,NA
+127,United Kingdom,0.02263
+127,Australia,0.03055
+127,Brazil,NA
+127,Canada,0.03106
+127,Chile,NA
+127,China,NA
+127,Colombia,NA
+127,Hong Kong,NA
+127,India,NA
+127,Japan,0.02651
+127,Malaysia,NA
+127,Mexico,NA
+127,New Zealand,NA
+127,Singapore,NA
+127,South Africa,NA
+127,South Korea,NA
+127,Taiwan,NA
+127,Thailand,NA
+127,Turkey,NA
+127,United States,0.02617
+128,Euro,0.02889
+128,Austria,NA
+128,Belgium,NA
+128,Bulgaria,NA
+128,Croatia,NA
+128,Cyprus,NA
+128,Czech Republic,NA
+128,Denmark,0.02887
+128,Estonia,NA
+128,Finland,NA
+128,France,NA
+128,Germany,NA
+128,Greece,NA
+128,Hungary,NA
+128,Iceland,NA
+128,Ireland,NA
+128,Italy,NA
+128,Latvia,NA
+128,Liechtenstein,NA
+128,Lithuania,NA
+128,Luxembourg,NA
+128,Malta,NA
+128,Netherlands,NA
+128,Norway,0.033
+128,Poland,NA
+128,Portugal,NA
+128,Romania,NA
+128,Russia,NA
+128,Slovakia,NA
+128,Slovenia,NA
+128,Spain,NA
+128,Sweden,0.03313
+128,Switzerland,NA
+128,United Kingdom,0.02273
+128,Australia,0.03059
+128,Brazil,NA
+128,Canada,0.03109
+128,Chile,NA
+128,China,NA
+128,Colombia,NA
+128,Hong Kong,NA
+128,India,NA
+128,Japan,0.02658
+128,Malaysia,NA
+128,Mexico,NA
+128,New Zealand,NA
+128,Singapore,NA
+128,South Africa,NA
+128,South Korea,NA
+128,Taiwan,NA
+128,Thailand,NA
+128,Turkey,NA
+128,United States,0.02625
+129,Euro,0.02894
+129,Austria,NA
+129,Belgium,NA
+129,Bulgaria,NA
+129,Croatia,NA
+129,Cyprus,NA
+129,Czech Republic,NA
+129,Denmark,0.02892
+129,Estonia,NA
+129,Finland,NA
+129,France,NA
+129,Germany,NA
+129,Greece,NA
+129,Hungary,NA
+129,Iceland,NA
+129,Ireland,NA
+129,Italy,NA
+129,Latvia,NA
+129,Liechtenstein,NA
+129,Lithuania,NA
+129,Luxembourg,NA
+129,Malta,NA
+129,Netherlands,NA
+129,Norway,0.03303
+129,Poland,NA
+129,Portugal,NA
+129,Romania,NA
+129,Russia,NA
+129,Slovakia,NA
+129,Slovenia,NA
+129,Spain,NA
+129,Sweden,0.03315
+129,Switzerland,NA
+129,United Kingdom,0.02283
+129,Australia,0.03063
+129,Brazil,NA
+129,Canada,0.03113
+129,Chile,NA
+129,China,NA
+129,Colombia,NA
+129,Hong Kong,NA
+129,India,NA
+129,Japan,0.02664
+129,Malaysia,NA
+129,Mexico,NA
+129,New Zealand,NA
+129,Singapore,NA
+129,South Africa,NA
+129,South Korea,NA
+129,Taiwan,NA
+129,Thailand,NA
+129,Turkey,NA
+129,United States,0.02632
+130,Euro,0.02899
+130,Austria,NA
+130,Belgium,NA
+130,Bulgaria,NA
+130,Croatia,NA
+130,Cyprus,NA
+130,Czech Republic,NA
+130,Denmark,0.02898
+130,Estonia,NA
+130,Finland,NA
+130,France,NA
+130,Germany,NA
+130,Greece,NA
+130,Hungary,NA
+130,Iceland,NA
+130,Ireland,NA
+130,Italy,NA
+130,Latvia,NA
+130,Liechtenstein,NA
+130,Lithuania,NA
+130,Luxembourg,NA
+130,Malta,NA
+130,Netherlands,NA
+130,Norway,0.03305
+130,Poland,NA
+130,Portugal,NA
+130,Romania,NA
+130,Russia,NA
+130,Slovakia,NA
+130,Slovenia,NA
+130,Spain,NA
+130,Sweden,0.03317
+130,Switzerland,NA
+130,United Kingdom,0.02293
+130,Australia,0.03067
+130,Brazil,NA
+130,Canada,0.03117
+130,Chile,NA
+130,China,NA
+130,Colombia,NA
+130,Hong Kong,NA
+130,India,NA
+130,Japan,0.02671
+130,Malaysia,NA
+130,Mexico,NA
+130,New Zealand,NA
+130,Singapore,NA
+130,South Africa,NA
+130,South Korea,NA
+130,Taiwan,NA
+130,Thailand,NA
+130,Turkey,NA
+130,United States,0.0264
+131,Euro,0.02905
+131,Austria,NA
+131,Belgium,NA
+131,Bulgaria,NA
+131,Croatia,NA
+131,Cyprus,NA
+131,Czech Republic,NA
+131,Denmark,0.02903
+131,Estonia,NA
+131,Finland,NA
+131,France,NA
+131,Germany,NA
+131,Greece,NA
+131,Hungary,NA
+131,Iceland,NA
+131,Ireland,NA
+131,Italy,NA
+131,Latvia,NA
+131,Liechtenstein,NA
+131,Lithuania,NA
+131,Luxembourg,NA
+131,Malta,NA
+131,Netherlands,NA
+131,Norway,0.03307
+131,Poland,NA
+131,Portugal,NA
+131,Romania,NA
+131,Russia,NA
+131,Slovakia,NA
+131,Slovenia,NA
+131,Spain,NA
+131,Sweden,0.03319
+131,Switzerland,NA
+131,United Kingdom,0.02303
+131,Australia,0.03071
+131,Brazil,NA
+131,Canada,0.03121
+131,Chile,NA
+131,China,NA
+131,Colombia,NA
+131,Hong Kong,NA
+131,India,NA
+131,Japan,0.02677
+131,Malaysia,NA
+131,Mexico,NA
+131,New Zealand,NA
+131,Singapore,NA
+131,South Africa,NA
+131,South Korea,NA
+131,Taiwan,NA
+131,Thailand,NA
+131,Turkey,NA
+131,United States,0.02647
+132,Euro,0.0291
+132,Austria,NA
+132,Belgium,NA
+132,Bulgaria,NA
+132,Croatia,NA
+132,Cyprus,NA
+132,Czech Republic,NA
+132,Denmark,0.02908
+132,Estonia,NA
+132,Finland,NA
+132,France,NA
+132,Germany,NA
+132,Greece,NA
+132,Hungary,NA
+132,Iceland,NA
+132,Ireland,NA
+132,Italy,NA
+132,Latvia,NA
+132,Liechtenstein,NA
+132,Lithuania,NA
+132,Luxembourg,NA
+132,Malta,NA
+132,Netherlands,NA
+132,Norway,0.03309
+132,Poland,NA
+132,Portugal,NA
+132,Romania,NA
+132,Russia,NA
+132,Slovakia,NA
+132,Slovenia,NA
+132,Spain,NA
+132,Sweden,0.03321
+132,Switzerland,NA
+132,United Kingdom,0.02313
+132,Australia,0.03075
+132,Brazil,NA
+132,Canada,0.03124
+132,Chile,NA
+132,China,NA
+132,Colombia,NA
+132,Hong Kong,NA
+132,India,NA
+132,Japan,0.02683
+132,Malaysia,NA
+132,Mexico,NA
+132,New Zealand,NA
+132,Singapore,NA
+132,South Africa,NA
+132,South Korea,NA
+132,Taiwan,NA
+132,Thailand,NA
+132,Turkey,NA
+132,United States,0.02654
+133,Euro,0.02915
+133,Austria,NA
+133,Belgium,NA
+133,Bulgaria,NA
+133,Croatia,NA
+133,Cyprus,NA
+133,Czech Republic,NA
+133,Denmark,0.02913
+133,Estonia,NA
+133,Finland,NA
+133,France,NA
+133,Germany,NA
+133,Greece,NA
+133,Hungary,NA
+133,Iceland,NA
+133,Ireland,NA
+133,Italy,NA
+133,Latvia,NA
+133,Liechtenstein,NA
+133,Lithuania,NA
+133,Luxembourg,NA
+133,Malta,NA
+133,Netherlands,NA
+133,Norway,0.03311
+133,Poland,NA
+133,Portugal,NA
+133,Romania,NA
+133,Russia,NA
+133,Slovakia,NA
+133,Slovenia,NA
+133,Spain,NA
+133,Sweden,0.03324
+133,Switzerland,NA
+133,United Kingdom,0.02323
+133,Australia,0.03079
+133,Brazil,NA
+133,Canada,0.03128
+133,Chile,NA
+133,China,NA
+133,Colombia,NA
+133,Hong Kong,NA
+133,India,NA
+133,Japan,0.02689
+133,Malaysia,NA
+133,Mexico,NA
+133,New Zealand,NA
+133,Singapore,NA
+133,South Africa,NA
+133,South Korea,NA
+133,Taiwan,NA
+133,Thailand,NA
+133,Turkey,NA
+133,United States,0.02661
+134,Euro,0.0292
+134,Austria,NA
+134,Belgium,NA
+134,Bulgaria,NA
+134,Croatia,NA
+134,Cyprus,NA
+134,Czech Republic,NA
+134,Denmark,0.02918
+134,Estonia,NA
+134,Finland,NA
+134,France,NA
+134,Germany,NA
+134,Greece,NA
+134,Hungary,NA
+134,Iceland,NA
+134,Ireland,NA
+134,Italy,NA
+134,Latvia,NA
+134,Liechtenstein,NA
+134,Lithuania,NA
+134,Luxembourg,NA
+134,Malta,NA
+134,Netherlands,NA
+134,Norway,0.03314
+134,Poland,NA
+134,Portugal,NA
+134,Romania,NA
+134,Russia,NA
+134,Slovakia,NA
+134,Slovenia,NA
+134,Spain,NA
+134,Sweden,0.03326
+134,Switzerland,NA
+134,United Kingdom,0.02332
+134,Australia,0.03083
+134,Brazil,NA
+134,Canada,0.03131
+134,Chile,NA
+134,China,NA
+134,Colombia,NA
+134,Hong Kong,NA
+134,India,NA
+134,Japan,0.026950000000000002
+134,Malaysia,NA
+134,Mexico,NA
+134,New Zealand,NA
+134,Singapore,NA
+134,South Africa,NA
+134,South Korea,NA
+134,Taiwan,NA
+134,Thailand,NA
+134,Turkey,NA
+134,United States,0.02668
+135,Euro,0.02925
+135,Austria,NA
+135,Belgium,NA
+135,Bulgaria,NA
+135,Croatia,NA
+135,Cyprus,NA
+135,Czech Republic,NA
+135,Denmark,0.02923
+135,Estonia,NA
+135,Finland,NA
+135,France,NA
+135,Germany,NA
+135,Greece,NA
+135,Hungary,NA
+135,Iceland,NA
+135,Ireland,NA
+135,Italy,NA
+135,Latvia,NA
+135,Liechtenstein,NA
+135,Lithuania,NA
+135,Luxembourg,NA
+135,Malta,NA
+135,Netherlands,NA
+135,Norway,0.03316
+135,Poland,NA
+135,Portugal,NA
+135,Romania,NA
+135,Russia,NA
+135,Slovakia,NA
+135,Slovenia,NA
+135,Spain,NA
+135,Sweden,0.03328
+135,Switzerland,NA
+135,United Kingdom,0.02341
+135,Australia,0.03087
+135,Brazil,NA
+135,Canada,0.03135
+135,Chile,NA
+135,China,NA
+135,Colombia,NA
+135,Hong Kong,NA
+135,India,NA
+135,Japan,0.02701
+135,Malaysia,NA
+135,Mexico,NA
+135,New Zealand,NA
+135,Singapore,NA
+135,South Africa,NA
+135,South Korea,NA
+135,Taiwan,NA
+135,Thailand,NA
+135,Turkey,NA
+135,United States,0.02675
+136,Euro,0.0293
+136,Austria,NA
+136,Belgium,NA
+136,Bulgaria,NA
+136,Croatia,NA
+136,Cyprus,NA
+136,Czech Republic,NA
+136,Denmark,0.02928
+136,Estonia,NA
+136,Finland,NA
+136,France,NA
+136,Germany,NA
+136,Greece,NA
+136,Hungary,NA
+136,Iceland,NA
+136,Ireland,NA
+136,Italy,NA
+136,Latvia,NA
+136,Liechtenstein,NA
+136,Lithuania,NA
+136,Luxembourg,NA
+136,Malta,NA
+136,Netherlands,NA
+136,Norway,0.03318
+136,Poland,NA
+136,Portugal,NA
+136,Romania,NA
+136,Russia,NA
+136,Slovakia,NA
+136,Slovenia,NA
+136,Spain,NA
+136,Sweden,0.0333
+136,Switzerland,NA
+136,United Kingdom,0.02351
+136,Australia,0.03091
+136,Brazil,NA
+136,Canada,0.03138
+136,Chile,NA
+136,China,NA
+136,Colombia,NA
+136,Hong Kong,NA
+136,India,NA
+136,Japan,0.02707
+136,Malaysia,NA
+136,Mexico,NA
+136,New Zealand,NA
+136,Singapore,NA
+136,South Africa,NA
+136,South Korea,NA
+136,Taiwan,NA
+136,Thailand,NA
+136,Turkey,NA
+136,United States,0.02682
+137,Euro,0.02935
+137,Austria,NA
+137,Belgium,NA
+137,Bulgaria,NA
+137,Croatia,NA
+137,Cyprus,NA
+137,Czech Republic,NA
+137,Denmark,0.02933
+137,Estonia,NA
+137,Finland,NA
+137,France,NA
+137,Germany,NA
+137,Greece,NA
+137,Hungary,NA
+137,Iceland,NA
+137,Ireland,NA
+137,Italy,NA
+137,Latvia,NA
+137,Liechtenstein,NA
+137,Lithuania,NA
+137,Luxembourg,NA
+137,Malta,NA
+137,Netherlands,NA
+137,Norway,0.0332
+137,Poland,NA
+137,Portugal,NA
+137,Romania,NA
+137,Russia,NA
+137,Slovakia,NA
+137,Slovenia,NA
+137,Spain,NA
+137,Sweden,0.03332
+137,Switzerland,NA
+137,United Kingdom,0.0236
+137,Australia,0.03094
+137,Brazil,NA
+137,Canada,0.03142
+137,Chile,NA
+137,China,NA
+137,Colombia,NA
+137,Hong Kong,NA
+137,India,NA
+137,Japan,0.02713
+137,Malaysia,NA
+137,Mexico,NA
+137,New Zealand,NA
+137,Singapore,NA
+137,South Africa,NA
+137,South Korea,NA
+137,Taiwan,NA
+137,Thailand,NA
+137,Turkey,NA
+137,United States,0.02689
+138,Euro,0.0294
+138,Austria,NA
+138,Belgium,NA
+138,Bulgaria,NA
+138,Croatia,NA
+138,Cyprus,NA
+138,Czech Republic,NA
+138,Denmark,0.02938
+138,Estonia,NA
+138,Finland,NA
+138,France,NA
+138,Germany,NA
+138,Greece,NA
+138,Hungary,NA
+138,Iceland,NA
+138,Ireland,NA
+138,Italy,NA
+138,Latvia,NA
+138,Liechtenstein,NA
+138,Lithuania,NA
+138,Luxembourg,NA
+138,Malta,NA
+138,Netherlands,NA
+138,Norway,0.03322
+138,Poland,NA
+138,Portugal,NA
+138,Romania,NA
+138,Russia,NA
+138,Slovakia,NA
+138,Slovenia,NA
+138,Spain,NA
+138,Sweden,0.03334
+138,Switzerland,NA
+138,United Kingdom,0.02369
+138,Australia,0.03098
+138,Brazil,NA
+138,Canada,0.03145
+138,Chile,NA
+138,China,NA
+138,Colombia,NA
+138,Hong Kong,NA
+138,India,NA
+138,Japan,0.02718
+138,Malaysia,NA
+138,Mexico,NA
+138,New Zealand,NA
+138,Singapore,NA
+138,South Africa,NA
+138,South Korea,NA
+138,Taiwan,NA
+138,Thailand,NA
+138,Turkey,NA
+138,United States,0.026950000000000002
+139,Euro,0.02945
+139,Austria,NA
+139,Belgium,NA
+139,Bulgaria,NA
+139,Croatia,NA
+139,Cyprus,NA
+139,Czech Republic,NA
+139,Denmark,0.02943
+139,Estonia,NA
+139,Finland,NA
+139,France,NA
+139,Germany,NA
+139,Greece,NA
+139,Hungary,NA
+139,Iceland,NA
+139,Ireland,NA
+139,Italy,NA
+139,Latvia,NA
+139,Liechtenstein,NA
+139,Lithuania,NA
+139,Luxembourg,NA
+139,Malta,NA
+139,Netherlands,NA
+139,Norway,0.03324
+139,Poland,NA
+139,Portugal,NA
+139,Romania,NA
+139,Russia,NA
+139,Slovakia,NA
+139,Slovenia,NA
+139,Spain,NA
+139,Sweden,0.03335
+139,Switzerland,NA
+139,United Kingdom,0.02377
+139,Australia,0.03102
+139,Brazil,NA
+139,Canada,0.03148
+139,Chile,NA
+139,China,NA
+139,Colombia,NA
+139,Hong Kong,NA
+139,India,NA
+139,Japan,0.02724
+139,Malaysia,NA
+139,Mexico,NA
+139,New Zealand,NA
+139,Singapore,NA
+139,South Africa,NA
+139,South Korea,NA
+139,Taiwan,NA
+139,Thailand,NA
+139,Turkey,NA
+139,United States,0.02702
+140,Euro,0.02949
+140,Austria,NA
+140,Belgium,NA
+140,Bulgaria,NA
+140,Croatia,NA
+140,Cyprus,NA
+140,Czech Republic,NA
+140,Denmark,0.02948
+140,Estonia,NA
+140,Finland,NA
+140,France,NA
+140,Germany,NA
+140,Greece,NA
+140,Hungary,NA
+140,Iceland,NA
+140,Ireland,NA
+140,Italy,NA
+140,Latvia,NA
+140,Liechtenstein,NA
+140,Lithuania,NA
+140,Luxembourg,NA
+140,Malta,NA
+140,Netherlands,NA
+140,Norway,0.03326
+140,Poland,NA
+140,Portugal,NA
+140,Romania,NA
+140,Russia,NA
+140,Slovakia,NA
+140,Slovenia,NA
+140,Spain,NA
+140,Sweden,0.03337
+140,Switzerland,NA
+140,United Kingdom,0.02386
+140,Australia,0.03105
+140,Brazil,NA
+140,Canada,0.03151
+140,Chile,NA
+140,China,NA
+140,Colombia,NA
+140,Hong Kong,NA
+140,India,NA
+140,Japan,0.0273
+140,Malaysia,NA
+140,Mexico,NA
+140,New Zealand,NA
+140,Singapore,NA
+140,South Africa,NA
+140,South Korea,NA
+140,Taiwan,NA
+140,Thailand,NA
+140,Turkey,NA
+140,United States,0.02708
+141,Euro,0.02954
+141,Austria,NA
+141,Belgium,NA
+141,Bulgaria,NA
+141,Croatia,NA
+141,Cyprus,NA
+141,Czech Republic,NA
+141,Denmark,0.02952
+141,Estonia,NA
+141,Finland,NA
+141,France,NA
+141,Germany,NA
+141,Greece,NA
+141,Hungary,NA
+141,Iceland,NA
+141,Ireland,NA
+141,Italy,NA
+141,Latvia,NA
+141,Liechtenstein,NA
+141,Lithuania,NA
+141,Luxembourg,NA
+141,Malta,NA
+141,Netherlands,NA
+141,Norway,0.03328
+141,Poland,NA
+141,Portugal,NA
+141,Romania,NA
+141,Russia,NA
+141,Slovakia,NA
+141,Slovenia,NA
+141,Spain,NA
+141,Sweden,0.03339
+141,Switzerland,NA
+141,United Kingdom,0.02395
+141,Australia,0.03109
+141,Brazil,NA
+141,Canada,0.03155
+141,Chile,NA
+141,China,NA
+141,Colombia,NA
+141,Hong Kong,NA
+141,India,NA
+141,Japan,0.02735
+141,Malaysia,NA
+141,Mexico,NA
+141,New Zealand,NA
+141,Singapore,NA
+141,South Africa,NA
+141,South Korea,NA
+141,Taiwan,NA
+141,Thailand,NA
+141,Turkey,NA
+141,United States,0.02714
+142,Euro,0.02958
+142,Austria,NA
+142,Belgium,NA
+142,Bulgaria,NA
+142,Croatia,NA
+142,Cyprus,NA
+142,Czech Republic,NA
+142,Denmark,0.02957
+142,Estonia,NA
+142,Finland,NA
+142,France,NA
+142,Germany,NA
+142,Greece,NA
+142,Hungary,NA
+142,Iceland,NA
+142,Ireland,NA
+142,Italy,NA
+142,Latvia,NA
+142,Liechtenstein,NA
+142,Lithuania,NA
+142,Luxembourg,NA
+142,Malta,NA
+142,Netherlands,NA
+142,Norway,0.0333
+142,Poland,NA
+142,Portugal,NA
+142,Romania,NA
+142,Russia,NA
+142,Slovakia,NA
+142,Slovenia,NA
+142,Spain,NA
+142,Sweden,0.03341
+142,Switzerland,NA
+142,United Kingdom,0.02403
+142,Australia,0.03112
+142,Brazil,NA
+142,Canada,0.03158
+142,Chile,NA
+142,China,NA
+142,Colombia,NA
+142,Hong Kong,NA
+142,India,NA
+142,Japan,0.0274
+142,Malaysia,NA
+142,Mexico,NA
+142,New Zealand,NA
+142,Singapore,NA
+142,South Africa,NA
+142,South Korea,NA
+142,Taiwan,NA
+142,Thailand,NA
+142,Turkey,NA
+142,United States,0.0272
+143,Euro,0.02963
+143,Austria,NA
+143,Belgium,NA
+143,Bulgaria,NA
+143,Croatia,NA
+143,Cyprus,NA
+143,Czech Republic,NA
+143,Denmark,0.02961
+143,Estonia,NA
+143,Finland,NA
+143,France,NA
+143,Germany,NA
+143,Greece,NA
+143,Hungary,NA
+143,Iceland,NA
+143,Ireland,NA
+143,Italy,NA
+143,Latvia,NA
+143,Liechtenstein,NA
+143,Lithuania,NA
+143,Luxembourg,NA
+143,Malta,NA
+143,Netherlands,NA
+143,Norway,0.03332
+143,Poland,NA
+143,Portugal,NA
+143,Romania,NA
+143,Russia,NA
+143,Slovakia,NA
+143,Slovenia,NA
+143,Spain,NA
+143,Sweden,0.03343
+143,Switzerland,NA
+143,United Kingdom,0.02411
+143,Australia,0.03116
+143,Brazil,NA
+143,Canada,0.03161
+143,Chile,NA
+143,China,NA
+143,Colombia,NA
+143,Hong Kong,NA
+143,India,NA
+143,Japan,0.02746
+143,Malaysia,NA
+143,Mexico,NA
+143,New Zealand,NA
+143,Singapore,NA
+143,South Africa,NA
+143,South Korea,NA
+143,Taiwan,NA
+143,Thailand,NA
+143,Turkey,NA
+143,United States,0.02727
+144,Euro,0.02967
+144,Austria,NA
+144,Belgium,NA
+144,Bulgaria,NA
+144,Croatia,NA
+144,Cyprus,NA
+144,Czech Republic,NA
+144,Denmark,0.02966
+144,Estonia,NA
+144,Finland,NA
+144,France,NA
+144,Germany,NA
+144,Greece,NA
+144,Hungary,NA
+144,Iceland,NA
+144,Ireland,NA
+144,Italy,NA
+144,Latvia,NA
+144,Liechtenstein,NA
+144,Lithuania,NA
+144,Luxembourg,NA
+144,Malta,NA
+144,Netherlands,NA
+144,Norway,0.03333
+144,Poland,NA
+144,Portugal,NA
+144,Romania,NA
+144,Russia,NA
+144,Slovakia,NA
+144,Slovenia,NA
+144,Spain,NA
+144,Sweden,0.03345
+144,Switzerland,NA
+144,United Kingdom,0.0242
+144,Australia,0.03119
+144,Brazil,NA
+144,Canada,0.03164
+144,Chile,NA
+144,China,NA
+144,Colombia,NA
+144,Hong Kong,NA
+144,India,NA
+144,Japan,0.02751
+144,Malaysia,NA
+144,Mexico,NA
+144,New Zealand,NA
+144,Singapore,NA
+144,South Africa,NA
+144,South Korea,NA
+144,Taiwan,NA
+144,Thailand,NA
+144,Turkey,NA
+144,United States,0.02733
+145,Euro,0.02972
+145,Austria,NA
+145,Belgium,NA
+145,Bulgaria,NA
+145,Croatia,NA
+145,Cyprus,NA
+145,Czech Republic,NA
+145,Denmark,0.0297
+145,Estonia,NA
+145,Finland,NA
+145,France,NA
+145,Germany,NA
+145,Greece,NA
+145,Hungary,NA
+145,Iceland,NA
+145,Ireland,NA
+145,Italy,NA
+145,Latvia,NA
+145,Liechtenstein,NA
+145,Lithuania,NA
+145,Luxembourg,NA
+145,Malta,NA
+145,Netherlands,NA
+145,Norway,0.03335
+145,Poland,NA
+145,Portugal,NA
+145,Romania,NA
+145,Russia,NA
+145,Slovakia,NA
+145,Slovenia,NA
+145,Spain,NA
+145,Sweden,0.03346
+145,Switzerland,NA
+145,United Kingdom,0.02428
+145,Australia,0.03122
+145,Brazil,NA
+145,Canada,0.03167
+145,Chile,NA
+145,China,NA
+145,Colombia,NA
+145,Hong Kong,NA
+145,India,NA
+145,Japan,0.02756
+145,Malaysia,NA
+145,Mexico,NA
+145,New Zealand,NA
+145,Singapore,NA
+145,South Africa,NA
+145,South Korea,NA
+145,Taiwan,NA
+145,Thailand,NA
+145,Turkey,NA
+145,United States,0.02739
+146,Euro,0.029760000000000002
+146,Austria,NA
+146,Belgium,NA
+146,Bulgaria,NA
+146,Croatia,NA
+146,Cyprus,NA
+146,Czech Republic,NA
+146,Denmark,0.02974
+146,Estonia,NA
+146,Finland,NA
+146,France,NA
+146,Germany,NA
+146,Greece,NA
+146,Hungary,NA
+146,Iceland,NA
+146,Ireland,NA
+146,Italy,NA
+146,Latvia,NA
+146,Liechtenstein,NA
+146,Lithuania,NA
+146,Luxembourg,NA
+146,Malta,NA
+146,Netherlands,NA
+146,Norway,0.03337
+146,Poland,NA
+146,Portugal,NA
+146,Romania,NA
+146,Russia,NA
+146,Slovakia,NA
+146,Slovenia,NA
+146,Spain,NA
+146,Sweden,0.03348
+146,Switzerland,NA
+146,United Kingdom,0.02436
+146,Australia,0.03125
+146,Brazil,NA
+146,Canada,0.0317
+146,Chile,NA
+146,China,NA
+146,Colombia,NA
+146,Hong Kong,NA
+146,India,NA
+146,Japan,0.02761
+146,Malaysia,NA
+146,Mexico,NA
+146,New Zealand,NA
+146,Singapore,NA
+146,South Africa,NA
+146,South Korea,NA
+146,Taiwan,NA
+146,Thailand,NA
+146,Turkey,NA
+146,United States,0.02744
+147,Euro,0.0298
+147,Austria,NA
+147,Belgium,NA
+147,Bulgaria,NA
+147,Croatia,NA
+147,Cyprus,NA
+147,Czech Republic,NA
+147,Denmark,0.02978
+147,Estonia,NA
+147,Finland,NA
+147,France,NA
+147,Germany,NA
+147,Greece,NA
+147,Hungary,NA
+147,Iceland,NA
+147,Ireland,NA
+147,Italy,NA
+147,Latvia,NA
+147,Liechtenstein,NA
+147,Lithuania,NA
+147,Luxembourg,NA
+147,Malta,NA
+147,Netherlands,NA
+147,Norway,0.03339
+147,Poland,NA
+147,Portugal,NA
+147,Romania,NA
+147,Russia,NA
+147,Slovakia,NA
+147,Slovenia,NA
+147,Spain,NA
+147,Sweden,0.0335
+147,Switzerland,NA
+147,United Kingdom,0.02444
+147,Australia,0.03129
+147,Brazil,NA
+147,Canada,0.03173
+147,Chile,NA
+147,China,NA
+147,Colombia,NA
+147,Hong Kong,NA
+147,India,NA
+147,Japan,0.02766
+147,Malaysia,NA
+147,Mexico,NA
+147,New Zealand,NA
+147,Singapore,NA
+147,South Africa,NA
+147,South Korea,NA
+147,Taiwan,NA
+147,Thailand,NA
+147,Turkey,NA
+147,United States,0.0275
+148,Euro,0.02984
+148,Austria,NA
+148,Belgium,NA
+148,Bulgaria,NA
+148,Croatia,NA
+148,Cyprus,NA
+148,Czech Republic,NA
+148,Denmark,0.02983
+148,Estonia,NA
+148,Finland,NA
+148,France,NA
+148,Germany,NA
+148,Greece,NA
+148,Hungary,NA
+148,Iceland,NA
+148,Ireland,NA
+148,Italy,NA
+148,Latvia,NA
+148,Liechtenstein,NA
+148,Lithuania,NA
+148,Luxembourg,NA
+148,Malta,NA
+148,Netherlands,NA
+148,Norway,0.03341
+148,Poland,NA
+148,Portugal,NA
+148,Romania,NA
+148,Russia,NA
+148,Slovakia,NA
+148,Slovenia,NA
+148,Spain,NA
+148,Sweden,0.03351
+148,Switzerland,NA
+148,United Kingdom,0.02451
+148,Australia,0.03132
+148,Brazil,NA
+148,Canada,0.03176
+148,Chile,NA
+148,China,NA
+148,Colombia,NA
+148,Hong Kong,NA
+148,India,NA
+148,Japan,0.02771
+148,Malaysia,NA
+148,Mexico,NA
+148,New Zealand,NA
+148,Singapore,NA
+148,South Africa,NA
+148,South Korea,NA
+148,Taiwan,NA
+148,Thailand,NA
+148,Turkey,NA
+148,United States,0.02756
+149,Euro,0.02989
+149,Austria,NA
+149,Belgium,NA
+149,Bulgaria,NA
+149,Croatia,NA
+149,Cyprus,NA
+149,Czech Republic,NA
+149,Denmark,0.02987
+149,Estonia,NA
+149,Finland,NA
+149,France,NA
+149,Germany,NA
+149,Greece,NA
+149,Hungary,NA
+149,Iceland,NA
+149,Ireland,NA
+149,Italy,NA
+149,Latvia,NA
+149,Liechtenstein,NA
+149,Lithuania,NA
+149,Luxembourg,NA
+149,Malta,NA
+149,Netherlands,NA
+149,Norway,0.03342
+149,Poland,NA
+149,Portugal,NA
+149,Romania,NA
+149,Russia,NA
+149,Slovakia,NA
+149,Slovenia,NA
+149,Spain,NA
+149,Sweden,0.03353
+149,Switzerland,NA
+149,United Kingdom,0.02459
+149,Australia,0.03135
+149,Brazil,NA
+149,Canada,0.03178
+149,Chile,NA
+149,China,NA
+149,Colombia,NA
+149,Hong Kong,NA
+149,India,NA
+149,Japan,0.02776
+149,Malaysia,NA
+149,Mexico,NA
+149,New Zealand,NA
+149,Singapore,NA
+149,South Africa,NA
+149,South Korea,NA
+149,Taiwan,NA
+149,Thailand,NA
+149,Turkey,NA
+149,United States,0.02762
+150,Euro,0.02993
+150,Austria,NA
+150,Belgium,NA
+150,Bulgaria,NA
+150,Croatia,NA
+150,Cyprus,NA
+150,Czech Republic,NA
+150,Denmark,0.02991
+150,Estonia,NA
+150,Finland,NA
+150,France,NA
+150,Germany,NA
+150,Greece,NA
+150,Hungary,NA
+150,Iceland,NA
+150,Ireland,NA
+150,Italy,NA
+150,Latvia,NA
+150,Liechtenstein,NA
+150,Lithuania,NA
+150,Luxembourg,NA
+150,Malta,NA
+150,Netherlands,NA
+150,Norway,0.03344
+150,Poland,NA
+150,Portugal,NA
+150,Romania,NA
+150,Russia,NA
+150,Slovakia,NA
+150,Slovenia,NA
+150,Spain,NA
+150,Sweden,0.03355
+150,Switzerland,NA
+150,United Kingdom,0.02467
+150,Australia,0.03138
+150,Brazil,NA
+150,Canada,0.03181
+150,Chile,NA
+150,China,NA
+150,Colombia,NA
+150,Hong Kong,NA
+150,India,NA
+150,Japan,0.02781
+150,Malaysia,NA
+150,Mexico,NA
+150,New Zealand,NA
+150,Singapore,NA
+150,South Africa,NA
+150,South Korea,NA
+150,Taiwan,NA
+150,Thailand,NA
+150,Turkey,NA
+150,United States,0.02767
