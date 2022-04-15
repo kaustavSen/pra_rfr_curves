@@ -1,0 +1,1351 @@
+year,country,rate
+1,Euro,-0.00115
+1,Denmark,0.00255
+1,Norway,0.02642
+1,Sweden,0.01206
+1,United Kingdom,0.01822
+1,Australia,0.01386
+1,Canada,0.02825
+1,Japan,-8e-4
+1,United States,0.02155
+2,Euro,0.00496
+2,Denmark,0.00866
+2,Norway,0.02747
+2,Sweden,0.01359
+2,United Kingdom,0.02214
+2,Australia,0.02374
+2,Canada,0.02922
+2,Japan,-5.2e-4
+2,United States,0.02781
+3,Euro,0.00763
+3,Denmark,0.01133
+3,Norway,0.02893
+3,Sweden,0.01567
+3,United Kingdom,0.02218
+3,Australia,0.0277
+3,Canada,0.03025
+3,Japan,-3.1e-4
+3,United States,0.02871
+4,Euro,0.00889
+4,Denmark,0.01259
+4,Norway,0.0301
+4,Sweden,0.01733
+4,United Kingdom,0.0215
+4,Australia,0.02937
+4,Canada,0.03023
+4,Japan,-5e-5
+4,United States,0.02808
+5,Euro,0.00955
+5,Denmark,0.01325
+5,Norway,0.0307
+5,Sweden,0.01824
+5,United Kingdom,0.02081
+5,Australia,0.03022
+5,Canada,0.03001
+5,Japan,2.8e-4
+5,United States,0.02717
+6,Euro,0.01003
+6,Denmark,0.01373
+6,Norway,0.03075
+6,Sweden,0.01847
+6,United Kingdom,0.0201
+6,Australia,0.03086
+6,Canada,0.03005
+6,Japan,6.5e-4
+6,United States,0.02677
+7,Euro,0.01043
+7,Denmark,0.01413
+7,Norway,0.03053
+7,Sweden,0.01845
+7,United Kingdom,0.0194
+7,Australia,0.03136
+7,Canada,0.03025
+7,Japan,0.00104
+7,United States,0.0265
+8,Euro,0.01085
+8,Denmark,0.01455
+8,Norway,0.03023
+8,Sweden,0.01847
+8,United Kingdom,0.01898
+8,Australia,0.03171
+8,Canada,0.03048
+8,Japan,0.00143
+8,United States,0.02654
+9,Euro,0.01127
+9,Denmark,0.01497
+9,Norway,0.02996
+9,Sweden,0.01866
+9,United Kingdom,0.01861
+9,Australia,0.03187
+9,Canada,0.03068
+9,Japan,0.00184
+9,United States,0.02604
+10,Euro,0.01169
+10,Denmark,0.01539
+10,Norway,0.02977
+10,Sweden,0.0191
+10,United Kingdom,0.01841
+10,Australia,0.03201
+10,Canada,0.03082
+10,Japan,0.00227
+10,United States,0.0259
+11,Euro,0.01203
+11,Denmark,0.01573
+11,Norway,0.02967
+11,Sweden,0.01981
+11,United Kingdom,0.01826
+11,Australia,0.03218
+11,Canada,0.03089
+11,Japan,0.00273
+11,United States,0.02593
+12,Euro,0.0123
+12,Denmark,0.016
+12,Norway,0.02962
+12,Sweden,0.02063
+12,United Kingdom,0.01811
+12,Australia,0.03231
+12,Canada,0.0309
+12,Japan,0.00323
+12,United States,0.02603
+13,Euro,0.01253
+13,Denmark,0.01623
+13,Norway,0.02961
+13,Sweden,0.02146
+13,United Kingdom,0.01796
+13,Australia,0.03237
+13,Canada,0.03088
+13,Japan,0.00376
+13,United States,0.02616
+14,Euro,0.01268
+14,Denmark,0.01638
+14,Norway,0.02963
+14,Sweden,0.02225
+14,United Kingdom,0.01781
+14,Australia,0.03237
+14,Canada,0.03084
+14,Japan,0.00429
+14,United States,0.02627
+15,Euro,0.01268
+15,Denmark,0.01638
+15,Norway,0.02968
+15,Sweden,0.02298
+15,United Kingdom,0.01766
+15,Australia,0.03232
+15,Canada,0.03079
+15,Japan,0.00483
+15,United States,0.02628
+16,Euro,0.01253
+16,Denmark,0.01623
+16,Norway,0.02974
+16,Sweden,0.02364
+16,United Kingdom,0.01752
+16,Australia,0.03223
+16,Canada,0.03074
+16,Japan,0.00536
+16,United States,0.02618
+17,Euro,0.01232
+17,Denmark,0.01602
+17,Norway,0.02981
+17,Sweden,0.02425
+17,United Kingdom,0.01739
+17,Australia,0.0321
+17,Canada,0.03068
+17,Japan,0.00587
+17,United States,0.02602
+18,Euro,0.01213
+18,Denmark,0.01583
+18,Norway,0.02989
+18,Sweden,0.0248
+18,United Kingdom,0.01726
+18,Australia,0.03194
+18,Canada,0.03063
+18,Japan,0.00635
+18,United States,0.02584
+19,Euro,0.01203
+19,Denmark,0.01573
+19,Norway,0.02997
+19,Sweden,0.0253
+19,United Kingdom,0.01714
+19,Australia,0.03175
+19,Canada,0.03059
+19,Japan,0.0068
+19,United States,0.02569
+20,Euro,0.01204
+20,Denmark,0.01574
+20,Norway,0.03006
+20,Sweden,0.02575
+20,United Kingdom,0.01703
+20,Australia,0.03154
+20,Canada,0.03056
+20,Japan,0.00721
+20,United States,0.0256
+21,Euro,0.01219
+21,Denmark,0.01587
+21,Norway,0.03015
+21,Sweden,0.02616
+21,United Kingdom,0.01692
+21,Australia,0.03129
+21,Canada,0.03053
+21,Japan,0.00757
+21,United States,0.02556
+22,Euro,0.01245
+22,Denmark,0.01608
+22,Norway,0.03024
+22,Sweden,0.02653
+22,United Kingdom,0.01681
+22,Australia,0.03102
+22,Canada,0.03052
+22,Japan,0.00789
+22,United States,0.02554
+23,Euro,0.01278
+23,Denmark,0.01635
+23,Norway,0.03033
+23,Sweden,0.02688
+23,United Kingdom,0.01672
+23,Australia,0.03075
+23,Canada,0.03051
+23,Japan,0.00817
+23,United States,0.0255
+24,Euro,0.01316
+24,Denmark,0.01666
+24,Norway,0.03042
+24,Sweden,0.02719
+24,United Kingdom,0.01662
+24,Australia,0.03046
+24,Canada,0.03052
+24,Japan,0.00839
+24,United States,0.02541
+25,Euro,0.01357
+25,Denmark,0.017
+25,Norway,0.03051
+25,Sweden,0.02748
+25,United Kingdom,0.01653
+25,Australia,0.03018
+25,Canada,0.03054
+25,Japan,0.00858
+25,United States,0.02524
+26,Euro,0.01401
+26,Denmark,0.01736
+26,Norway,0.0306
+26,Sweden,0.02775
+26,United Kingdom,0.01643
+26,Australia,0.0299
+26,Canada,0.03056
+26,Japan,0.00871
+26,United States,0.02499
+27,Euro,0.01446
+27,Denmark,0.01772
+27,Norway,0.03069
+27,Sweden,0.028
+27,United Kingdom,0.01635
+27,Australia,0.02963
+27,Canada,0.0306
+27,Japan,0.00884
+27,United States,0.02469
+28,Euro,0.01491
+28,Denmark,0.0181
+28,Norway,0.03077
+28,Sweden,0.02823
+28,United Kingdom,0.01626
+28,Australia,0.0294
+28,Canada,0.03065
+28,Japan,0.00898
+28,United States,0.0244
+29,Euro,0.01537
+29,Denmark,0.01847
+29,Norway,0.03085
+29,Sweden,0.02845
+29,United Kingdom,0.01618
+29,Australia,0.0292
+29,Canada,0.0307
+29,Japan,0.00915
+29,United States,0.02416
+30,Euro,0.01582
+30,Denmark,0.01884
+30,Norway,0.03094
+30,Sweden,0.02865
+30,United Kingdom,0.01611
+30,Australia,0.02905
+30,Canada,0.03077
+30,Japan,0.00937
+30,United States,0.02398
+31,Euro,0.01626
+31,Denmark,0.01921
+31,Norway,0.03101
+31,Sweden,0.02884
+31,United Kingdom,0.01604
+31,Australia,0.02895
+31,Canada,0.03084
+31,Japan,0.00966
+31,United States,0.02387
+32,Euro,0.0167
+32,Denmark,0.01957
+32,Norway,0.03109
+32,Sweden,0.02901
+32,United Kingdom,0.01598
+32,Australia,0.02888
+32,Canada,0.03091
+32,Japan,0.01
+32,United States,0.02383
+33,Euro,0.01712
+33,Denmark,0.01992
+33,Norway,0.03116
+33,Sweden,0.02918
+33,United Kingdom,0.01591
+33,Australia,0.02884
+33,Canada,0.03097
+33,Japan,0.01037
+33,United States,0.02383
+34,Euro,0.01753
+34,Denmark,0.02026
+34,Norway,0.03124
+34,Sweden,0.02934
+34,United Kingdom,0.01584
+34,Australia,0.02883
+34,Canada,0.03104
+34,Japan,0.01076
+34,United States,0.02388
+35,Euro,0.01793
+35,Denmark,0.02059
+35,Norway,0.03131
+35,Sweden,0.02948
+35,United Kingdom,0.01576
+35,Australia,0.02884
+35,Canada,0.0311
+35,Japan,0.01118
+35,United States,0.02395
+36,Euro,0.01832
+36,Denmark,0.02091
+36,Norway,0.03137
+36,Sweden,0.02962
+36,United Kingdom,0.01567
+36,Australia,0.02886
+36,Canada,0.03117
+36,Japan,0.0116
+36,United States,0.02404
+37,Euro,0.0187
+37,Denmark,0.02123
+37,Norway,0.03144
+37,Sweden,0.02975
+37,United Kingdom,0.01557
+37,Australia,0.02889
+37,Canada,0.03123
+37,Japan,0.01203
+37,United States,0.02415
+38,Euro,0.01906
+38,Denmark,0.02153
+38,Norway,0.0315
+38,Sweden,0.02988
+38,United Kingdom,0.01546
+38,Australia,0.02894
+38,Canada,0.03129
+38,Japan,0.01246
+38,United States,0.02428
+39,Euro,0.01941
+39,Denmark,0.02182
+39,Norway,0.03157
+39,Sweden,0.03
+39,United Kingdom,0.01532
+39,Australia,0.02899
+39,Canada,0.03135
+39,Japan,0.01289
+39,United States,0.02441
+40,Euro,0.01975
+40,Denmark,0.0221
+40,Norway,0.03163
+40,Sweden,0.03011
+40,United Kingdom,0.01517
+40,Australia,0.02905
+40,Canada,0.03141
+40,Japan,0.01332
+40,United States,0.02456
+41,Euro,0.02008
+41,Denmark,0.02237
+41,Norway,0.03168
+41,Sweden,0.03022
+41,United Kingdom,0.01499
+41,Australia,0.02912
+41,Canada,0.03146
+41,Japan,0.01374
+41,United States,0.02471
+42,Euro,0.02039
+42,Denmark,0.02263
+42,Norway,0.03174
+42,Sweden,0.03032
+42,United Kingdom,0.01481
+42,Australia,0.02919
+42,Canada,0.03152
+42,Japan,0.01415
+42,United States,0.02486
+43,Euro,0.02069
+43,Denmark,0.02289
+43,Norway,0.03179
+43,Sweden,0.03041
+43,United Kingdom,0.01464
+43,Australia,0.02926
+43,Canada,0.03157
+43,Japan,0.01455
+43,United States,0.02501
+44,Euro,0.02098
+44,Denmark,0.02313
+44,Norway,0.03185
+44,Sweden,0.03051
+44,United Kingdom,0.01448
+44,Australia,0.02934
+44,Canada,0.03162
+44,Japan,0.01494
+44,United States,0.02517
+45,Euro,0.02127
+45,Denmark,0.02337
+45,Norway,0.0319
+45,Sweden,0.0306
+45,United Kingdom,0.01435
+45,Australia,0.02941
+45,Canada,0.03167
+45,Japan,0.01533
+45,United States,0.02533
+46,Euro,0.02154
+46,Denmark,0.02359
+46,Norway,0.03195
+46,Sweden,0.03068
+46,United Kingdom,0.01425
+46,Australia,0.02949
+46,Canada,0.03172
+46,Japan,0.0157
+46,United States,0.02548
+47,Euro,0.0218
+47,Denmark,0.02381
+47,Norway,0.03199
+47,Sweden,0.03076
+47,United Kingdom,0.01419
+47,Australia,0.02956
+47,Canada,0.03177
+47,Japan,0.01607
+47,United States,0.02563
+48,Euro,0.02205
+48,Denmark,0.02402
+48,Norway,0.03204
+48,Sweden,0.03084
+48,United Kingdom,0.01416
+48,Australia,0.02964
+48,Canada,0.03182
+48,Japan,0.01642
+48,United States,0.02578
+49,Euro,0.02229
+49,Denmark,0.02423
+49,Norway,0.03209
+49,Sweden,0.03091
+49,United Kingdom,0.01418
+49,Australia,0.02972
+49,Canada,0.03186
+49,Japan,0.01677
+49,United States,0.02593
+50,Euro,0.02253
+50,Denmark,0.02443
+50,Norway,0.03213
+50,Sweden,0.03099
+50,United Kingdom,0.01424
+50,Australia,0.02979
+50,Canada,0.03191
+50,Japan,0.0171
+50,United States,0.02608
+51,Euro,0.02276
+51,Denmark,0.02462
+51,Norway,0.03217
+51,Sweden,0.03105
+51,United Kingdom,0.01434
+51,Australia,0.02987
+51,Canada,0.03195
+51,Japan,0.01743
+51,United States,0.02622
+52,Euro,0.02297
+52,Denmark,0.0248
+52,Norway,0.03221
+52,Sweden,0.03112
+52,United Kingdom,0.01447
+52,Australia,0.02994
+52,Canada,0.03199
+52,Japan,0.01774
+52,United States,0.02636
+53,Euro,0.02319
+53,Denmark,0.02498
+53,Norway,0.03225
+53,Sweden,0.03118
+53,United Kingdom,0.01463
+53,Australia,0.03001
+53,Canada,0.03203
+53,Japan,0.01805
+53,United States,0.0265
+54,Euro,0.02339
+54,Denmark,0.02515
+54,Norway,0.03229
+54,Sweden,0.03125
+54,United Kingdom,0.01482
+54,Australia,0.03008
+54,Canada,0.03207
+54,Japan,0.01834
+54,United States,0.02663
+55,Euro,0.02359
+55,Denmark,0.02531
+55,Norway,0.03233
+55,Sweden,0.0313
+55,United Kingdom,0.01501
+55,Australia,0.03015
+55,Canada,0.03211
+55,Japan,0.01863
+55,United States,0.02676
+56,Euro,0.02378
+56,Denmark,0.02547
+56,Norway,0.03236
+56,Sweden,0.03136
+56,United Kingdom,0.01522
+56,Australia,0.03022
+56,Canada,0.03215
+56,Japan,0.01891
+56,United States,0.02689
+57,Euro,0.02396
+57,Denmark,0.02563
+57,Norway,0.0324
+57,Sweden,0.03142
+57,United Kingdom,0.01544
+57,Australia,0.03029
+57,Canada,0.03218
+57,Japan,0.01918
+57,United States,0.02701
+58,Euro,0.024140000000000002
+58,Denmark,0.02578
+58,Norway,0.03243
+58,Sweden,0.03147
+58,United Kingdom,0.01566
+58,Australia,0.03035
+58,Canada,0.03222
+58,Japan,0.01944
+58,United States,0.02713
+59,Euro,0.02431
+59,Denmark,0.02592
+59,Norway,0.03247
+59,Sweden,0.03152
+59,United Kingdom,0.01589
+59,Australia,0.03042
+59,Canada,0.03226
+59,Japan,0.0197
+59,United States,0.02725
+60,Euro,0.02448
+60,Denmark,0.02606
+60,Norway,0.0325
+60,Sweden,0.03157
+60,United Kingdom,0.01612
+60,Australia,0.03048
+60,Canada,0.03229
+60,Japan,0.01994
+60,United States,0.02736
+61,Euro,0.02464
+61,Denmark,0.0262
+61,Norway,0.03253
+61,Sweden,0.03162
+61,United Kingdom,0.01636
+61,Australia,0.03054
+61,Canada,0.03232
+61,Japan,0.02018
+61,United States,0.02747
+62,Euro,0.0248
+62,Denmark,0.02633
+62,Norway,0.03256
+62,Sweden,0.03166
+62,United Kingdom,0.01659
+62,Australia,0.0306
+62,Canada,0.03235
+62,Japan,0.02041
+62,United States,0.02758
+63,Euro,0.02495
+63,Denmark,0.02646
+63,Norway,0.03259
+63,Sweden,0.03171
+63,United Kingdom,0.01682
+63,Australia,0.03066
+63,Canada,0.03239
+63,Japan,0.02064
+63,United States,0.02769
+64,Euro,0.0251
+64,Denmark,0.02658
+64,Norway,0.03262
+64,Sweden,0.03175
+64,United Kingdom,0.01705
+64,Australia,0.03072
+64,Canada,0.03242
+64,Japan,0.02086
+64,United States,0.02779
+65,Euro,0.02524
+65,Denmark,0.0267
+65,Norway,0.03264
+65,Sweden,0.0318
+65,United Kingdom,0.01728
+65,Australia,0.03077
+65,Canada,0.03245
+65,Japan,0.02107
+65,United States,0.02789
+66,Euro,0.02538
+66,Denmark,0.02682
+66,Norway,0.03267
+66,Sweden,0.03184
+66,United Kingdom,0.01751
+66,Australia,0.03082
+66,Canada,0.03247
+66,Japan,0.02128
+66,United States,0.02799
+67,Euro,0.02552
+67,Denmark,0.02693
+67,Norway,0.0327
+67,Sweden,0.03188
+67,United Kingdom,0.01773
+67,Australia,0.03088
+67,Canada,0.0325
+67,Japan,0.02148
+67,United States,0.02808
+68,Euro,0.02565
+68,Denmark,0.02704
+68,Norway,0.03272
+68,Sweden,0.03191
+68,United Kingdom,0.01795
+68,Australia,0.03093
+68,Canada,0.03253
+68,Japan,0.02168
+68,United States,0.02817
+69,Euro,0.02577
+69,Denmark,0.02715
+69,Norway,0.03275
+69,Sweden,0.03195
+69,United Kingdom,0.01817
+69,Australia,0.03098
+69,Canada,0.03256
+69,Japan,0.02187
+69,United States,0.02826
+70,Euro,0.0259
+70,Denmark,0.02726
+70,Norway,0.03277
+70,Sweden,0.03199
+70,United Kingdom,0.01838
+70,Australia,0.03103
+70,Canada,0.03258
+70,Japan,0.02205
+70,United States,0.02835
+71,Euro,0.02602
+71,Denmark,0.02736
+71,Norway,0.0328
+71,Sweden,0.03202
+71,United Kingdom,0.01859
+71,Australia,0.03107
+71,Canada,0.03261
+71,Japan,0.02223
+71,United States,0.02844
+72,Euro,0.02613
+72,Denmark,0.02746
+72,Norway,0.03282
+72,Sweden,0.03206
+72,United Kingdom,0.0188
+72,Australia,0.03112
+72,Canada,0.03263
+72,Japan,0.02241
+72,United States,0.02852
+73,Euro,0.02625
+73,Denmark,0.02755
+73,Norway,0.03284
+73,Sweden,0.03209
+73,United Kingdom,0.019
+73,Australia,0.03117
+73,Canada,0.03266
+73,Japan,0.02258
+73,United States,0.0286
+74,Euro,0.02636
+74,Denmark,0.02765
+74,Norway,0.03286
+74,Sweden,0.03212
+74,United Kingdom,0.01919
+74,Australia,0.03121
+74,Canada,0.03268
+74,Japan,0.02274
+74,United States,0.02868
+75,Euro,0.02647
+75,Denmark,0.02774
+75,Norway,0.03289
+75,Sweden,0.03216
+75,United Kingdom,0.01939
+75,Australia,0.03125
+75,Canada,0.03271
+75,Japan,0.0229
+75,United States,0.02875
+76,Euro,0.02657
+76,Denmark,0.02782
+76,Norway,0.03291
+76,Sweden,0.03219
+76,United Kingdom,0.01958
+76,Australia,0.03129
+76,Canada,0.03273
+76,Japan,0.02306
+76,United States,0.02883
+77,Euro,0.02667
+77,Denmark,0.02791
+77,Norway,0.03293
+77,Sweden,0.03222
+77,United Kingdom,0.01976
+77,Australia,0.03134
+77,Canada,0.03275
+77,Japan,0.02321
+77,United States,0.0289
+78,Euro,0.02677
+78,Denmark,0.02799
+78,Norway,0.03295
+78,Sweden,0.03225
+78,United Kingdom,0.01994
+78,Australia,0.03138
+78,Canada,0.03277
+78,Japan,0.02336
+78,United States,0.02897
+79,Euro,0.02687
+79,Denmark,0.02808
+79,Norway,0.03297
+79,Sweden,0.03227
+79,United Kingdom,0.02012
+79,Australia,0.03141
+79,Canada,0.03279
+79,Japan,0.02351
+79,United States,0.02904
+80,Euro,0.02697
+80,Denmark,0.02816
+80,Norway,0.03298
+80,Sweden,0.0323
+80,United Kingdom,0.0203
+80,Australia,0.03145
+80,Canada,0.03281
+80,Japan,0.02365
+80,United States,0.02911
+81,Euro,0.02706
+81,Denmark,0.02823
+81,Norway,0.033
+81,Sweden,0.03233
+81,United Kingdom,0.02047
+81,Australia,0.03149
+81,Canada,0.03283
+81,Japan,0.02379
+81,United States,0.02918
+82,Euro,0.02715
+82,Denmark,0.02831
+82,Norway,0.03302
+82,Sweden,0.03236
+82,United Kingdom,0.02063
+82,Australia,0.03153
+82,Canada,0.03285
+82,Japan,0.02393
+82,United States,0.02924
+83,Euro,0.02724
+83,Denmark,0.02839
+83,Norway,0.03304
+83,Sweden,0.03238
+83,United Kingdom,0.0208
+83,Australia,0.03156
+83,Canada,0.03287
+83,Japan,0.02406
+83,United States,0.0293
+84,Euro,0.02732
+84,Denmark,0.02846
+84,Norway,0.03306
+84,Sweden,0.03241
+84,United Kingdom,0.02095
+84,Australia,0.0316
+84,Canada,0.03289
+84,Japan,0.02419
+84,United States,0.02937
+85,Euro,0.02741
+85,Denmark,0.02853
+85,Norway,0.03307
+85,Sweden,0.03243
+85,United Kingdom,0.02111
+85,Australia,0.03163
+85,Canada,0.03291
+85,Japan,0.02432
+85,United States,0.02943
+86,Euro,0.02749
+86,Denmark,0.0286
+86,Norway,0.03309
+86,Sweden,0.03246
+86,United Kingdom,0.02126
+86,Australia,0.03166
+86,Canada,0.03293
+86,Japan,0.02444
+86,United States,0.02948
+87,Euro,0.02757
+87,Denmark,0.02867
+87,Norway,0.03311
+87,Sweden,0.03248
+87,United Kingdom,0.02141
+87,Australia,0.0317
+87,Canada,0.03295
+87,Japan,0.02456
+87,United States,0.02954
+88,Euro,0.02765
+88,Denmark,0.02873
+88,Norway,0.03312
+88,Sweden,0.0325
+88,United Kingdom,0.02156
+88,Australia,0.03173
+88,Canada,0.03296
+88,Japan,0.02468
+88,United States,0.0296
+89,Euro,0.02773
+89,Denmark,0.0288
+89,Norway,0.03314
+89,Sweden,0.03252
+89,United Kingdom,0.0217
+89,Australia,0.03176
+89,Canada,0.03298
+89,Japan,0.02479
+89,United States,0.02965
+90,Euro,0.0278
+90,Denmark,0.02886
+90,Norway,0.03315
+90,Sweden,0.03255
+90,United Kingdom,0.02184
+90,Australia,0.03179
+90,Canada,0.033
+90,Japan,0.02491
+90,United States,0.02971
+91,Euro,0.02787
+91,Denmark,0.02892
+91,Norway,0.03317
+91,Sweden,0.03257
+91,United Kingdom,0.02198
+91,Australia,0.03182
+91,Canada,0.03301
+91,Japan,0.02502
+91,United States,0.029760000000000002
+92,Euro,0.02795
+92,Denmark,0.02898
+92,Norway,0.03318
+92,Sweden,0.03259
+92,United Kingdom,0.02211
+92,Australia,0.03185
+92,Canada,0.03303
+92,Japan,0.02512
+92,United States,0.02981
+93,Euro,0.02802
+93,Denmark,0.02904
+93,Norway,0.03319
+93,Sweden,0.03261
+93,United Kingdom,0.02224
+93,Australia,0.03188
+93,Canada,0.03304
+93,Japan,0.02523
+93,United States,0.02986
+94,Euro,0.02808
+94,Denmark,0.0291
+94,Norway,0.03321
+94,Sweden,0.03263
+94,United Kingdom,0.02237
+94,Australia,0.0319
+94,Canada,0.03306
+94,Japan,0.02533
+94,United States,0.02991
+95,Euro,0.02815
+95,Denmark,0.02916
+95,Norway,0.03322
+95,Sweden,0.03265
+95,United Kingdom,0.0225
+95,Australia,0.03193
+95,Canada,0.03307
+95,Japan,0.02543
+95,United States,0.02996
+96,Euro,0.02822
+96,Denmark,0.02921
+96,Norway,0.03324
+96,Sweden,0.03267
+96,United Kingdom,0.02262
+96,Australia,0.03196
+96,Canada,0.03309
+96,Japan,0.02553
+96,United States,0.03
+97,Euro,0.02828
+97,Denmark,0.02926
+97,Norway,0.03325
+97,Sweden,0.03269
+97,United Kingdom,0.02275
+97,Australia,0.03198
+97,Canada,0.0331
+97,Japan,0.02563
+97,United States,0.03005
+98,Euro,0.02835
+98,Denmark,0.02932
+98,Norway,0.03326
+98,Sweden,0.03271
+98,United Kingdom,0.02286
+98,Australia,0.03201
+98,Canada,0.03312
+98,Japan,0.02573
+98,United States,0.0301
+99,Euro,0.02841
+99,Denmark,0.02937
+99,Norway,0.03327
+99,Sweden,0.03272
+99,United Kingdom,0.02298
+99,Australia,0.03203
+99,Canada,0.03313
+99,Japan,0.02582
+99,United States,0.03014
+100,Euro,0.02847
+100,Denmark,0.02942
+100,Norway,0.03329
+100,Sweden,0.03274
+100,United Kingdom,0.02309
+100,Australia,0.03206
+100,Canada,0.03314
+100,Japan,0.02591
+100,United States,0.03018
+101,Euro,0.02853
+101,Denmark,0.02947
+101,Norway,0.0333
+101,Sweden,0.03276
+101,United Kingdom,0.02321
+101,Australia,0.03208
+101,Canada,0.03316
+101,Japan,0.026
+101,United States,0.03023
+102,Euro,0.02859
+102,Denmark,0.02952
+102,Norway,0.03331
+102,Sweden,0.03278
+102,United Kingdom,0.02332
+102,Australia,0.03211
+102,Canada,0.03317
+102,Japan,0.02609
+102,United States,0.03027
+103,Euro,0.02864
+103,Denmark,0.02957
+103,Norway,0.03332
+103,Sweden,0.03279
+103,United Kingdom,0.02342
+103,Australia,0.03213
+103,Canada,0.03318
+103,Japan,0.02617
+103,United States,0.03031
+104,Euro,0.0287
+104,Denmark,0.02962
+104,Norway,0.03333
+104,Sweden,0.03281
+104,United Kingdom,0.02353
+104,Australia,0.03215
+104,Canada,0.0332
+104,Japan,0.02626
+104,United States,0.03035
+105,Euro,0.02875
+105,Denmark,0.02966
+105,Norway,0.03334
+105,Sweden,0.03282
+105,United Kingdom,0.02363
+105,Australia,0.03217
+105,Canada,0.03321
+105,Japan,0.02634
+105,United States,0.03039
+106,Euro,0.02881
+106,Denmark,0.02971
+106,Norway,0.03335
+106,Sweden,0.03284
+106,United Kingdom,0.02374
+106,Australia,0.0322
+106,Canada,0.03322
+106,Japan,0.02642
+106,United States,0.03043
+107,Euro,0.02886
+107,Denmark,0.02975
+107,Norway,0.03336
+107,Sweden,0.03286
+107,United Kingdom,0.02384
+107,Australia,0.03222
+107,Canada,0.03323
+107,Japan,0.0265
+107,United States,0.03047
+108,Euro,0.02891
+108,Denmark,0.0298
+108,Norway,0.03338
+108,Sweden,0.03287
+108,United Kingdom,0.02393
+108,Australia,0.03224
+108,Canada,0.03324
+108,Japan,0.02658
+108,United States,0.0305
+109,Euro,0.02896
+109,Denmark,0.02984
+109,Norway,0.03339
+109,Sweden,0.03289
+109,United Kingdom,0.02403
+109,Australia,0.03226
+109,Canada,0.03326
+109,Japan,0.02666
+109,United States,0.03054
+110,Euro,0.02902
+110,Denmark,0.02988
+110,Norway,0.0334
+110,Sweden,0.0329
+110,United Kingdom,0.02412
+110,Australia,0.03228
+110,Canada,0.03327
+110,Japan,0.02673
+110,United States,0.03058
+111,Euro,0.02906
+111,Denmark,0.02992
+111,Norway,0.03341
+111,Sweden,0.03292
+111,United Kingdom,0.02422
+111,Australia,0.0323
+111,Canada,0.03328
+111,Japan,0.02681
+111,United States,0.03061
+112,Euro,0.02911
+112,Denmark,0.02996
+112,Norway,0.03342
+112,Sweden,0.03293
+112,United Kingdom,0.02431
+112,Australia,0.03232
+112,Canada,0.03329
+112,Japan,0.02688
+112,United States,0.03065
+113,Euro,0.02916
+113,Denmark,0.03
+113,Norway,0.03342
+113,Sweden,0.03294
+113,United Kingdom,0.0244
+113,Australia,0.03234
+113,Canada,0.0333
+113,Japan,0.026950000000000002
+113,United States,0.03068
+114,Euro,0.02921
+114,Denmark,0.03004
+114,Norway,0.03343
+114,Sweden,0.03296
+114,United Kingdom,0.02449
+114,Australia,0.03236
+114,Canada,0.03331
+114,Japan,0.02702
+114,United States,0.03071
+115,Euro,0.02925
+115,Denmark,0.03008
+115,Norway,0.03344
+115,Sweden,0.03297
+115,United Kingdom,0.02457
+115,Australia,0.03238
+115,Canada,0.03332
+115,Japan,0.02709
+115,United States,0.03075
+116,Euro,0.0293
+116,Denmark,0.03012
+116,Norway,0.03345
+116,Sweden,0.03298
+116,United Kingdom,0.02466
+116,Australia,0.03239
+116,Canada,0.03333
+116,Japan,0.02716
+116,United States,0.03078
+117,Euro,0.02934
+117,Denmark,0.03016
+117,Norway,0.03346
+117,Sweden,0.033
+117,United Kingdom,0.02474
+117,Australia,0.03241
+117,Canada,0.03334
+117,Japan,0.02723
+117,United States,0.03081
+118,Euro,0.02939
+118,Denmark,0.03019
+118,Norway,0.03347
+118,Sweden,0.03301
+118,United Kingdom,0.02482
+118,Australia,0.03243
+118,Canada,0.03335
+118,Japan,0.02729
+118,United States,0.03084
+119,Euro,0.02943
+119,Denmark,0.03023
+119,Norway,0.03348
+119,Sweden,0.03302
+119,United Kingdom,0.02491
+119,Australia,0.03245
+119,Canada,0.03336
+119,Japan,0.02736
+119,United States,0.03087
+120,Euro,0.02947
+120,Denmark,0.03027
+120,Norway,0.03349
+120,Sweden,0.03303
+120,United Kingdom,0.02499
+120,Australia,0.03246
+120,Canada,0.03337
+120,Japan,0.02742
+120,United States,0.0309
+121,Euro,0.02951
+121,Denmark,0.0303
+121,Norway,0.0335
+121,Sweden,0.03305
+121,United Kingdom,0.02506
+121,Australia,0.03248
+121,Canada,0.03338
+121,Japan,0.02748
+121,United States,0.03093
+122,Euro,0.02955
+122,Denmark,0.03034
+122,Norway,0.0335
+122,Sweden,0.03306
+122,United Kingdom,0.02514
+122,Australia,0.0325
+122,Canada,0.03339
+122,Japan,0.02754
+122,United States,0.03096
+123,Euro,0.02959
+123,Denmark,0.03037
+123,Norway,0.03351
+123,Sweden,0.03307
+123,United Kingdom,0.02522
+123,Australia,0.03251
+123,Canada,0.0334
+123,Japan,0.0276
+123,United States,0.03099
+124,Euro,0.02963
+124,Denmark,0.0304
+124,Norway,0.03352
+124,Sweden,0.03308
+124,United Kingdom,0.02529
+124,Australia,0.03253
+124,Canada,0.03341
+124,Japan,0.02766
+124,United States,0.03102
+125,Euro,0.02967
+125,Denmark,0.03044
+125,Norway,0.03353
+125,Sweden,0.03309
+125,United Kingdom,0.02536
+125,Australia,0.03255
+125,Canada,0.03341
+125,Japan,0.02772
+125,United States,0.03105
+126,Euro,0.02971
+126,Denmark,0.03047
+126,Norway,0.03354
+126,Sweden,0.0331
+126,United Kingdom,0.02544
+126,Australia,0.03256
+126,Canada,0.03342
+126,Japan,0.02778
+126,United States,0.03107
+127,Euro,0.02975
+127,Denmark,0.0305
+127,Norway,0.03354
+127,Sweden,0.03311
+127,United Kingdom,0.02551
+127,Australia,0.03258
+127,Canada,0.03343
+127,Japan,0.02784
+127,United States,0.0311
+128,Euro,0.02978
+128,Denmark,0.03053
+128,Norway,0.03355
+128,Sweden,0.03313
+128,United Kingdom,0.02558
+128,Australia,0.03259
+128,Canada,0.03344
+128,Japan,0.02789
+128,United States,0.03113
+129,Euro,0.02982
+129,Denmark,0.03056
+129,Norway,0.03356
+129,Sweden,0.03314
+129,United Kingdom,0.02565
+129,Australia,0.03261
+129,Canada,0.03345
+129,Japan,0.02795
+129,United States,0.03115
+130,Euro,0.02986
+130,Denmark,0.03059
+130,Norway,0.03357
+130,Sweden,0.03315
+130,United Kingdom,0.02571
+130,Australia,0.03262
+130,Canada,0.03346
+130,Japan,0.028
+130,United States,0.03118
+131,Euro,0.02989
+131,Denmark,0.03062
+131,Norway,0.03357
+131,Sweden,0.03316
+131,United Kingdom,0.02578
+131,Australia,0.03264
+131,Canada,0.03346
+131,Japan,0.02805
+131,United States,0.0312
+132,Euro,0.02993
+132,Denmark,0.03065
+132,Norway,0.03358
+132,Sweden,0.03317
+132,United Kingdom,0.02585
+132,Australia,0.03265
+132,Canada,0.03347
+132,Japan,0.02811
+132,United States,0.03123
+133,Euro,0.02996
+133,Denmark,0.03068
+133,Norway,0.03359
+133,Sweden,0.03318
+133,United Kingdom,0.02591
+133,Australia,0.03266
+133,Canada,0.03348
+133,Japan,0.02816
+133,United States,0.03125
+134,Euro,0.03
+134,Denmark,0.03071
+134,Norway,0.03359
+134,Sweden,0.03319
+134,United Kingdom,0.02597
+134,Australia,0.03268
+134,Canada,0.03349
+134,Japan,0.02821
+134,United States,0.03128
+135,Euro,0.03003
+135,Denmark,0.03074
+135,Norway,0.0336
+135,Sweden,0.0332
+135,United Kingdom,0.02604
+135,Australia,0.03269
+135,Canada,0.03349
+135,Japan,0.02826
+135,United States,0.0313
+136,Euro,0.03006
+136,Denmark,0.03076
+136,Norway,0.03361
+136,Sweden,0.03321
+136,United Kingdom,0.0261
+136,Australia,0.0327
+136,Canada,0.0335
+136,Japan,0.02831
+136,United States,0.03132
+137,Euro,0.03009
+137,Denmark,0.03079
+137,Norway,0.03361
+137,Sweden,0.03322
+137,United Kingdom,0.02616
+137,Australia,0.03272
+137,Canada,0.03351
+137,Japan,0.02836
+137,United States,0.03135
+138,Euro,0.03013
+138,Denmark,0.03082
+138,Norway,0.03362
+138,Sweden,0.03323
+138,United Kingdom,0.02622
+138,Australia,0.03273
+138,Canada,0.03352
+138,Japan,0.02841
+138,United States,0.03137
+139,Euro,0.03016
+139,Denmark,0.03084
+139,Norway,0.03363
+139,Sweden,0.03323
+139,United Kingdom,0.02628
+139,Australia,0.03274
+139,Canada,0.03352
+139,Japan,0.02845
+139,United States,0.03139
+140,Euro,0.03019
+140,Denmark,0.03087
+140,Norway,0.03363
+140,Sweden,0.03324
+140,United Kingdom,0.02634
+140,Australia,0.03276
+140,Canada,0.03353
+140,Japan,0.0285
+140,United States,0.03142
+141,Euro,0.03022
+141,Denmark,0.0309
+141,Norway,0.03364
+141,Sweden,0.03325
+141,United Kingdom,0.0264
+141,Australia,0.03277
+141,Canada,0.03354
+141,Japan,0.02855
+141,United States,0.03144
+142,Euro,0.03025
+142,Denmark,0.03092
+142,Norway,0.03364
+142,Sweden,0.03326
+142,United Kingdom,0.02645
+142,Australia,0.03278
+142,Canada,0.03354
+142,Japan,0.02859
+142,United States,0.03146
+143,Euro,0.03028
+143,Denmark,0.03095
+143,Norway,0.03365
+143,Sweden,0.03327
+143,United Kingdom,0.02651
+143,Australia,0.03279
+143,Canada,0.03355
+143,Japan,0.02864
+143,United States,0.03148
+144,Euro,0.03031
+144,Denmark,0.03097
+144,Norway,0.03366
+144,Sweden,0.03328
+144,United Kingdom,0.02656
+144,Australia,0.0328
+144,Canada,0.03356
+144,Japan,0.02868
+144,United States,0.0315
+145,Euro,0.03034
+145,Denmark,0.03099
+145,Norway,0.03366
+145,Sweden,0.03329
+145,United Kingdom,0.02662
+145,Australia,0.03282
+145,Canada,0.03356
+145,Japan,0.02872
+145,United States,0.03152
+146,Euro,0.03036
+146,Denmark,0.03102
+146,Norway,0.03367
+146,Sweden,0.0333
+146,United Kingdom,0.02667
+146,Australia,0.03283
+146,Canada,0.03357
+146,Japan,0.02877
+146,United States,0.03154
+147,Euro,0.03039
+147,Denmark,0.03104
+147,Norway,0.03367
+147,Sweden,0.0333
+147,United Kingdom,0.02673
+147,Australia,0.03284
+147,Canada,0.03358
+147,Japan,0.02881
+147,United States,0.03156
+148,Euro,0.03042
+148,Denmark,0.03107
+148,Norway,0.03368
+148,Sweden,0.03331
+148,United Kingdom,0.02678
+148,Australia,0.03285
+148,Canada,0.03358
+148,Japan,0.02885
+148,United States,0.03158
+149,Euro,0.03045
+149,Denmark,0.03109
+149,Norway,0.03368
+149,Sweden,0.03332
+149,United Kingdom,0.02683
+149,Australia,0.03286
+149,Canada,0.03359
+149,Japan,0.02889
+149,United States,0.0316
+150,Euro,0.03047
+150,Denmark,0.03111
+150,Norway,0.03369
+150,Sweden,0.03333
+150,United Kingdom,0.02688
+150,Australia,0.03287
+150,Canada,0.0336
+150,Japan,0.02893
+150,United States,0.03162
